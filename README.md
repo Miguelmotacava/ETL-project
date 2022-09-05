@@ -1,6 +1,6 @@
 # ETL-project
 
-The main goal of this project is to create a database of the players of the videogame FIFA 22. In order to do that, we are going to follow the ETL process.
+The main goal of this project is to create a database of the players of the videogame FIFA 22. In order to do that, we are going to follow the ETL process:
 
 
 -*EXTRACT*:
