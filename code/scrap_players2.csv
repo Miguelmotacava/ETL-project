@@ -1,0 +1,6215 @@
+ names equipos
+0 "19
+ L. Marković
+RM RW" Fulham
+1 "O. Popescu
+LW RW CM" "FCSB (Steaua)"
+2 "Antony
+RW" Ajax
+3 "N. Lang
+LW RW ST" "Club Brugge KV"
+4 "Rafael Leão
+LW ST LM" "AC Milan"
+5 "E. Haaland
+ST" "Borussia Dortmund"
+6 "I. Touré
+CB" "Le Havre AC"
+7 "T. Malacia
+LB" Feyenoord
+8 "Gavi
+CM LW RW" "FC Barcelona"
+9 "L. Martínez
+CB LB CDM" Ajax
+10 "R. Højlund
+ST" "SK Sturm Graz"
+11 "Vitinha
+CM CAM" "FC Porto"
+12 "A. Tchouaméni
+CM CDM" "AS Monaco"
+13 "C. De Ketelaere
+ST LW CAM" "Club Brugge KV"
+14 "J. Gvardiol
+CB LB" "RB Leipzig"
+15 "H. Badstuber
+CB" "FC Luzern"
+16 "Cristiano Ronaldo
+ST" "Manchester United"
+17 "O. Wijndal
+LB" "AZ Alkmaar"
+18 "B. Šeško
+ST" "FC Red Bull Salzburg"
+19 "N. Mbamba
+CB CDM" "Club Brugge KV"
+20 "L. Messi
+RW ST CF" "Paris Saint-Germain"
+21 "J. Álvarez
+ST RW LW" "River Plate"
+22 "J. Siebatcheu
+ST" "BSC Young Boys"
+23 "C. Eriksen
+CM CAM" Brentford
+24 "M. Ødegaard
+CAM CM" Arsenal
+25 "Diogo Dalot
+RB" "Manchester United"
+26 "E. Álvarez
+CDM" Ajax
+27 "Y. Moukoko
+ST" "Borussia Dortmund"
+28 "J. Timber
+CB RB" Ajax
+29 "K. Adeyemi
+ST" "FC Red Bull Salzburg"
+30 "A. Mitrović
+ST" Fulham
+31 "K. Mbappé
+ST LW" "Paris Saint-Germain"
+32 "J. Sancho
+LW RW LM" "Manchester United"
+33 "K. Asllani
+CDM CM" Empoli
+34 "M. Maignan
+GK" "AC Milan"
+35 "R. Gravenberch
+CM" Ajax
+36 "D. Vlahović
+ST" Juventus
+37 "E. Camavinga
+CM CDM" "Real Madrid CF"
+38 "Pedri
+CM" "FC Barcelona"
+39 "Nico Williams
+RM LM" "Athletic Club de Bilbao"
+40 "F. Wirtz
+CAM CM" "Bayer 04 Leverkusen"
+41 "R. Lavia
+CDM" "Manchester City"
+42 "Richarlison
+ST LW" Everton
+43 "X. Simons
+CF CM" "Paris Saint-Germain"
+44 "João Pedro
+ST LM" Watford
+45 "Álex Balde
+LB" "FC Barcelona"
+46 "Z. Çelik
+RB" "LOSC Lille"
+47 "D. Frattesi
+CM CDM" "U.S. Sassuolo Calcio"
+48 "E. Fernández
+CM CDM" "River Plate"
+49 "S. Boey
+RB LB" "Galatasaray SK"
+50 "F. Carvalho
+CAM CM RM" Fulham
+51 "Raphinha
+RM RW" "Leeds United"
+52 "N. Rovella
+CM CDM" Genoa
+53 "D. Rensch
+RB LB" Ajax
+54 "A. Mac Allister
+CAM CM" "Brighton & Hove Albion"
+55 "N. Madueke
+RM" PSV
+56 "A. Elanga
+RW LW RM" "Manchester United"
+57 "Gabriel Jesus
+RW ST" "Manchester City"
+58 "Renato Sanches
+CM RM" "LOSC Lille"
+59 "C. Nkunku
+CAM CF ST" "RB Leipzig"
+60 "W. Zaha
+LW CF" "Crystal Palace"
+61 "K. Ayhan
+CB" "U.S. Sassuolo Calcio"
+62 "D. Zakaria
+CDM CB" Juventus
+63 "Gabriel Jesus
+RW ST" "Manchester City"
+64 "Renato Sanches
+CM RM" "LOSC Lille"
+65 "Arthur
+CM" Juventus
+66 "A. Davies
+LB LM" "FC Bayern München"
+67 "N. Zaniolo
+CF RW RM" Roma
+68 "J. David
+ST" "LOSC Lille"
+69 "Gabriel Martinelli
+LM" Arsenal
+70 "C. Ramsay
+RB" Aberdeen
+71 "D. Núñez
+ST LW" "SL Benfica"
+72 "Alejandro Garnacho
+LM LW RM" "Manchester United"
+73 "G. Bale
+RW RM" "Los Angeles FC"
+74 "M. Icardi
+ST" "Paris Saint-Germain"
+75 "I. Toney
+ST" Brentford
+76 "M. Rashford
+LW RW ST" "Manchester United"
+77 "Vinícius Jr.
+LW" "Real Madrid CF"
+78 "J. Bellingham
+CM LM" "Borussia Dortmund"
+79 "Gonçalo Ramos
+ST CF" "SL Benfica"
+80 "L. Suárez
+ST" "Atlético de Madrid"
+81 "Héctor Bellerín
+RB" "Real Betis Balompié"
+82 "E. Can
+CM CB CDM" "Borussia Dortmund"
+83 "Bruno Fernandes
+CAM CM" "Manchester United"
+84 "F. Kessié
+CDM CM CAM" "AC Milan"
+85 "M. de Ligt
+CB" Juventus
+86 "F. Valverde
+CM RW RM" "Real Madrid CF"
+87 "A. Vranckx
+CM CDM" "VfL Wolfsburg"
+88 "G. Raspadori
+ST LW" "U.S. Sassuolo Calcio"
+89 "Ansu Fati
+LW" "FC Barcelona"
+90 "A. Broja
+ST" Southampton
+91 "J. Musiala
+LM CAM CM" "FC Bayern München"
+92 "A. Zakharyan
+LW RW CM" Russia
+93 "Neymar Jr
+LW CAM" "Paris Saint-Germain"
+94 "K. De Bruyne
+CM CAM" "Manchester City"
+95 "A. Griezmann
+ST CF RW" "Atlético de Madrid"
+96 "P. Pogba
+CM LM CDM" "Manchester United"
+97 "K. Havertz
+CAM CF ST" Chelsea
+98 "D. Zagadou
+CB" "Borussia Dortmund"
+99 "Cucurella
+LB LM LWB" "Brighton & Hove Albion"
+100 "S. Kalajdžić
+ST" "VfB Stuttgart"
+101 "Ferran Torres
+RW LW ST" "FC Barcelona"
+102 "Sergio Gómez
+LB RM LM" "RSC Anderlecht"
+103 "João Félix
+CF ST" "Atlético de Madrid"
+104 "N. Williams
+RB" Fulham
+105 "H. Elliott
+CAM CM RW" Liverpool
+106 "T. Nianzou
+CB CDM" "FC Bayern München"
+107 "M. Cho
+ST" "Angers SCO"
+108 "W. Gnonto
+ST LM" "FC Zürich"
+109 "Kayky
+RW" "Manchester City"
+110 "T. Abraham
+ST" Roma
+111 "Carlos Soler
+CM RM CDM" "Valencia CF"
+112 "N. Mazraoui
+RB" Ajax
+113 "R. James
+RWB RB" Chelsea
+114 "Bremer
+CB" "Torino F.C."
+115 "J. Koundé
+CB RB" "Sevilla FC"
+116 "Rodrygo
+RW LW" "Real Madrid CF"
+117 "K. Thuram
+CM CDM" "OGC Nice"
+118 "S. Dest
+RB RM LB" "FC Barcelona"
+119 "Y. Musah
+RM CM LM" "Valencia CF"
+120 "A. Sánchez
+CF ST" Inter
+121 "Neymar Jr
+LW CAM" "Paris Saint-Germain"
+122 "F. de Jong
+CM" "FC Barcelona"
+123 "T. Abraham
+ST" Roma
+124 "K. Benzema
+CF ST" "Real Madrid CF"
+125 "Marcelo
+LB" "Real Madrid CF"
+126 "P. Jones
+CB" "Manchester United"
+127 "R. Barkley
+CAM CM" Chelsea
+128 "Rafinha
+CM CAM" "Real Sociedad"
+129 "M. Depay
+CF ST LW" "FC Barcelona"
+130 "H. Maguire
+CB" "Manchester United"
+131 "Y. Tielemans
+CM CDM" "Leicester City"
+132 "M. Normann
+CDM CM" "Norwich City"
+133 "I. Bennacer
+CDM CM" "AC Milan"
+134 "Diogo Costa
+GK" "FC Porto"
+135 "S. Szymański
+CAM LM" Poland
+136 "E. Ndicka
+CB" "Eintracht Frankfurt"
+137 "Y. Bissouma
+CDM CM" "Brighton & Hove Albion"
+138 "D. Szoboszlai
+CAM LM" "RB Leipzig"
+139 "Éder Militão
+CB" "Real Madrid CF"
+140 "N. Vlašić
+LM CAM" "West Ham United"
+141 "M. Vandevoordt
+GK" "KRC Genk"
+142 "A. Gordon
+LM RM" Everton
+143 "S. Diop
+LM CAM RM" "AS Monaco"
+144 "Emerson Royal
+RWB RB" "Tottenham Hotspur"
+145 "Bruno Guimarães
+CM CDM" "Newcastle United"
+146 "W. Fofana
+CB" "Leicester City"
+147 "B. Duncan
+ST" "Derby County"
+148 "R. Araujo
+CB RB" "FC Barcelona"
+149 "H. Ekitike
+ST LM" "Stade de Reims"
+150 "L. Romero
+CAM RW LW" Lazio
+151 "L. Sučić
+CAM CM RM" "FC Red Bull Salzburg"
+152 "M. Gusto
+RB" "Olympique Lyonnais"
+153 "C. Chukwuemeka
+CAM CM" "Aston Villa"
+154 "D. Udogie
+LWB LM LB" "Udinese Calcio"
+155 "D. Scarlett
+ST" "Tottenham Hotspur"
+156 "Francisco Conceição
+RM" "FC Porto"
+157 "A. Isak
+ST" "Real Sociedad"
+158 "Lucas Paquetá
+CAM CM CF" "Olympique Lyonnais"
+159 "D. Rice
+CDM" "West Ham United"
+160 "A. Hakimi
+RB RWB" "Paris Saint-Germain"
+161 "Kim Min Jae
+CB" "Fenerbahçe SK"
+162 "D. Man
+RW ST" Parma
+163 "N. De la Cruz
+CM CAM LW" "River Plate"
+164 "A. Gouiri
+ST LM" "OGC Nice"
+165 "R. Aït Nouri
+LWB LB" "Wolverhampton Wanderers"
+166 "M. Simakan
+CB RB" "RB Leipzig"
+167 "M. Mudryk
+LM CAM" "Shakhtar Donetsk"
+168 "A. Hložek
+CAM LM ST" "AC Sparta Praha"
+169 "B. Saka
+RM LM" Arsenal
+170 "L. Stergiou
+CB" "FC St. Gallen 1879"
+171 "B. Aaronson
+CAM CM" "FC Red Bull Salzburg"
+172 "A. Bella Kotchap
+CB" "VfL Bochum 1848"
+173 "A. Velasco
+LM LW CAM" "FC Dallas"
+174 "S. Ricci
+CM CDM" "Torino F.C."
+175 "M. Caicedo
+CM" "Brighton & Hove Albion"
+176 "F. Farías
+ST CF" "Club Atlético Colón"
+177 "Fábio Vieira
+CAM RM" "FC Porto"
+178 "A. Karabec
+CAM CM LM" "AC Sparta Praha"
+179 "A. Virginius
+RM" "FC Sochaux-Montbéliard"
+180 "T. Huddlestone
+CDM" "Hull City"
+181 "21
+ Diego Costa
+ST" "Atlético de Madrid"
+182 "T. Alderweireld
+CB" Belgium
+183 "İ. Gündoğan
+CM CDM" "Manchester City"
+184 "R. Jiménez
+ST" "Wolverhampton Wanderers"
+185 "L. Paredes
+CDM CM" "Paris Saint-Germain"
+186 "Grimaldo
+LB LWB LM" "SL Benfica"
+187 "P. Dybala
+CF RW" Juventus
+188 "17
+ H. Mastour
+CAM CF" "PEC Zwolle"
+189 "Rafa
+RM CF LM" "SL Benfica"
+190 "C. Lenglet
+CB" "FC Barcelona"
+191 "Marcos Llorente
+CM RM RB" "Atlético de Madrid"
+192 "G. Scamacca
+ST" "U.S. Sassuolo Calcio"
+193 "O. Dembélé
+RW" "FC Barcelona"
+194 "Rodri
+CDM" "Manchester City"
+195 "F. Tomori
+CB" "AC Milan"
+196 "T. Tomiyasu
+RB" Arsenal
+197 "R. Varane
+CB" "Manchester United"
+198 "H. Kane
+ST" "Tottenham Hotspur"
+199 "V. van Dijk
+CB" Liverpool
+200 "J. Grealish
+LW LM CAM" "Manchester City"
+201 "Andreas Pereira
+CAM RM" "Manchester United"
+202 "K. Mbabu
+RB" "VfL Wolfsburg"
+203 "D. Berardi
+RM RW" "U.S. Sassuolo Calcio"
+204 "A. Saint-Maximin
+LM ST" "Newcastle United"
+205 "Bernardo Silva
+CAM CM" "Manchester City"
+206 "Mariano
+ST" "Real Madrid CF"
+207 "D. Ćaleta-Car
+CB" "Olympique de Marseille"
+208 "M. Thuram
+LM ST" "Borussia Mönchengladbach"
+209 "A. Wan-Bissaka
+RB" "Manchester United"
+210 "B. White
+CB" Arsenal
+211 "F. Chiesa
+RW LW RM" Juventus
+212 "R. Sessegnon
+LWB LB LW" "Tottenham Hotspur"
+213 "D. Raum
+LWB LM LB" "TSG Hoffenheim"
+214 "Kim Min Jae
+CB" "Fenerbahçe SK"
+215 "S. McTominay
+CDM CM" "Manchester United"
+216 "P. Foden
+LW CF CAM" "Manchester City"
+217 "C. Gakpo
+LM ST" PSV
+218 "G. Bazunu
+GK" Portsmouth
+219 "M. Lacroix
+CB" "VfL Wolfsburg"
+220 "Vinícius
+ST" PSV
+221 "Sancet
+ST CAM" "Athletic Club de Bilbao"
+222 "G. Reyna
+CAM RM LM" "Borussia Dortmund"
+223 "B. Dia
+ST RW" "Villarreal CF"
+224 "M. Daramy
+LW ST" Ajax
+225 "M. Solomon
+LM RM CAM" "Shakhtar Donetsk"
+226 "A. Bernabei
+LB LW LM" "Club Atlético Lanús"
+227 "G. Slonina
+GK" "Chicago Fire Football Club"
+228 "R. Cherki
+RM" "Olympique Lyonnais"
+229 "Y. Demir
+RW CAM" "SK Rapid Wien"
+230 "Nuno Mendes
+LB LWB" "Paris Saint-Germain"
+231 "K. Taylor
+CM" Ajax
+232 "Nico González
+CM" "FC Barcelona"
+233 "K. Sulemana
+LM ST" "Stade Rennais FC"
+234 "Evanilson
+ST" "FC Porto"
+235 "Gonçalo Inácio
+CB" "Sporting CP"
+236 "A. Virginius
+RM" "FC Sochaux-Montbéliard"
+237 "A. Schjelderup
+CAM LW ST" "FC Nordsjælland"
+238 "T. Livramento
+RB RWB" Southampton
+239 "C. Lukeba
+CB" "Olympique Lyonnais"
+240 "P. Aubameyang
+ST" "FC Barcelona"
+241 "Thiago
+CM CDM" Liverpool
+242 "D. Sidibé
+RB CB" "AS Monaco"
+243 "R. Varane
+CB" "Manchester United"
+244 "H. Ziyech
+RW CAM" Chelsea
+245 "João Cancelo
+LB RB" "Manchester City"
+246 "J. Denayer
+CB" "Olympique Lyonnais"
+247 "Marco Asensio
+RW" "Real Madrid CF"
+248 "D. van de Beek
+CM CDM CAM" Everton
+249 "L. Klostermann
+CB RB" "RB Leipzig"
+250 "H. Winks
+CM CDM" "Tottenham Hotspur"
+251 "Dani Ceballos
+CM CDM" "Real Madrid CF"
+252 "B. Godfrey
+CB LB" Everton
+253 "O. Boscagli
+CB LB CDM" PSV
+254 "N. Mukiele
+RB CB RM" "RB Leipzig"
+255 "M. Rashica
+LM ST" "Norwich City"
+256 "T. Alexander-Arnold
+RB" Liverpool
+257 "Toni Lato
+LB LWB LM" "Valencia CF"
+258 "Ç. Söyüncü
+CB" "Leicester City"
+259 "L. Jović
+ST" "Real Madrid CF"
+260 "J. Sánchez
+RB" "Club América"
+261 "E. Barco
+LM ST" "River Plate"
+262 "Luiz Felipe
+CB" Lazio
+263 "Douglas Luiz
+CDM CM" "Aston Villa"
+264 "M. Kean
+ST" Juventus
+265 "G. Berterame
+ST RM" "Club Atlético de San Luis"
+266 "A. Bastoni
+CB" Inter
+267 "R. Kolo Muani
+ST RM" "FC Nantes"
+268 "Rúben Dias
+CB" "Manchester City"
+269 "M. Aarons
+RB RWB" "Norwich City"
+270 "Matheus Cunha
+ST CAM LM" "Atlético de Madrid"
+271 "E. Smith Rowe
+LM CAM" Arsenal
+272 "R. Baku
+RM RB CM" "VfL Wolfsburg"
+273 "Pedro Gonçalves
+RW LW CF" "Sporting CP"
+274 "L. Geertruida
+RB CB" Feyenoord
+275 "T. Weah
+RM LM ST" "LOSC Lille"
+276 "G. Busio
+CM CDM" "Venezia FC"
+277 "T. Lamptey
+RWB RB" "Brighton & Hove Albion"
+278 "Riqui Puig
+CM" "FC Barcelona"
+279 "D. Spence
+RWB RB RM" "Nottingham Forest"
+280 "Dani Olmo
+CAM CF" "RB Leipzig"
+281 "Silas
+RM LM ST" "VfB Stuttgart"
+282 "L. Traoré
+ST" "Shakhtar Donetsk"
+283 "E. Tapsoba
+CB" "Bayer 04 Leverkusen"
+284 "C. Cowell
+LM ST RM" "San Jose Earthquakes"
+285 "F. Balogun
+ST" Middlesbrough
+286 "S. Esposito
+CAM ST" "FC Basel 1893"
+287 "K. Koné
+CM" "Borussia Mönchengladbach"
+288 "Nuno Tavares
+LB" Arsenal
+289 "Y. Demir
+RW CAM" "SK Rapid Wien"
+290 "R. Yılmaz
+LB" "Beşiktaş JK"
+291 "Talles Magno
+LM CF" "New York City FC"
+292 "P. Hincapié
+CB LB" "Bayer 04 Leverkusen"
+293 "L. Netz
+LWB LM" "Borussia Mönchengladbach"
+294 "C. Palmer
+RW CAM CF" "Manchester City"
+295 "T. Nakai
+CAM" "Real Madrid CF"
+296 "H. Siquet
+RB RWB" "Sport-Club Freiburg"
+297 "K. Gordon
+RW LW" Liverpool
+298 "S. Biuk
+LM LW" "Hajduk Split"
+299 "Cristhian Mosquera
+CB" "Valencia CF"
+300 "Jesús Navas
+RB RW" "Sevilla FC"
+301 "E. Hazard
+LW" "Real Madrid CF"
+302 "Sergio Busquets
+CDM" "FC Barcelona"
+303 "Marcos Alonso
+LWB LB" Chelsea
+304 "J. Tavernier
+RB" "Rangers FC"
+305 "L. Insigne
+LW CF LM" "Toronto FC"
+306 "D. Tadić
+LW" Ajax
+307 "M. Verratti
+CM CAM" "Paris Saint-Germain"
+308 "T. Hazard
+LM CF" "Borussia Dortmund"
+309 "R. Mahrez
+RW RM" "Manchester City"
+310 "J. Ward-Prowse
+CM" Southampton
+311 "M. Kovačić
+CM" Chelsea
+312 "A. Januzaj
+RW LW" "Real Sociedad"
+313 "H. Ziyech
+RW CAM" Chelsea
+314 "Oyarzabal
+LW RW" "Real Sociedad"
+315 "E. Mor
+RM ST RW" "Fatih Karagümrük S.K."
+316 "Gabriel
+CB" Arsenal
+317 "T. Hernández
+LB" "AC Milan"
+318 "D. Kamada
+CAM CF" "Eintracht Frankfurt"
+319 "N. Molina
+RWB RM RB" "Udinese Calcio"
+320 "D. Dumfries
+RWB RB RM" Inter
+321 "A. Vega
+LW ST LM" "Club Deportivo Guadalajara"
+322 "B. Brereton Díaz
+ST LW" "Blackburn Rovers"
+323 "O. Mangala
+CM CDM" "VfB Stuttgart"
+324 "J. Ikoné
+RW RM" Fiorentina
+325 "F. Neuhaus
+CM" "Borussia Mönchengladbach"
+326 "G. Kobel
+GK" "Borussia Dortmund"
+327 "A. Danjuma
+LM ST" "Villarreal CF"
+328 "A. Caci
+LWB LB CB" "RC Strasbourg Alsace"
+329 "J. Clauss
+RWB" "Racing Club de Lens"
+330 "Danilo
+ST" Ajax
+331 "M. O'Riley
+CM CAM" Celtic
+332 "Pau Torres
+CB" "Villarreal CF"
+333 "R. Matondo
+LM RW ST" "KSV Cercle Brugge"
+334 "W. Saliba
+CB" "Olympique de Marseille"
+335 "D. Ballard
+CB" Millwall
+336 "21
+ N. Simon
+CM" "FC St. Gallen 1879"
+337 "T. Almada
+CAM LW RW" "Atlanta United"
+338 "K. Furuhashi
+ST LW" Celtic
+339 "B. Gilmour
+CM CDM" "Norwich City"
+340 "P. De la Vega
+RW LW RM" "Club Atlético Lanús"
+341 "J. Gelhardt
+ST CAM" "Leeds United"
+342 "M. Caqueret
+CDM CM" "Olympique Lyonnais"
+343 "J. Branthwaite
+CB" Everton
+344 "M. Olise
+CAM RM RW" "Crystal Palace"
+345 "J. Dina Ebimbe
+CM RM" "Paris Saint-Germain"
+346 "S. Botman
+CB" "LOSC Lille"
+347 "K. Kozłowski
+CAM CM" "Royale Union Saint-Gilloise"
+348 "E. Anderson
+CAM CM LW" "Bristol Rovers"
+349 "A. Mighten
+LW LM CAM" "Nottingham Forest"
+350 "J. Stansfield
+ST" Fulham
+351 "Joelson Fernandes
+RM LM" "FC Basel 1893"
+352 "Morato
+CB" "SL Benfica"
+353 "J. Šutalo
+CB" "Dinamo Zagreb"
+354 "T. Corbeanu
+RW LW" "Milton Keynes Dons"
+355 "Arnau Tenas
+GK" "FC Barcelona"
+356 "L. Colwill
+CB" "Huddersfield Town"
+357 "T. Çukur
+ST" Watford
+358 "A. Güler
+CAM CM RW" "Fenerbahçe SK"
+359 "A. Ezzalzouli
+LW RW" "FC Barcelona"
+360 "13
+ V. Iaquinta
+ST" Juventus
+361 "Z. Ibrahimović
+ST" "AC Milan"
+362 "20
+ D. De Rossi
+CDM" "Boca Juniors"
+363 "18
+ Kaká
+CAM CF" Brazil
+364 "Dani Alves
+RB CM RM" "FC Barcelona"
+365 "Piqué
+CB" "FC Barcelona"
+366 "D. Mertens
+CF ST CAM" Napoli
+367 "Yeom Ki Hun
+CM LW ST" "Suwon Samsung Bluewings"
+368 "M. Sulejmani
+LM RM" "BSC Young Boys"
+369 "E. Cavani
+ST" "Manchester United"
+370 "A. Carroll
+ST" "West Bromwich Albion"
+371 "R. Lukaku
+ST" Chelsea
+372 "De Gea
+GK" "Manchester United"
+373 "J. Corona
+RM RB RW" "Sevilla FC"
+374 "S. Aurier
+RB RWB" "Villarreal CF"
+375 "J. Rodríguez
+RW CAM CM" Everton
+376 "A. Oxlade-Chamberlain
+CM" Liverpool
+377 "G. Xhaka
+CDM CM" Arsenal
+378 "H. Son
+LW LM ST" "Tottenham Hotspur"
+379 "S. Gnabry
+RM LM RW" "FC Bayern München"
+380 "J. Hector
+LB CDM" "1. FC Köln"
+381 "R. Centurión
+LW CAM RW" "San Lorenzo de Almagro"
+382 "T. Werner
+ST LW" Chelsea
+383 "F. Bernardeschi
+LM RM CAM" Juventus
+384 "J. Kimmich
+CDM RB" "FC Bayern München"
+385 "P. Højbjerg
+CDM CM" "Tottenham Hotspur"
+386 "M. Cornet
+LM CF LB" Burnley
+387 "Iñaki Williams
+ST" "Athletic Club de Bilbao"
+388 "A. Halilović
+RM CAM" Reading
+389 "M. Dahoud
+CM CDM" "Borussia Dortmund"
+390 "Rúben Neves
+CM CDM" "Wolverhampton Wanderers"
+391 "B. Godfrey
+CB LB" Everton
+392 "N. Pépé
+RM" Arsenal
+393 "N. Mukiele
+RB CB RM" "RB Leipzig"
+394 "M. Kana
+CB CDM CM" "RSC Anderlecht"
+395 "W. Singo
+RWB RB RM" "Torino F.C."
+396 "J. Frimpong
+RB RWB" "Bayer 04 Leverkusen"
+397 "F. Pellistri
+RM" "Deportivo Alavés"
+398 "M. Viña
+LB LM" Roma
+399 "A. Kalimuendo
+ST" "Racing Club de Lens"
+400 "T. Doyle
+CM CDM" "Cardiff City"
+401 "C. Alcaraz
+CAM CM LM" "Racing Club"
+402 "Luis Henrique
+LM" "Olympique de Marseille"
+403 "A. Onana
+CDM CM" "LOSC Lille"
+404 "I. Ilić
+CM" "Hellas Verona"
+405 "I. Zabarnyi
+CB" "Dynamo Kyiv"
+406 "Nathan
+RWB CB" "Boavista FC"
+407 "L. Barry
+LW ST" "Swindon Town"
+408 "T. Aasgaard
+CAM RM" "Wigan Athletic"
+409 "M. Flores
+CAM LM" Arsenal
+410 "C. Patino
+CM CDM" Arsenal
+411 "O. Campos
+LB LM" "Santos Laguna"
+412 "S. Shoretire
+RM CAM" "Manchester United"
+413 "Blanco
+CM CDM" "Real Madrid CF"
+414 "M. Vušković
+CB" "Hamburger SV"
+415 "M. Cancellieri
+RW CF" "Hellas Verona"
+416 "A. Devine
+CAM LM CM" "Tottenham Hotspur"
+417 "A. Ezzalzouli
+LW RW" "FC Barcelona"
+418 "Iker Bravo
+ST RW" "Bayer 04 Leverkusen"
+419 "Ilias
+RW" "FC Barcelona"
+420 "J. Maddison
+CAM" "Leicester City"
+421 "L. Sané
+LM RM CF" "FC Bayern München"
+422 "Diogo Jota
+CF LW" Liverpool
+423 "O. Burke
+ST RM RW" Millwall
+424 "A. Maitland-Niles
+RWB RM RB" Roma
+425 "A. Zendejas
+RM CM LM" "Club América"
+426 "M. Cash
+RB RWB" "Aston Villa"
+427 "O. Zinchenko
+LB" "Manchester City"
+428 "D. Calabria
+RB" "AC Milan"
+429 "André Silva
+ST" "RB Leipzig"
+430 "M. Akanji
+CB" "Borussia Dortmund"
+431 "E. Adebayo
+ST" "Luton Town"
+432 "G. Mancini
+CB CDM" Roma
+433 "B. Chilwell
+LWB LB" Chelsea
+434 "M. Almirón
+RM CM CAM" "Newcastle United"
+435 "L. Blas
+CAM RM ST" "FC Nantes"
+436 "Brahim
+CAM LW LM" "AC Milan"
+437 "J. Dasilva
+CM CAM CDM" Brentford
+438 "A. Lafont
+GK" "FC Nantes"
+439 "T. Fosu-Mensah
+RB CB" "Bayer 04 Leverkusen"
+440 "C. Romero
+CB" "Tottenham Hotspur"
+441 "D. Kamada
+CAM CF" "Eintracht Frankfurt"
+442 "M. Mount
+CAM RW" Chelsea
+443 "L. Sinisterra
+LW" Feyenoord
+444 "M. Terrier
+LW ST" "Stade Rennais FC"
+445 "B. Kamara
+CDM" "Olympique de Marseille"
+446 "J. Foyth
+RB CB CDM" "Villarreal CF"
+447 "M. Camara
+CM CDM" "Olympiacos CFP"
+448 "I. Konaté
+CB" Liverpool
+449 "M. Fossey
+RWB RB" "Bolton Wanderers"
+450 "W. McKennie
+CM RM LM" Juventus
+451 "M. Bakker
+LB" "Bayer 04 Leverkusen"
+452 "J. Macías
+ST" "Club Deportivo Guadalajara"
+453 "K. Wagner
+LB LWB" "Philadelphia Union"
+454 "M. Safonov
+GK" Russia
+455 "T. Mitchell
+LB" "Crystal Palace"
+456 "M. Guéhi
+CB" "Crystal Palace"
+457 "P. Daka
+ST" "Leicester City"
+458 "M. Damsgaard
+LM LW" "U.C. Sampdoria"
+459 "A. Nwakaeme
+LW" Trabzonspor
+460 "A. Sambi Lokonga
+CM CDM" Arsenal
+461 "N. Okafor
+ST CAM LM" "FC Red Bull Salzburg"
+462 "I. Meslier
+GK" "Leeds United"
+463 "L. Ramazani
+RM LM ST" "Unión Deportiva Almería"
+464 "F. Agu
+RWB LWB RM" "SV Werder Bremen"
+465 "N. Pérez
+CB" "Udinese Calcio"
+466 "V. Tsygankov
+RM" "Dynamo Kyiv"
+467 "Eric García
+CB" "FC Barcelona"
+468 "M. Kudus
+CAM CM" Ajax
+469 "J. Todibo
+CB" "OGC Nice"
+470 "E. Laird
+RB RWB" "AFC Bournemouth"
+471 "J. Doku
+RW RM" "Stade Rennais FC"
+472 "M. Camara
+CDM CM" "FC Red Bull Salzburg"
+473 "Ibañez
+CB LB" Roma
+474 "Tetê
+RW RM" "Olympique Lyonnais"
+475 "J. Branthwaite
+CB" Everton
+476 "N. Schlotterbeck
+CB" "Sport-Club Freiburg"
+477 "I. Maatsen
+LWB LB LW" "Coventry City"
+478 "N. Collins
+CB RB" Burnley
+479 "Renan Lodi
+LB LM" "Atlético de Madrid"
+480 "Ș. Radu
+CB" Lazio
+481 "G. Higuaín
+ST" "Inter Miami CF"
+482 "A. Taarabt
+CM CAM" "SL Benfica"
+483 "M. Pjanić
+CM CDM" "Beşiktaş JK"
+484 "A. Vidal
+CM" Inter
+485 "T. Kroos
+CM" "Real Madrid CF"
+486 "K. Trippier
+RB RM" "Newcastle United"
+487 "S. Kagawa
+CAM CM" "Sint-Truidense VV"
+488 "Pedro
+LW CF RW" Lazio
+489 "S. El Shaarawy
+LW LM" Roma
+490 "R. Lukaku
+ST" Chelsea
+491 "M. Rojas
+LM RM" "Melbourne Victory"
+492 "João Pedro
+ST CF" Cagliari
+493 "H. Son
+LW LM ST" "Tottenham Hotspur"
+494 "J. Iličić
+CF ST" Atalanta
+495 "Roberto Firmino
+CF" Liverpool
+496 "Deulofeu
+CF LW" "Udinese Calcio"
+497 "R. Sterling
+LW RW" "Manchester City"
+498 "Š. Vrsaljko
+RB RM" "Atlético de Madrid"
+499 "A. Rüdiger
+CB" Chelsea
+500 "S. Umtiti
+CB" "FC Barcelona"
+501 "S. Haller
+ST" Ajax
+502 "L. Shaw
+LB" "Manchester United"
+503 "P. Bamford
+ST" "Leeds United"
+504 "L. Goretzka
+CM CDM" "FC Bayern München"
+505 "De Tomás
+ST" "RCD Espanyol de Barcelona"
+506 "N. Maupay
+ST" "Brighton & Hove Albion"
+507 "20
+ Gabriel Barbosa
+ST RW" Inter
+508 "J. Tah
+CB" "Bayer 04 Leverkusen"
+509 "K. Coman
+LM RM LW" "FC Bayern München"
+510 "D. Zapata
+ST" Atalanta
+511 "N. Kanté
+CDM CM" Chelsea
+512 "A. Sanabria
+ST" "Torino F.C."
+513 "J. Maddison
+CAM" "Leicester City"
+514 "Luís Maximiano
+GK" "Granada CF"
+515 "B. Omeragic
+CB RB" "FC Zürich"
+516 "L. Suárez
+ST LM CAM" "Granada CF"
+517 "M. Kilman
+CB" "Wolverhampton Wanderers"
+518 "G. Rutter
+ST LW" "TSG Hoffenheim"
+519 "T. Parrott
+ST RW" "Milton Keynes Dons"
+520 "K. Dembélé
+RW" Celtic
+521 "Bryan Gil
+LM RM CAM" "Valencia CF"
+522 "M. Ihattaren
+CAM RW CM" Ajax
+523 "G. Plata
+RM RW" "Real Valladolid CF"
+524 "D. Kulusevski
+RW CF" "Tottenham Hotspur"
+525 "J. Araujo
+RB RWB RM" "LA Galaxy"
+526 "Zubimendi
+CM CDM" "Real Sociedad"
+527 "A. Hickey
+LWB LB LM" Bologna
+528 "R. Pepi
+ST" "FC Augsburg"
+529 "S. Weissman
+ST" "Real Valladolid CF"
+530 "K. Koindredi
+CM" "Valencia CF"
+531 "T. Pobega
+CM" "Torino F.C."
+532 "J. Kamiński
+LM" "Lech Poznań"
+533 "J. Frimpong
+RB RWB" "Bayer 04 Leverkusen"
+534 "M. Thiaw
+CB" "FC Schalke 04"
+535 "M. Balikwisha
+LW CAM ST" "Royal Antwerp FC"
+536 "L. Delap
+ST" "Manchester City"
+537 "M. van de Ven
+CB LB" "VfL Wolfsburg"
+538 "S. Vignato
+CF CAM ST" "AC Monza"
+539 "M. Lazetić
+ST" "AC Milan"
+540 "Kepa
+GK" Chelsea
+541 "O. Tannane
+CAM RM" "Göztepe SK"
+542 "Gerard Moreno
+ST RM" "Villarreal CF"
+543 "H. Çalhanoğlu
+CM CAM LM" Inter
+544 "R. Guerreiro
+LB LM" "Borussia Dortmund"
+545 "Ricardo Pereira
+RB RWB" "Leicester City"
+546 "J. Vigón
+CM CDM" "Tigres U.A.N.L."
+547 "A. Martial
+ST LM" "Sevilla FC"
+548 "Hwang Ui Jo
+ST LW" "FC Girondins de Bordeaux"
+549 "P. Onuachu
+ST" "KRC Genk"
+550 "S. van Beek
+CB" "SC Heerenveen"
+551 "S. Fofana
+CM" "Racing Club de Lens"
+552 "M. Brozović
+CDM" Inter
+553 "R. Brown
+CM CDM CAM" "Peterborough United"
+554 "T. Bakayoko
+CDM CM" "AC Milan"
+555 "L. Hernández
+CB LB" "FC Bayern München"
+556 "Pau López
+GK" "Olympique de Marseille"
+557 "A. Armstrong
+ST LW" Southampton
+558 "M. Locatelli
+CDM CM" Juventus
+559 "R. Karsdorp
+RWB RM RB" Roma
+560 "Sergi Canós
+LW RWB LWB" Brentford
+561 "N. Barella
+CM" Inter
+562 "Gonçalo Guedes
+ST LM CF" "Valencia CF"
+563 "Merino
+CM" "Real Sociedad"
+564 "S. Bergwijn
+LW LM CAM" "Tottenham Hotspur"
+565 "R. Bentancur
+CM" "Tottenham Hotspur"
+566 "L. Pellegrini
+CAM CM CDM" Roma
+567 "F. Grillitsch
+CDM CB CM" "TSG Hoffenheim"
+568 "D. Upamecano
+CB" "FC Bayern München"
+569 "M. Svilar
+GK" "SL Benfica"
+570 "T. Chalobah
+CB CDM CM" Chelsea
+571 "E. Palacios
+CM CDM CAM" "Bayer 04 Leverkusen"
+572 "U. Sadiq
+ST" "Unión Deportiva Almería"
+573 "K. Tsimikas
+LB LWB" Liverpool
+574 "M. Škriniar
+CB" Inter
+575 "R. Doan
+RM CAM" PSV
+576 "Y. Soteldo
+LM CF CAM" "Tigres U.A.N.L."
+577 "P. Schick
+ST" "Bayer 04 Leverkusen"
+578 "É. Mendy
+GK" Chelsea
+579 "H. Aouar
+CAM LM CM" "Olympique Lyonnais"
+580 "E. Eze
+CAM CM LM" "Crystal Palace"
+581 "F. Ugrinic
+CM CDM CAM" "FC Luzern"
+582 "R. Alvarado
+RM LM" "Club Deportivo Guadalajara"
+583 "D. Mihailovic
+CF CAM CM" "Club de Foot Montréal"
+584 "M. Djenepo
+LM RM" Southampton
+585 "D. Schmidt
+GK" "Sint-Truidense VV"
+586 "A. Haidara
+CM CDM RM" "RB Leipzig"
+587 "Pedro Neto
+LW RW" "Wolverhampton Wanderers"
+588 "E. Dennis
+ST RM LM" Watford
+589 "M. Boadu
+ST" "AS Monaco"
+590 "Paulinho
+LM CAM" "Bayer 04 Leverkusen"
+591 "A. Gomes
+LM ST" "LOSC Lille"
+592 "M. Diaby
+LM RM LW" "Bayer 04 Leverkusen"
+593 "C. Jones
+CM" Liverpool
+594 "B. Badiashile
+CB" "AS Monaco"
+595 "J. Vagnoman
+RB LB" "Hamburger SV"
+596 "M. Pedersen
+RB" Feyenoord
+597 "J. Garner
+CDM CM" "Nottingham Forest"
+598 "J. Burkardt
+ST RM" "1. FSV Mainz 05"
+599 "Luís Maximiano
+GK" "Granada CF"
+600 "16
+ D. Berbatov
+ST CAM" PAOK
+601 "21
+ W. Rooney
+CM CDM CAM" "Derby County"
+602 "14
+ Adriano
+ST" "Club Athletico Paranaense"
+603 "20
+ J. Mathieu
+CB" "Sporting CP"
+604 "10
+ Santos
+ST" "FC Istres Ouest Provence"
+605 "J. Vertonghen
+CB" "SL Benfica"
+606 "I. Perišić
+LM LWB" Inter
+607 "M. Sakho
+CB" "Montpellier Hérault SC"
+608 "Á. Di María
+RW LW" "Paris Saint-Germain"
+609 "C. Benteke
+ST" "Crystal Palace"
+610 "A. Ramsey
+CM CAM LM" "Rangers FC"
+611 "T. Müller
+CAM RM CF" "FC Bayern München"
+612 "T. Courtois
+GK" "Real Madrid CF"
+613 "M. Götze
+CAM ST CM" PSV
+614 "R. Lukaku
+ST" Chelsea
+615 "K. Navas
+GK" "Paris Saint-Germain"
+616 "T. Delaney
+CDM CM" "Sevilla FC"
+617 "D. Alaba
+CB" "Real Madrid CF"
+618 "Isco
+CAM LW CM" "Real Madrid CF"
+619 "D. Burn
+CB LB" "Newcastle United"
+620 "Danilo
+RB LB CB" Juventus
+621 "L. Digne
+LB" "Aston Villa"
+622 "Lucas Moura
+RW RM ST" "Tottenham Hotspur"
+623 "K. Koulibaly
+CB" Napoli
+624 "J. Draxler
+LW CAM" "Paris Saint-Germain"
+625 "Deulofeu
+CF LW" "Udinese Calcio"
+626 "J. Stones
+CB" "Manchester City"
+627 "M. Batshuayi
+ST" "Beşiktaş JK"
+628 "F. Thauvin
+RM" "Tigres U.A.N.L."
+629 "21
+ J. Ibe
+RM RW" "Derby County"
+630 "B. Davies
+CB LWB LB" "Tottenham Hotspur"
+631 "S. Burns
+ST RW" "Scunthorpe United"
+632 "T. Pembélé
+RB RWB CB" "FC Girondins de Bordeaux"
+633 "N. Seiwald
+CM CDM" "FC Red Bull Salzburg"
+634 "J. Aude
+LB CDM" "Club Atlético Lanús"
+635 "C. Matsima
+CB" "AS Monaco"
+636 "J. Muleka
+ST RW" "Kasimpaşa SK"
+637 "Afonso Sousa
+CM LW CAM" "Belenenses SAD"
+638 "I. Moriba
+CM" "Valencia CF"
+639 "F. Orozco
+LW RW" "Club Atlético Lanús"
+640 "P. Sarr
+CM LM" "FC Metz"
+641 "Y. Vertessen
+RM ST" PSV
+642 "Y. Chacón
+RM RW LM" "Deportivo Táchira FC"
+643 "M. Rogers
+LW RW" "AFC Bournemouth"
+644 "E. Zeballos
+LW RW" "Boca Juniors"
+645 "K. Sildillia
+CB RB" "Sport-Club Freiburg"
+646 "B. Dieng
+ST" "Olympique de Marseille"
+647 "M. Bulat
+CM CDM" "Dinamo Zagreb"
+648 "A. Omobamidele
+CB" "Norwich City"
+649 "T. Bloxham
+ST RM" "Shrewsbury Town"
+650 "N. Zalewski
+LM" Roma
+651 "P. Lervik
+GK" "Molde FK"
+652 "M. Baturina
+CM CAM" "Dinamo Zagreb"
+653 "R. Onyedika
+CDM CM" "FC Midtjylland"
+654 "Gonçalo Esteves
+RWB RB" "Sporting CP"
+655 "Iturbe
+GK" "Atlético de Madrid"
+656 "A. Mbengue
+CB CDM" "FC Metz"
+657 "H. Vale
+LW CAM" Chelsea
+658 "J. Bakayoko
+RW" PSV
+659 "I. Sebaoui
+CAM LM" "K Beerschot VA"
+660 "A. Maier
+CM CDM" "FC Augsburg"
+661 "J. Bowler
+RM LM" Blackpool
+662 "P. Pomykal
+CM LM" "FC Dallas"
+663 "N. Bustos
+ST LM" "Girona FC"
+664 "C. Gallagher
+CM" "Crystal Palace"
+665 "Abel Ruiz
+ST" "SC Braga"
+666 "I. Diallo
+CDM CM" Southampton
+667 "N. Raskin
+CM CDM" "Standard de Liège"
+668 "A. Skov Olsen
+RM CAM RW" "Club Brugge KV"
+669 "F. Méndez
+CDM CM" "Unión Española"
+670 "Brenner
+ST" "FC Cincinnati"
+671 "T. Koopmeiners
+CM CDM CB" Atalanta
+672 "T. Campbell
+ST RM RW" "Stoke City"
+673 "O. Skipp
+CDM CM" "Tottenham Hotspur"
+674 "L. Díaz
+LW LM" Liverpool
+675 "C. Bassey
+CB LB" "Rangers FC"
+676 "J. Ferreira
+CF CAM ST" "FC Dallas"
+677 "L. Offord
+CB" "Crewe Alexandra"
+678 "J. Sargent
+RM ST" "Norwich City"
+679 "O. Solet
+CB" "FC Red Bull Salzburg"
+680 "Y. Sugawara
+RB RW" "AZ Alkmaar"
+681 "L. Maina
+LM RM ST" "Hannover 96"
+682 "J. Scally
+RWB LWB" "Borussia Mönchengladbach"
+683 "O. Kökçü
+CM CAM" Feyenoord
+684 "K. Lewis-Potter
+LM LW ST" "Hull City"
+685 "B. Nygren
+RM ST" "FC Nordsjælland"
+686 "Puado
+LM RM ST" "RCD Espanyol de Barcelona"
+687 "Trincão
+RW RM" "Wolverhampton Wanderers"
+688 "S. Giménez
+ST CF CAM" "Cruz Azul"
+689 "L. Barreiro Martins
+CM CDM" "1. FSV Mainz 05"
+690 "Y. Fofana
+CM CDM" "AS Monaco"
+691 "L. Matheson
+RB RWB" "Scunthorpe United"
+692 "O. Sahraoui
+LW CM" "Vålerenga Fotball"
+693 "Barrenetxea
+LW" "Real Sociedad"
+694 "O. Kossounou
+CB RB" "Bayer 04 Leverkusen"
+695 "D. Hancko
+CB LB" "AC Sparta Praha"
+696 "G. Plata
+RM RW" "Real Valladolid CF"
+697 "A. Pelmard
+CB" "FC Basel 1893"
+698 "I. Stoica
+ST RW CF" "FCSB (Steaua)"
+699 "M. Karbownik
+LB RB" "Olympiacos CFP"
+700 "B. Johnson
+RW LW CAM" "Nottingham Forest"
+701 "David Carmo
+CB" "SC Braga"
+702 "M. van Ewijk
+RB" "SC Heerenveen"
+703 "C. Summerville
+RM LM" "Leeds United"
+704 "Fábio Silva
+ST" "Wolverhampton Wanderers"
+705 "I. Lihadji
+RM" "LOSC Lille"
+706 "L. Fernández
+CAM" "Deportivo Toluca"
+707 "D. Bernard
+CB RB" "Hull City"
+708 "M. Ugarte
+CM CDM" "Sporting CP"
+709 "T. Mengi
+CB" "Birmingham City"
+710 "L. Hjelde
+CB LB" "Leeds United"
+711 "A. Diallo
+RM" "Rangers FC"
+712 "L. Thomas
+LB LWB" "Leicester City"
+713 "P. Wimmer
+RM LM" "DSC Arminia Bielefeld"
+714 "B. Koumetio
+CB" Liverpool
+715 "O. Dorley
+LB LM CM" "SK Slavia Praha"
+716 "D. Dike
+ST" "West Bromwich Albion"
+717 "R. Araki
+CAM ST LM" "Kashima Antlers"
+718 "P. Kalulu
+CB RB" "AC Milan"
+719 "L. Oyen
+LW" "KRC Genk"
+720 "J. Bednarek
+CB" Southampton
+721 "Angeliño
+LWB LM" "RB Leipzig"
+722 "D. Calvert-Lewin
+ST" Everton
+723 "V. Lindelöf
+CB" "Manchester United"
+724 "P. Roberts
+RM RW CAM" Sunderland
+725 "H. Lozano
+RW LW" Napoli
+726 "W. Weghorst
+ST" Burnley
+727 "R. Gosens
+LWB LB LM" Inter
+728 "A. Marušić
+RB LB CB" Lazio
+729 "R. Bensebaini
+LWB CB" "Borussia Mönchengladbach"
+730 "K. Ajer
+CB RB" Brentford
+731 "R. Henry
+LWB LB" Brentford
+732 "J. Dilrosun
+RM LM" "FC Girondins de Bordeaux"
+733 "C. Roberts
+RB RWB" Burnley
+734 "Vallejo
+CB" "Real Madrid CF"
+735 "K. Laimer
+CDM CM RB" "RB Leipzig"
+736 "A. Diallo
+CB LB" "Paris Saint-Germain"
+737 "P. Kimpembe
+CB" "Paris Saint-Germain"
+738 "D. Bouanga
+LM RM ST" "AS Saint-Étienne"
+739 "O. Sail
+GK" "Wellington Phoenix"
+740 "C. Adams
+ST" Southampton
+741 "G. Lo Celso
+CM CAM ST" "Villarreal CF"
+742 "Fabián
+CM CDM" Napoli
+743 "K. Tierney
+LB" Arsenal
+744 "A. Zambo Anguissa
+CM CDM" Napoli
+745 "S. Berge
+CDM CM" "Sheffield United"
+746 "E. Ávila
+ST RM" "CA Osasuna"
+747 "B. Henrichs
+RB LB RWB" "RB Leipzig"
+748 "D. Fry
+CB" Middlesbrough
+749 "L. Bailey
+RM RW LW" "Aston Villa"
+750 "Gerson
+CM" "Olympique de Marseille"
+751 "Raphaelinho Anjos
+GK" "RB Bragantino"
+752 "A. Lookman
+LM RM" "Leicester City"
+753 "T. Awoniyi
+ST RW" "1. FC Union Berlin"
+754 "D. Malen
+ST" "Borussia Dortmund"
+755 "L. Martínez
+ST" Inter
+756 "J. Bijlow
+GK" Feyenoord
+757 "V. Osimhen
+ST" Napoli
+758 "J. Dasilva
+LB LWB RM" "Bristol City"
+759 "X. Schlager
+CDM CM" "VfL Wolfsburg"
+760 "M. Turner
+GK" "United States"
+761 "D. Henderson
+GK" "Manchester United"
+762 "A. Ndiaye
+LM ST RM" "RCD Mallorca"
+763 "A. Ramsdale
+GK" Arsenal
+764 "Florentino
+CDM CM" "Getafe CF"
+765 "Jota
+LW RW" Celtic
+766 "L. Bénes
+CM CAM" "Borussia Mönchengladbach"
+767 "I. Sangaré
+CDM CM" PSV
+768 "C. Kouamé
+ST" "RSC Anderlecht"
+769 "Marc Roca
+CDM CM" "FC Bayern München"
+770 "E. Atuesta
+CDM CM" Colombia
+771 "M. Guendouzi
+CM CDM" "Olympique de Marseille"
+772 "S. Shashoua
+ST CAM RM" "CD Tenerife"
+773 "Xeka
+CM CDM" "LOSC Lille"
+774 "Melendo
+CAM ST RM" "RCD Espanyol de Barcelona"
+775 "J. Kluivert
+LM RM" "OGC Nice"
+776 "E. Nketiah
+ST" Arsenal
+777 "J. Hernández Suárez
+ST RM LM" "Columbus Crew"
+778 "M. Tavernier
+CAM CM RM" Middlesbrough
+779 "A. Maier
+CM CDM" "FC Augsburg"
+780 "13
+ J. Carragher
+CB" Liverpool
+781 "Angulo
+ST" "Mumbai City FC"
+782 "A. Gómez
+CAM LW" "Sevilla FC"
+783 "F. Ribéry
+CF CAM LW" "US Salernitana 1919"
+784 "T. Walcott
+RM" Southampton
+785 "Falcao
+ST" "Rayo Vallecano"
+786 "Juan Mata
+CAM RM" "Manchester United"
+787 "J. Hernández
+ST" "LA Galaxy"
+788 "M. Marin
+CAM" "Ferencvárosi TC"
+789 "A. Lallana
+CM" "Brighton & Hove Albion"
+790 "G. Wijnaldum
+CM CDM" "Paris Saint-Germain"
+791 "K. Barbarouses
+ST RM CAM" "Sydney FC"
+792 "A. Ramsey
+CM CAM LM" "Rangers FC"
+793 "Jordi Alba
+LB" "FC Barcelona"
+794 "E. Salvio
+RW RM" "Boca Juniors"
+795 "C. Immobile
+ST" Lazio
+796 "M. ter Stegen
+GK" "FC Barcelona"
+797 "B. Leno
+GK" Arsenal
+798 "X. Shaqiri
+CAM RM" "Chicago Fire Football Club"
+799 "M. Ryan
+GK" "Real Sociedad"
+800 "L. Muriel
+ST" Atalanta
+801 "Sergi Roberto
+RB CM" "FC Barcelona"
+802 "18
+ E. Emenike
+ST RM" "Unión Deportiva Las Palmas"
+803 "Allan
+CDM CM" Everton
+804 "T. Horn
+GK" "1. FC Köln"
+805 "Paco Alcácer
+ST" "Villarreal CF"
+806 "N. Chadli
+LM LW" "İstanbul Başakşehir FK"
+807 "Nacho Fernández
+CB LB" "Real Madrid CF"
+808 "Suso
+RW" "Sevilla FC"
+809 "E. Martínez
+GK" "Aston Villa"
+810 "K. Zouma
+CB" "West Ham United"
+811 "William Carvalho
+CDM CM" "Real Betis Balompié"
+812 "B. Cristante
+CDM CM CB" Roma
+813 "F. Kostić
+LM LWB" "Eintracht Frankfurt"
+814 "Lucas Vázquez
+RB RM" "Real Madrid CF"
+815 "J. Vardy
+ST" "Leicester City"
+816 "N. Aké
+CB LB" "Manchester City"
+817 "M. Duke
+ST" Australia
+818 "Ederson
+GK" "Manchester City"
+819 "A. Romagnoli
+CB" "AC Milan"
+820 "C. Mbemba
+CB" "FC Porto"
+821 "Carles Gil
+CAM RM" "New England Revolution"
+822 "G. Lapadula
+ST" Benevento
+823 "L. Baker
+CM CDM" "Stoke City"
+824 "J. Swift
+CAM CM" Reading
+825 "M. Dembélé
+ST" "Olympique Lyonnais"
+826 "R. Bazoer
+CB CM" Vitesse
+827 "A. Christensen
+CB" Chelsea
+828 "B. Bourigeaud
+RW RM LM" "Stade Rennais FC"
+829 "J. Musso
+GK" Atalanta
+830 "H. Villalba
+RM LM RW" "Club Libertad"
+831 "L. Dubois
+RB" "Olympique Lyonnais"
+832 "A. Blake
+GK" "Philadelphia Union"
+833 "Diego Carlos
+CB" "Sevilla FC"
+834 "Munir
+LW RW ST" "Sevilla FC"
+835 "J. Bednarek
+CB" Southampton
+836 "E. Lara
+CB" "Club América"
+837 "Z. Iqbal
+CM CAM" "Manchester United"
+838 "A. Bakayoko
+CB" "AS Saint-Étienne"
+839 "Éderson
+CM" "US Salernitana 1919"
+840 "M. Taabouni
+LW CAM" "AZ Alkmaar"
+841 "K. Tzolakis
+GK" "Olympiacos CFP"
+842 "B. Traoré
+CM CDM" "FC Metz"
+843 "N. Mbuku
+CF RM CAM" "Stade de Reims"
+844 "A. Szalai
+CB LB" "Fenerbahçe SK"
+845 "B. Ocampo
+RW LW RM" "Club Nacional de Football"
+846 "C. Cresswell
+CB" "Leeds United"
+847 "R. Jones
+ST" "Peterborough United"
+848 "D. Ayala
+CDM CM" "Portland Timbers"
+849 "L. Da Cunha
+RM CAM RW" "Clermont Foot 63"
+850 "J. Thielmann
+RM CF LM" "1. FC Köln"
+851 "K. Baah
+LM RM" Watford
+852 "L. Badé
+CB" "Stade Rennais FC"
+853 "N. Nkounkou
+LB LWB" "Standard de Liège"
+854 "A. Adli
+ST LM" "Bayer 04 Leverkusen"
+855 "K. Mitoma
+LM LW LWB" "Royale Union Saint-Gilloise"
+856 "F. Díaz
+CDM CM" "Liverpool Fútbol Club"
+857 "R. Ledezma
+CAM" PSV
+858 "M. Okoye
+GK" "Sparta Rotterdam"
+859 "João Mário
+RB" "FC Porto"
+860 "W. Bondo
+CM RM" "AS Nancy Lorraine"
+861 "A. Knauff
+RM LM" "Eintracht Frankfurt"
+862 "Pablo Moreno
+ST LM" "Girona FC"
+863 "R. Edwards
+CB" "Peterborough United"
+864 "J. Oosterwolde
+LB CB" Parma
+865 "H. Mejbri
+CAM CM" "Manchester United"
+866 "A. Németh
+ST" "KRC Genk"
+867 "B. Soppy
+RWB RB CB" "Udinese Calcio"
+868 "N. Monzango
+CB LB" "Amiens SC"
+869 "G. Koutsias
+ST RW LW" PAOK
+870 "Yan Couto
+RM RB RWB" "SC Braga"
+871 "S. Sow
+CB" "AS Saint-Étienne"
+872 "Rodrigo Gomes
+LM RW" "SC Braga"
+873 "Zarzana
+RW LW CAM" "Sevilla FC"
+874 "F. Orozco
+LW RW" "Club Atlético Lanús"
+875 "J. Braaf
+LW RW" "Manchester City"
+876 "J. Aramburu
+RB RWB CB" "Deportivo La Guaira FC"
+877 "R. Drăgușin
+CB RB" "US Salernitana 1919"
+878 "A. Hackford
+ST" "Sheffield United"
+879 "M. Bulat
+CM CDM" "Dinamo Zagreb"
+880 "J. Philogene-Bidace
+RM LW" "Stoke City"
+881 "S. Coulibaly
+CB" "Borussia Dortmund"
+882 "Q. Merlin
+LB LWB LM" "FC Nantes"
+883 "J. Grimaldo
+CAM RW" "Club Sporting Cristal"
+884 "M. Estève
+CB" "Montpellier Hérault SC"
+885 "M. Ljubičić
+ST RM" "Hajduk Split"
+886 "G. Mamardashvili
+GK" "Valencia CF"
+887 "A. Nusa
+LW RW" "Club Brugge KV"
+888 "C. Doyle
+CB" Sunderland
+889 "F. Ebosele
+RM RB LM" "Derby County"
+890 "H. Lawrence
+RB LB" "AFC Wimbledon"
+891 "Yayo
+CM" "Real Oviedo"
+892 "FakePlayer
+ST" "Unión Deportiva Almería"
+893 "Tiago Araújo
+LW LM" "FC Arouca"
+894 "Rodrigo Muniz
+ST" Fulham
+895 "L. Morgalla
+CB" "TSV 1860 München"
+896 "Moleiro
+LM CM RM" "Unión Deportiva Las Palmas"
+897 "T. Alloh
+LB LWB" "KAS Eupen"
+898 "F. Afena-Gyan
+ST LW" Roma
+899 "E. Lara
+CB" "Club América"
+900 "M. Roerslev
+RWB RB" Brentford
+901 "M. Johnston
+LW RW" Celtic
+902 "T. Kiss
+LW RW" "SC Cambuur"
+903 "J. Moder
+CDM CM LM" "Brighton & Hove Albion"
+904 "S. Sessegnon
+RWB LWB" "Plymouth Argyle"
+905 "Raul Asencio
+ST" Lecce
+906 "O. Alderete
+CB" "Valencia CF"
+907 "L. Reis
+CM CDM" "Hamburger SV"
+908 "N. González
+LW RW" Fiorentina
+909 "M. Olivera
+LB LWB" "Getafe CF"
+910 "C. Hudson-Odoi
+LW RW RWB" Chelsea
+911 "N. Phillips
+CB" "AFC Bournemouth"
+912 "Gorosabel
+RB" "Real Sociedad"
+913 "Moreto Cassamá
+CDM" "Stade de Reims"
+914 "L. Díaz
+LW LM" Liverpool
+915 "A. Obispo
+CB" PSV
+916 "Junior Firpo
+LB LWB" "Leeds United"
+917 "J. Deminguet
+CM CDM" "Stade Malherbe Caen"
+918 "E. Elmas
+CM CAM" Napoli
+919 "D. Livaković
+GK" "Dinamo Zagreb"
+920 "D. Rossi
+LW ST RW" "Fenerbahçe SK"
+921 "Pep Biel
+CAM RM" "F.C. København"
+922 "M. Obafemi
+ST" "Swansea City"
+923 "L. Ferguson
+CM CDM" Aberdeen
+924 "C. Rotondi
+LM LW" "Defensa y Justicia"
+925 "V. Gvilia
+CM" "Raków Częstochowa"
+926 "I. Louza
+CM CDM" Watford
+927 "B. Mbeumo
+RW ST LW" Brentford
+928 "T. Băluță
+CDM CM" "Brighton & Hove Albion"
+929 "B. Sosa
+LB LM" "VfB Stuttgart"
+930 "B. Williams
+LB RB" "Norwich City"
+931 "Kangin Lee
+CAM ST RM" "RCD Mallorca"
+932 "V. Shepelev
+CM CDM" "Dynamo Kyiv"
+933 "A. Yusuf
+CM CDM" "Royal Antwerp FC"
+934 "M. Salisu
+CB" Southampton
+935 "D. Popov
+CB" "Dynamo Kyiv"
+936 "G. Galoppo
+CM" "Club Atlético Banfield"
+937 "Tomás Tavares
+RB LB" "FC Basel 1893"
+938 "Reguilón
+LWB LB" "Tottenham Hotspur"
+939 "C. Bassett
+CAM CM CF" Feyenoord
+940 "M. Kumbulla
+CB" Roma
+941 "J. Lindstrøm
+CAM CF" "Eintracht Frankfurt"
+942 "D. Alemdar
+GK" "Stade Rennais FC"
+943 "M. López
+LB" "San Jose Earthquakes"
+944 "S. Chukwueze
+RM" "Villarreal CF"
+945 "E. Bullaude
+CAM CM RM" "Godoy Cruz"
+946 "E. Le Fée
+CM CAM RM" "FC Lorient"
+947 "Y. Verschaeren
+RM CAM" "RSC Anderlecht"
+948 "L. Orellano
+RW" "Vélez Sarsfield"
+949 "R. Sottil
+LW LM RW" Fiorentina
+950 "H. Massengo
+CDM CM" "Bristol City"
+951 "Aihen Muñoz
+LB" "Real Sociedad"
+952 "K. Hoever
+RWB RB" "Wolverhampton Wanderers"
+953 "Í. Jóhannesson
+CM" "F.C. København"
+954 "N. Capaldo
+CM RB" "FC Red Bull Salzburg"
+955 "J. Ramsey
+CM CAM" "Aston Villa"
+956 "G. Ávila
+CB LB" "Boca Juniors"
+957 "C. Zady Sery
+LM RM CAM" "Stade Malherbe Caen"
+958 "Bernardo Rosa
+CAM CM" "West Ham United"
+959 "A. Trubin
+GK" "Shakhtar Donetsk"
+960 "Welington Dano
+LB LM" "Clube Atlético Mineiro"
+961 "Oswaldinato
+ST" Flamengo
+962 "J. Worrall
+CB" "Nottingham Forest"
+963 "Unai Simón
+GK" "Athletic Club de Bilbao"
+964 "J. Aribo
+CM" "Rangers FC"
+965 "S. Marinović
+GK" "New Zealand"
+966 "N. Dorsch
+CDM CM" "FC Augsburg"
+967 "R. Perraud
+LB" Southampton
+968 "A. Tuanzebe
+CB" Napoli
+969 "Y. Karamoh
+LM RM RW" "Fatih Karagümrük S.K."
+970 "J. Karlsson
+LW" "AZ Alkmaar"
+971 "Caio Henrique
+LB LM" "AS Monaco"
+972 "W. Endo
+CDM CM" "VfB Stuttgart"
+973 "S. Singh
+CAM RM" "SSV Jahn Regensburg"
+974 "J. Dasilva
+LB LWB RM" "Bristol City"
+975 "S. Nakajima
+CAM LW RW" "Portimonense SC"
+976 "J. Ito
+RW CF" "KRC Genk"
+977 "T. Adams
+CDM CM RWB" "RB Leipzig"
+978 "T. Dele-Bashiru
+CM RM LM" Reading
+979 "K. Mac Allister
+CB RB" "Argentinos Juniors"
+980 "R. Le Normand
+CB" "Real Sociedad"
+981 "T. Chong
+LM CAM" "Birmingham City"
+982 "Zubeldia
+CB" "Real Sociedad"
+983 "O. Edouard
+ST LW" "Crystal Palace"
+984 "S. Villa
+LW RW" "Boca Juniors"
+985 "Odriozola
+RB" Fiorentina
+986 "Y. Herrera
+CM CDM CAM" "RCD Espanyol de Barcelona"
+987 "I. Radu
+GK" Inter
+988 "Aurélio Buta
+RB RM" "Royal Antwerp FC"
+989 "J. Quiñones
+ST RM CAM" "Club Atlas"
+990 "J. Brekalo
+CF LW" "Torino F.C."
+991 "Z. Steffen
+GK" "Manchester City"
+992 "V. Janelt
+CDM CM" Brentford
+993 "Rúben Vinagre
+LWB LB" "Sporting CP"
+994 "Y. En-Nesyri
+ST LW" "Sevilla FC"
+995 "T. Ndombele
+CM CDM CAM" "Olympique Lyonnais"
+996 "M. Edwards
+RW LW" "Sporting CP"
+997 "R. Yates
+CDM CM" "Nottingham Forest"
+998 "E. Ampadu
+CDM CM CB" "Venezia FC"
+999 "R. Marin
+CM" Cagliari
+1000 "A. Pinamonti
+ST" Empoli
+1001 "C. Ünder
+RW RM" "Olympique de Marseille"
+1002 "Brais Méndez
+RM" "RC Celta de Vigo"
+1003 "Marc Roca
+CDM CM" "FC Bayern München"
+1004 "N. Briasco
+ST RW RM" "Boca Juniors"
+1005 "M. Senesi
+CB" Feyenoord
+1006 "A. Touba
+CB" "RKC Waalwijk"
+1007 "A. Barkok
+CAM RM CF" "Eintracht Frankfurt"
+1008 "David Neres
+RW CAM" "Shakhtar Donetsk"
+1009 "S. Lukić
+CM CDM CAM" "Torino F.C."
+1010 "B. Vazquez
+ST" "FC Cincinnati"
+1011 "J. Torunarigha
+CB LB" "KAA Gent"
+1012 "J. Davies
+CM" "Wrexham AFC"
+1013 "E. Bardhi
+LM CM RM" "Levante Unión Deportiva"
+1014 "J. Willock
+CM CAM" "Newcastle United"
+1015 "S. Twine
+LW" "Milton Keynes Dons"
+1016 "P. Estupiñán
+LB LWB" "Villarreal CF"
+1017 "N. Milenković
+CB RB" Fiorentina
+1018 "M. Roerslev
+RWB RB" Brentford
+1019 "M. Johnston
+LW RW" Celtic
+1020 "S. Guirassy
+ST" "Stade Rennais FC"
+1021 "B. Drągowski
+GK" Fiorentina
+1022 "E. Fernandes
+CM CDM" "BSC Young Boys"
+1023 "K. Baldé
+ST LM" Cagliari
+1024 "Capa
+RB" "Athletic Club de Bilbao"
+1025 "A. Robertson
+LB" Liverpool
+1026 "G. Honeyman
+CM CAM RW" "Hull City"
+1027 "M. Politano
+RW RM" Napoli
+1028 "Wendell
+LB" "FC Porto"
+1029 "Álex Moreno
+LB" "Real Betis Balompié"
+1030 "C. Arango
+ST CAM" "Los Angeles FC"
+1031 "O. Ntcham
+CM CAM RW" "Swansea City"
+1032 "L. Ajorque
+ST" "RC Strasbourg Alsace"
+1033 "S. Benrahma
+LM CAM" "West Ham United"
+1034 "P. Billing
+CM CAM" "AFC Bournemouth"
+1035 "R. Thomas
+CM CAM CDM" PSV
+1036 "D. Sánchez
+CB" "Tottenham Hotspur"
+1037 "D. Calvert-Lewin
+ST" Everton
+1038 "L. Acosta
+CAM" "FC Cincinnati"
+1039 "Y. Moreno
+LB LM" Pachuca
+1040 "T. Adarabioyo
+CB" Fulham
+1041 "T. Bishop
+CM RB" "Lincoln City"
+1042 "M. Friedrich
+CB" "Borussia Mönchengladbach"
+1043 "L. Gooch
+RM RWB" Sunderland
+1044 "R. Ledson
+CDM CM" "Preston North End"
+1045 "T. Walker
+ST" Portsmouth
+1046 "A. Zedadka
+RB" "Clermont Foot 63"
+1047 "Joelinton
+CAM CM ST" "Newcastle United"
+1048 "A. Nübel
+GK" "AS Monaco"
+1049 "K. Hazard
+LW RW" "KSV Cercle Brugge"
+1050 "M. Acuña
+LB LM CB" "Sevilla FC"
+1051 "J. Bowen
+RM ST" "West Ham United"
+1052 "D. Telford
+ST" "Newport County"
+1053 "A. Meret
+GK" Napoli
+1054 "N. Amiri
+CAM CM" Genoa
+1055 "E. Bailly
+CB" "Manchester United"
+1056 "T. Cantwell
+LW LM CM" "AFC Bournemouth"
+1057 "D. Verde
+RW CAM" Spezia
+1058 "M. Niakhaté
+CB" "1. FSV Mainz 05"
+1059 "R. Oxford
+CB CDM RB" "FC Augsburg"
+1060 "Hwang Hee Chan
+LW ST" "Wolverhampton Wanderers"
+1061 "Pablo Fornals
+CAM LM" "West Ham United"
+1062 "I. Hagi
+RW CAM" "Rangers FC"
+1063 "T. Minamino
+CF LW RW" Liverpool
+1064 "A. Onana
+GK" Ajax
+1065 "Daniel Podence
+LW CAM ST" "Wolverhampton Wanderers"
+1066 "W. Ndidi
+CDM CM" "Leicester City"
+1067 "Gelson Martins
+RM LM" "AS Monaco"
+1068 "Yeray
+CB" "Athletic Club de Bilbao"
+1069 "D. Burnić
+CM" "1. FC Heidenheim 1846"
+1070 "M. Vojvoda
+RWB LM LWB" "Torino F.C."
+1071 "L. Martínez Quarta
+CB" Fiorentina
+1072 "J. Fuchs
+CM CDM" "Peterborough United"
+1073 "Palhinha
+CDM CM" "Sporting CP"
+1074 "F. Maouassa
+LB" "Club Brugge KV"
+1075 "L. Nmecha
+ST" "VfL Wolfsburg"
+1076 "Louri Beretta
+ST CF" "RB Bragantino"
+1077 "Welington Dano
+LB LM" "Clube Atlético Mineiro"
+1078 "Oswaldinato
+ST" Flamengo
+1079 "J. Worrall
+CB" "Nottingham Forest"
+1080 "C. Immobile
+ST" Lazio
+1081 "K. Manolas
+CB" "Olympiacos CFP"
+1082 "Neto
+GK" "FC Barcelona"
+1083 "A. Townsend
+RM" Everton
+1084 "J. Ayew
+RW ST RM" "Crystal Palace"
+1085 "Raúl Carnero
+LB LM" "Real Valladolid CF"
+1086 "Pablo Sarabia
+RW CAM LW" "Sporting CP"
+1087 "C. Bakambu
+ST" "Olympique de Marseille"
+1088 "V. Aboubakar
+ST" "Al Nassr"
+1089 "Sergi Roberto
+RB CM" "FC Barcelona"
+1090 "F. Acerbi
+CB" Lazio
+1091 "R. van Rhijn
+RB CB" "Karlsruher SC"
+1092 "Casemiro
+CDM" "Real Madrid CF"
+1093 "H. Vanaken
+CM CAM" "Club Brugge KV"
+1094 "J. Oblak
+GK" "Atlético de Madrid"
+1095 "Paco Alcácer
+ST" "Villarreal CF"
+1096 "K. Volland
+CF ST CAM" "AS Monaco"
+1097 "J. Schlupp
+LM CM" "Crystal Palace"
+1098 "D. Henry
+CB" Canada
+1099 "G. Kondogbia
+CM CDM CB" "Atlético de Madrid"
+1100 "M. Boxall
+CB" "Minnesota United FC"
+1101 "T. Meunier
+RB RM" "Borussia Dortmund"
+1102 "J. Roussillon
+LB LM" "VfL Wolfsburg"
+1103 "J. Vestergaard
+CB" "Leicester City"
+1104 "L. Spinazzola
+LB LWB LM" Roma
+1105 "A. Florenzi
+RB RWB" "AC Milan"
+1106 "C. Kramer
+CDM" "Borussia Mönchengladbach"
+1107 "J. Locadia
+ST LW LM" "VfL Bochum 1848"
+1108 "W. Orban
+CB" "RB Leipzig"
+1109 "Carvajal
+RB" "Real Madrid CF"
+1110 "Portu
+RW LW" "Real Sociedad"
+1111 "R. Fredericks
+RB RWB" "West Ham United"
+1112 "L. Trossard
+LM ST CAM" "Brighton & Hove Albion"
+1113 "Insua
+CB" "SD Huesca"
+1114 "L. Vietto
+LM CAM" "Al Shabab"
+1115 "J. Veltman
+CB RB RWB" "Brighton & Hove Albion"
+1116 "A. Doucouré
+CM CDM" Everton
+1117 "E. Forsberg
+CAM CF ST" "RB Leipzig"
+1118 "A. Belotti
+ST" "Torino F.C."
+1119 "S. Mané
+LW CF" Liverpool
+1120 "Fabinho
+CDM CB" Liverpool
+1121 "S. Magnasco
+RB LB" "Unión Española"
+1122 "A. Rabiot
+CM LM" Juventus
+1123 "F. Schär
+CB" "Newcastle United"
+1124 "Otávio
+RM LM" "FC Porto"
+1125 "Lucas João
+ST" Reading
+1126 "E. Hysaj
+LB RB" Lazio
+1127 "T. Lawrence
+LM ST CAM" "Derby County"
+1128 "M. Meyer
+CM CAM LM" "FC Midtjylland"
+1129 "T. Strakosha
+GK" Lazio
+1130 "N. Süle
+CB RB" "FC Bayern München"
+1131 "A. Laporte
+CB" "Manchester City"
+1132 "R. Bazoer
+CB CM" Vitesse
+1133 "Alex Telles
+LB" "Manchester United"
+1134 "G. Zardes
+ST" "Colorado Rapids"
+1135 "Anderson Talisca
+CF ST CAM" "Al Nassr"
+1136 "Ricardo Horta
+CF ST LW" "SC Braga"
+1137 "R. Loftus-Cheek
+CM RM" Chelsea
+1138 "M. Willock
+CM" "Salford City"
+1139 "F. Angileri
+LB LWB" "River Plate"
+1140 "16
+ G. Pasquale
+LM" "Udinese Calcio"
+1141 "09
+ P. Maldini
+CB" "AC Milan"
+1142 "10
+ F. Cannavaro
+CB" Juventus
+1143 "19
+ R. van Persie
+ST CAM" Feyenoord
+1144 "13
+ C. Metzelder
+CB RB" "FC Schalke 04"
+1145 "16
+ Mikel Arteta
+CM CDM" Arsenal
+1146 "Joaquín
+RM LM" "Real Betis Balompié"
+1147 "Pepe
+CB" "FC Porto"
+1148 "Fernandinho
+CDM" "Manchester City"
+1149 "17
+ E. Cambiasso
+CM CDM" "Olympiacos CFP"
+1150 "Sergio Ramos
+CB" "Paris Saint-Germain"
+1151 "R. Pasveer
+GK" Ajax
+1152 "Thiago Silva
+CB" Chelsea
+1153 "M. Neuer
+GK" "FC Bayern München"
+1154 "H. Lloris
+GK" "Tottenham Hotspur"
+1155 "E. Lamela
+RW RM CAM" "Sevilla FC"
+1156 "L. Schøne
+CM CDM" "N.E.C. Nijmegen"
+1157 "W. Reid
+CB" "New Zealand"
+1158 "Vieirinha
+LB RB CB" PAOK
+1159 "15
+ R. Drenthe
+RM LM CAM" "Kayseri Erciyesspor"
+1160 "Willian
+RM RW LW" Arsenal
+1161 "S. Jovetić
+ST CAM" "Hertha BSC"
+1162 "A. Modeste
+ST" "1. FC Köln"
+1163 "Hao Junmin
+CDM CM" "China PR"
+1164 "M. Sissoko
+CDM CM" Watford
+1165 "J. Henderson
+CM CDM" Liverpool
+1166 "M. Arnautović
+ST" Bologna
+1167 "19
+ Ramires
+CDM" "Jiangsu FC"
+1168 "20
+ K. Honda
+CAM CM" Vitesse
+1169 "M. Balotelli
+ST" "Adana Demirspor"
+1170 "K. Walker
+RB" "Manchester City"
+1171 "A. Hernández
+ST" "Club Atlético de San Luis"
+1172 "Parejo
+CM" "Villarreal CF"
+1173 "Canales
+RM CM LM" "Real Betis Balompié"
+1174 "B. André
+CDM CM" "LOSC Lille"
+1175 "M. Antonio
+ST" "West Ham United"
+1176 "D. Blind
+LB CB" Ajax
+1177 "J. McAtee
+CAM" "Manchester City"
+1178 "M. Benita
+RB RW" Feyenoord
+1179 "M. Abline
+ST" "Le Havre AC"
+1180 "W. Sulaeman
+RM" "Lechia Gdańsk"
+1181 "M. De La Cruz
+LB" "LDU Quito"
+1182 "J. James
+CM CAM" "Birmingham City"
+1183 "C. Wilson
+RWB CB" "Shrewsbury Town"
+1184 "T. Steward
+GK" Portsmouth
+1185 "A. Tibidi
+CF ST" "VfB Stuttgart"
+1186 "J. Kiwior
+CDM CB" Spezia
+1187 "E. García
+ST CF" "San Lorenzo de Almagro"
+1188 "Fresneda
+RB" "Real Valladolid CF"
+1189 "A. Ramsey
+CM" "Cheltenham Town"
+1190 "A. Foti
+CM RW CAM" "Eintracht Frankfurt"
+1191 "J. Rich-Baghuelou
+CB" "Accrington Stanley"
+1192 "A. Bakayoko
+CB" "AS Saint-Étienne"
+1193 "N. Boateng
+RW ST" Millwall
+1194 "G. Carneiro
+ST CF RW" "Liverpool Fútbol Club"
+1195 "L. MacNaughton
+CB" "Toronto FC"
+1196 "A. Dony
+LB LWB LM" "Sint-Truidense VV"
+1197 "Leonardo Buta
+LM LB" "SC Braga"
+1198 "S. Castro
+ST" "Vélez Sarsfield"
+1199 "S. Kumbedi
+RB" "Le Havre AC"
+1200 "G. Koutsias
+ST RW LW" PAOK
+1201 "Luiz Júnior
+GK" "Futebol Clube de Famalicão"
+1202 "Marvin
+RW RM RB" "Real Madrid CF"
+1203 "A. Cambiaso
+LWB LB RB" Genoa
+1204 "R. Tagir
+CB" "İstanbul Başakşehir FK"
+1205 "M. Al-Tamari
+RM RWB" "Oud-Heverlee Leuven"
+1206 "N. Jackson
+ST CAM LM" "Villarreal CF"
+1207 "J. Ideho
+LM RM CF" Arsenal
+1208 "N. Castro
+CM LW" "Newell's Old Boys"
+1209 "D. Aceves
+LB" Pachuca
+1210 "B. Aguirre
+RB LB RM" "Club Atlético Lanús"
+1211 "Mingueza
+CB RB" "FC Barcelona"
+1212 "M. Vitík
+CB RB" "AC Sparta Praha"
+1213 "I. Matanović
+ST" "FC St. Pauli"
+1214 "A. Sima
+RM ST" "Stoke City"
+1215 "M. Diambou
+CDM" "FC Red Bull Salzburg"
+1216 "N. Dorgeles
+CAM ST" "SV Ried"
+1217 "N. Ohio
+ST" "FK Austria Wien"
+1218 "A. Sato
+ST" "Tokushima Vortis"
+1219 "Eom Ji Sung
+RM RW" "GwangJu FC"
+1220 "C. Sandra
+CAM RW" "Club Brugge KV"
+1221 "Kaio Jorge
+ST" Juventus
+1222 "E. Baggott
+CB" "Ipswich Town"
+1223 "M. Kjaergaard
+CAM CM ST" "FC Red Bull Salzburg"
+1224 "K. Schade
+RM ST" "Sport-Club Freiburg"
+1225 "A. Scott
+CAM CM RM" "Bristol City"
+1226 "G. Norambuena
+RW LW" "Unión Española"
+1227 "D. Yapi
+ST" "Colorado Rapids"
+1228 "D. Fomin
+CM CDM" Russia
+1229 "L. Mbete
+CB" "Manchester City"
+1230 "Gori
+CM CAM" "RCD Espanyol de Barcelona"
+1231 "Álex Suárez Cardero
+CM CAM" "Real Oviedo"
+1232 "W. Mikelbrencis
+RWB" "FC Metz"
+1233 "S. Raebiger
+CM CAM" "RB Leipzig"
+1234 "R. Popa
+GK" "FC U Craiova 1948"
+1235 "R. Ilie
+CAM CM" "Rapid București"
+1236 "Turrientes
+CM CDM" "Real Sociedad B"
+1237 "Karrikaburu
+ST" "Real Sociedad B"
+1238 "Serginho
+LM RM RW" "GZT Giresunspor"
+1239 "M. Faßbender
+RM LM ST" "SV Meppen"
+1240 "F. Stevanović
+LM LW" "SC Heerenveen"
+1241 "Renato Júnior
+ST" "Portimonense SC"
+1242 "S. Vrontis
+CM RM CAM" Cyprus
+1243 "L. Coulibaly
+RW ST" "FC Nordsjælland"
+1244 "A. Kamara
+CM" "Borussia Dortmund"
+1245 "M. Peart-Harris
+CAM CM" Brentford
+1246 "L. Hartjes
+CDM CM" Feyenoord
+1247 "Andrew
+GK" "Gil Vicente FC"
+1248 "Papu Mendes
+ST" "Servette FC"
+1249 "Vanderson
+RB RM" "AS Monaco"
+1250 "B. Locko
+LB LWB" "Stade de Reims"
+1251 "L. Thompson
+CDM CM" "Derby County"
+1252 "S. Babkin
+CM" "FC Lokomotiv Moscow"
+1253 "M. Viti
+CB LB" Empoli
+1254 "Llabrés
+LM RM" "RCD Mallorca"
+1255 "O. Gene
+RWB" "Amiens SC"
+1256 "I. Koné
+CM" "Club de Foot Montréal"
+1257 "E. Poku
+RW ST" "AZ Alkmaar"
+1258 "D. van der Kust
+LB" "FC Utrecht"
+1259 "F. Fofana
+ST" PSV
+1260 "C. Evans
+CB" "Swansea City"
+1261 "K. Ofori
+LM RM CAM" "SC Paderborn 07"
+1262 "I. Ndiaye
+RM LM RW" "FC Luzern"
+1263 "S. Alexandropoulos
+CDM CM" "Panathinaikos FC"
+1264 "Fer Niño
+ST" "RCD Mallorca"
+1265 "Nico Melamed
+LM CAM RM" "RCD Espanyol de Barcelona"
+1266 "L. Flach
+CM CDM LB" "Philadelphia Union"
+1267 "L. Morales
+GK" "Club Atlético Lanús"
+1268 "I. Kaboré
+RWB RB" "ESTAC Troyes"
+1269 "Matheus Nunes
+CM" "Sporting CP"
+1270 "L. Provod
+CM LM RM" "SK Slavia Praha"
+1271 "Arambarri
+CB" "Real Sociedad B"
+1272 "C. Campbell
+CAM LW" "Wolverhampton Wanderers"
+1273 "J. Bell
+CM CDM" "Brøndby IF"
+1274 "P. Wålemark
+RW" Feyenoord
+1275 "Francés
+CB RB" "Real Zaragoza"
+1276 "Reinier
+CAM" "Borussia Dortmund"
+1277 "M. Arezo
+ST" "Granada CF"
+1278 "Atienza
+CM CDM" "SD Eibar"
+1279 "J. Marshall-Rutty
+RB RM" "Toronto FC"
+1280 "R. Araki
+CAM ST LM" "Kashima Antlers"
+1281 "I. Nuhu
+ST LW" "KAS Eupen"
+1282 "R. Hatate
+CM" Celtic
+1283 "L. Lacroix
+CB" "FC Metz"
+1284 "M. Nuñez
+CM RB" "Universidad Católica"
+1285 "L. Samardžić
+CAM CM" "Udinese Calcio"
+1286 "21
+ A. Papetti
+CB" Brescia
+1287 "P. Abraham
+LM ST" "FC Groningen"
+1288 "A. Kuol
+ST" "SV Sandhausen"
+1289 "B. Chrisene
+LB LWB" "Aston Villa"
+1290 "W. Fish
+CB" "Manchester United"
+1291 "R. Staunton
+CB LB" "Bradford City"
+1292 "M. Dárdai
+CB" "Hertha BSC"
+1293 "M. Tillman
+ST" "FC Bayern München"
+1294 "K. de la Fuente
+LW LM" "Olympique de Marseille"
+1295 "T. Dolan
+RW ST" "Blackburn Rovers"
+1296 "L. Ugochukwu
+CM CDM" "Stade Rennais FC"
+1297 "C. Watts
+CM CDM" "Crawley Town"
+1298 "L. Gourna
+CDM CM" "AS Saint-Étienne"
+1299 "A. Theate
+CB LB" Bologna
+1300 "Alex Baena
+CM RM ST" "Girona FC"
+1301 "B. Nsimba
+ST RM LM" "Royal Antwerp FC"
+1302 "F. Flores
+CB" "San Lorenzo de Almagro"
+1303 "M. Carreón
+CAM" "Club Universidad Nacional"
+1304 "J. Kuchta
+ST CAM" "Czech Republic"
+1305 "S. Mara
+ST" "FC Girondins de Bordeaux"
+1306 "R. Calafiori
+LB LM" Genoa
+1307 "S. Naveda
+CDM CM" "Club América"
+1308 "L. Martínez Dupuy
+ST" "Rosario Central"
+1309 "G. Infantino
+RM LM CAM" "Rosario Central"
+1310 "A. Amoo
+RM" "F.C. København"
+1311 "B. Arrey-Mbi
+CB" "1. FC Köln"
+1312 "E. Dinkçi
+RW CF" "SV Werder Bremen"
+1313 "C. Özkacar
+CB" "Oud-Heverlee Leuven"
+1314 "E. Matazo
+CM CDM" "AS Monaco"
+1315 "K. Aktürkoğlu
+LM RM" "Galatasaray SK"
+1316 "Toti
+CB" "Wolverhampton Wanderers"
+1317 "Zarraga
+CM CAM RM" "Athletic Club de Bilbao"
+1318 "J. Lepenant
+CDM CM" "Stade Malherbe Caen"
+1319 "A. Çankaya
+CB CDM RB" "Göztepe SK"
+1320 "K. Goden
+RB RM" "TSV 1860 München"
+1321 "A. Gallo
+LB LM" Lecce
+1322 "N. Aguerd
+CB" "Stade Rennais FC"
+1323 "B. Yáñez
+LM LW" "Unión Española"
+1324 "K. Sowah
+RW CAM" "AZ Alkmaar"
+1325 "A. Moreno
+CM CDM" "Racing Club"
+1326 "D. Palacios
+LB" "Los Angeles FC"
+1327 "F. Becker
+CM CDM" "FC St. Pauli"
+1328 "N. Wood
+CB" Middlesbrough
+1329 "J. Teze
+RB CB" PSV
+1330 "19
+ O. Abdulrahman
+CAM" "Al Hilal"
+1331 "F. Krüger
+LM ST RM" "DSC Arminia Bielefeld"
+1332 "F. Domínguez
+RM RWB RB" "Racing Club"
+1333 "S. Janneh
+ST" "Shrewsbury Town"
+1334 "J. Cavallo
+LB CDM" "Adelaide United"
+1335 "Á. Barreal
+RM LM" "FC Cincinnati"
+1336 "J. Bennett
+LW" "Tottenham Hotspur"
+1337 "H. White
+CDM LB" "Tottenham Hotspur"
+1338 "M. Fagan-Walcott
+CB" "Tottenham Hotspur"
+1339 "J. Bowden
+CM CDM" "Tottenham Hotspur"
+1340 "Adrià Pedrosa
+LB" "RCD Espanyol de Barcelona"
+1341 "Iñaki Peña
+GK" "Galatasaray SK"
+1342 "B. Caicedo
+LB LM" "Independiente del Valle"
+1343 "N. Fadiga
+RB" "Heracles Almelo"
+1344 "L. Dajaku
+RM" Sunderland
+1345 "R. Sottil
+LW LM RW" Fiorentina
+1346 "D. Revan
+CB LB" "Aston Villa"
+1347 "F. Almada
+CB RB" "Rosario Central"
+1348 "D. Sorescu
+RM CF RB" "Raków Częstochowa"
+1349 "Fidalgo
+CAM CDM CM" "Club América"
+1350 "T. Buchanan
+RM LM" "Club Brugge KV"
+1351 "D. Jones
+LB RB" "New England Revolution"
+1352 "O. Holm
+CM" "Vålerenga Fotball"
+1353 "F. Nmecha
+CAM CM" "VfL Wolfsburg"
+1354 "J. Ramsey
+CM CAM" "Aston Villa"
+1355 "P. Ševčík
+CM RM CDM" "SK Slavia Praha"
+1356 "A. Palaversa
+CM CDM" "KV Kortrijk"
+1357 "Unai Vencedor
+CM CDM" "Athletic Club de Bilbao"
+1358 "Marcos Antonio
+CM CDM" "Shakhtar Donetsk"
+1359 "F. Mambimbi
+ST LM RM" "BSC Young Boys"
+1360 "Kim Tae Hwan
+RWB RM" "Suwon Samsung Bluewings"
+1361 "Thierry Correia
+RB RWB RM" "Valencia CF"
+1362 "C. Petrila
+LW RW ST" "CFR Cluj"
+1363 "Song Min Kyu
+LM CAM" "Jeonbuk Hyundai Motors"
+1364 "T. Ballo
+RM CAM" Chelsea
+1365 "Z. Duncan
+CM" "Aarhus GF"
+1366 "Gustavo Assunção
+CDM CM" "Futebol Clube de Famalicão"
+1367 "M. Taferner
+CM" "RZ Pellets Wolfsberger AC"
+1368 "T. Anjorin
+CAM CM" "Huddersfield Town"
+1369 "E. Mosquera
+LM" "Atlanta United"
+1370 "B. Cabango
+CB" "Swansea City"
+1371 "O. Pendlebury
+CM CDM" "Wycombe Wanderers"
+1372 "B. Ojeda
+CM CDM" "Nottingham Forest"
+1373 "B. Jackson
+LB LWB" "Doncaster Rovers"
+1374 "L. Greiml
+CB" "SK Rapid Wien"
+1375 "J. Stanišić
+RB CB" "FC Bayern München"
+1376 "T. Holeš
+CDM CB" "SK Slavia Praha"
+1377 "Jean Lucas
+CM CDM" "AS Monaco"
+1378 "Tiago Dantas
+CM CAM" "CD Tondela"
+1379 "Samuel Lino
+LW ST RW" "Gil Vicente FC"
+1380 "J. Mbom
+CM RWB CDM" "SV Werder Bremen"
+1381 "20
+ P. Mahlambi
+CAM RW CF" "South Africa"
+1382 "A. Preciado
+LM RM" "Santos Laguna"
+1383 "J. Þorsteinsson
+LW" "Aarhus GF"
+1384 "Nolaskoain
+CB CM CDM" "SD Amorebieta"
+1385 "C. Dagba
+RB" "Paris Saint-Germain"
+1386 "D. Martínez
+CB LB" "River Plate"
+1387 "T. Belmonte
+CM CDM" "Club Atlético Lanús"
+1388 "P. Schuurs
+CB" Ajax
+1389 "R. Hoffmann
+GK" Sunderland
+1390 "S. Barreto
+CB" "Club Atlético Independiente"
+1391 "E. Watt
+CDM" "Bradford City"
+1392 "Igor Silva
+RWB" "FC Lorient"
+1393 "K. Bistrović
+CDM CM" "Fatih Karagümrük S.K."
+1394 "H. Evjen
+RW CM" "AZ Alkmaar"
+1395 "Ferro
+CB" "Hajduk Split"
+1396 "Stephen Eustáquio
+CDM CM" "FC Porto"
+1397 "L. Cacace
+LWB LB LM" Empoli
+1398 "A. Dovbyk
+ST" Ukraine
+1399 "C. Cásseres Jr
+CDM CM RM" "New York Red Bulls"
+1400 "D. Caicedo
+LM RM CF" "Vancouver Whitecaps FC"
+1401 "G. Bello
+LB LWB LM" "DSC Arminia Bielefeld"
+1402 "M. Frendrup
+CDM CM" Genoa
+1403 "A. Saelemaekers
+RW RM" "AC Milan"
+1404 "I. Louza
+CM CDM" Watford
+1405 "A. Appiah
+RM LM RW" "Unión Deportiva Almería"
+1406 "S. Ndlovu
+CM LM LB" "Orlando Pirates"
+1407 "N. Kirwan
+RB LB RM" "New Zealand"
+1408 "L. Romo
+CM CDM" "CF Monterrey"
+1409 "Teng Shangkun
+GK" "Tianjin Jinmen Tiger FC"
+1410 "E. Mwepu
+CM CAM CDM" "Brighton & Hove Albion"
+1411 "K. Agudelo
+RW CM CAM" Spezia
+1412 "Josep Martínez
+GK" "RB Leipzig"
+1413 "D. Valencia
+ST RW LW" "Universidad Católica"
+1414 "T. Richards
+CAM CM" "Birmingham City"
+1415 "B. Williams
+LB RB" "Norwich City"
+1416 "E. Loiodice
+CDM CM" "Unión Deportiva Las Palmas"
+1417 "De Frutos
+RM LM" "Levante Unión Deportiva"
+1418 "L. Openda
+ST" Vitesse
+1419 "M. Camara
+CDM CM" "AS Saint-Étienne"
+1420 "K. Scherpen
+GK" "KV Oostende"
+1421 "S. Mamba
+ST RW LW" "F.C. Hansa Rostock"
+1422 "N. Burkart
+ST CF LW" "Sport-Club Freiburg"
+1423 "S. High
+CM" "Huddersfield Town"
+1424 "A. Lunin
+GK" "Real Madrid CF"
+1425 "B. Mendy
+CDM CB CM" "Angers SCO"
+1426 "U. Račić
+CM CDM" "Valencia CF"
+1427 "A. Rrahmani
+CB" Napoli
+1428 "A. Idah
+ST" "Norwich City"
+1429 "M. Shaparenko
+CM CAM" "Dynamo Kyiv"
+1430 "V. Mykolenko
+LB LWB" Everton
+1431 "M. Camara
+CB" "BSC Young Boys"
+1432 "V. Coufal
+RB RWB" "West Ham United"
+1433 "J. Bogle
+RWB RB" "Sheffield United"
+1434 "K. Goden
+RB RM" "TSV 1860 München"
+1435 "A. Gallo
+LB LM" Lecce
+1436 "N. Aguerd
+CB" "Stade Rennais FC"
+1437 "B. Yáñez
+LM LW" "Unión Española"
+1438 "K. Sowah
+RW CAM" "AZ Alkmaar"
+1439 "A. Moreno
+CM CDM" "Racing Club"
+1440 "B. Woodburn
+LW CM" "Heart of Midlothian"
+1441 "Aarón
+LWB LB LM" "1. FSV Mainz 05"
+1442 "T. O'Connor
+CDM CM" "Wrexham AFC"
+1443 "R. Koch
+CB CDM" "Leeds United"
+1444 "G. Arteaga
+LB" "KRC Genk"
+1445 "J. Pavlenka
+GK" "SV Werder Bremen"
+1446 "J. Tanganga
+RWB RB CB" "Tottenham Hotspur"
+1447 "L. Fomba
+CDM CM" "Nîmes Olympique"
+1448 "A. Tanaka
+CDM CM" "Fortuna Düsseldorf"
+1449 "T. Souček
+CDM CM" "West Ham United"
+1450 "I. Angulo
+RW LW" "Portimonense SC"
+1451 "G. Gudmundsson
+LB LM" "LOSC Lille"
+1452 "Y. Maleh
+CM" Fiorentina
+1453 "A. Dreyer
+RW CAM" "FC Midtjylland"
+1454 "H. Wolf
+CAM LW LWB" "Swansea City"
+1455 "L. Blessing
+CM RB" "Los Angeles FC"
+1456 "K. Dewsbury-Hall
+CM CDM" "Leicester City"
+1457 "Nouhou
+CB LB" "Seattle Sounders FC"
+1458 "A. Sampsted
+RB" "FK Bodø/Glimt"
+1459 "P. Cutrone
+ST" Empoli
+1460 "K. Matsubara
+LB LWB" "Sint-Truidense VV"
+1461 "N. Kirby
+LW CM" "Crystal Palace"
+1462 "U. Antuna
+RM LM RW" "Cruz Azul"
+1463 "J. Cumming
+GK" "Milton Keynes Dons"
+1464 "D. Sterling
+RB LB" Blackpool
+1465 "M. Demiral
+CB" Atalanta
+1466 "A. Sigurðsson
+CF CM" "Venezia FC"
+1467 "K. Diatta
+RM" "AS Monaco"
+1468 "F. Coman
+LW ST" "FCSB (Steaua)"
+1469 "D. Gazdag
+CAM CM" "Philadelphia Union"
+1470 "P. Pellegri
+ST" "Torino F.C."
+1471 "R. Harper
+CDM CM" "Crewe Alexandra"
+1472 "R. Schallenberg
+CDM CM" "SC Paderborn 07"
+1473 "N. Cozza
+CB LB" "Montpellier Hérault SC"
+1474 "T. Magloire
+CB" "Northampton Town"
+1475 "Óscar
+CM RM LM" "Getafe CF"
+1476 "R. Hack
+CAM LM CF" "DSC Arminia Bielefeld"
+1477 "P. Płacheta
+LM" "Norwich City"
+1478 "Jordi Mboula
+RM RW LM" "Estoril Praia"
+1479 "J. Angulo
+CB LB LWB" "Tigres U.A.N.L."
+1480 "M. Cuisance
+CM CAM CDM" "Venezia FC"
+1481 "E. Zhegrova
+RM LM" "LOSC Lille"
+1482 "O. Kabak
+CB" "Norwich City"
+1483 "J. Arp
+ST RW LW" "Holstein Kiel"
+1484 "L. Plogmann
+GK" "SV Werder Bremen"
+1485 "M. Gabbia
+CB" "AC Milan"
+1486 "L. Zidane
+GK" "Rayo Vallecano"
+1487 "T. Tillman
+CM CAM LW" "SpVgg Greuther Fürth"
+1488 "Ander Guevara
+CM" "Real Sociedad"
+1489 "S. Baptiste
+CM CDM CAM" Brentford
+1490 "M. Ojeda
+RM LM" "Godoy Cruz"
+1491 "Y. Atal
+RB RM" "OGC Nice"
+1492 "C. Coventry
+CM" "Milton Keynes Dons"
+1493 "Unai Núñez
+CB" "Athletic Club de Bilbao"
+1494 "J. Carranza
+ST" "Philadelphia Union"
+1495 "M. Payero
+CM" Middlesbrough
+1496 "T. Chancalay
+LM LW RM" "Racing Club"
+1497 "G. Marsh
+CDM" "AFC Wimbledon"
+1498 "I. Ganago
+ST" "Racing Club de Lens"
+1499 "J. Mbom
+CM RWB CDM" "SV Werder Bremen"
+1500 "J. Lucumí
+CB" "KRC Genk"
+1501 "A. Ounas
+RW ST RM" Napoli
+1502 "K. Edwards
+LW LM" "Ipswich Town"
+1503 "R. Nelson
+RW LW" Feyenoord
+1504 "L. Kelly
+CB LB" "AFC Bournemouth"
+1505 "I. Diallo
+LB CB" "AC Ajaccio"
+1506 "J. Justin
+LB RB" "Leicester City"
+1507 "I. Diop
+CB" "West Ham United"
+1508 "Curro Sánchez
+RM CAM CM" "Unión Deportiva Almería"
+1509 "K. Davis
+ST" "Nottingham Forest"
+1510 "J. Harrison
+LM RM" "Leeds United"
+1511 "R. Laryea
+RWB RB LB" "Nottingham Forest"
+1512 "A. Harit
+LM CAM CM" "Olympique de Marseille"
+1513 "D. James
+LM RM ST" "Leeds United"
+1514 "S. Ascacíbar
+CDM CM" "Hertha BSC"
+1515 "E. Adams
+CM CAM" "Forest Green Rovers"
+1516 "M. Arambarri
+CDM CM" "Getafe CF"
+1517 "J. Stage
+CM RM" "F.C. København"
+1518 "J. Dasilva
+LB LWB RM" "Bristol City"
+1519 "K. Endo
+LM LW" "1. FC Union Berlin"
+1520 "C. Mepham
+CB RB LB" "AFC Bournemouth"
+1521 "Y. Suzuki
+ST" "Kashima Antlers"
+1522 "A. Diawusie
+RM LM RW" "SG Dynamo Dresden"
+1523 "J. Koroma
+LW ST" "Huddersfield Town"
+1524 "J. Hauge
+LM RM" "Eintracht Frankfurt"
+1525 "S. Villa
+LW RW" "Boca Juniors"
+1526 "G. Escobar
+LB LWB" "UD Ibiza"
+1527 "Luiz Araújo
+RM LM" "Atlanta United"
+1528 "H. Ito
+CB CDM" "VfB Stuttgart"
+1529 "S. Breitkreuz
+CB RB" "SSV Jahn Regensburg"
+1530 "Marcão
+CB" "Galatasaray SK"
+1531 "O. Bogle
+ST" "Hartlepool United"
+1532 "Gedson Fernandes
+CM" "Çaykur Rizespor"
+1533 "J. Mæhle
+RWB LM RM" Atalanta
+1534 "C. Songkrasin
+CF CAM CM" "Kawasaki Frontale"
+1535 "Jair Amador
+CB" "Real Zaragoza"
+1536 "G. Hamer
+CM CDM" "Coventry City"
+1537 "Y. Eteki
+CDM CM" "Granada CF"
+1538 "Y. Wissa
+LW ST LM" Brentford
+1539 "J. Rasmussen
+CB" Vitesse
+1540 "F. Müller
+GK" "VfB Stuttgart"
+1541 "C. Fassnacht
+RM LM" "BSC Young Boys"
+1542 "21
+ L. Ndukwu
+CAM" "Leicester City"
+1543 "P. Rosario
+CDM CM CB" "OGC Nice"
+1544 "C. Früchtl
+GK" "FC Bayern München"
+1545 "M. Lazzari
+RB RWB RM" Lazio
+1546 "S. Özcan
+CDM CM" "1. FC Köln"
+1547 "V. Nelsson
+CB" "Galatasaray SK"
+1548 "G. Til
+CAM" Feyenoord
+1549 "Lucas Veríssimo
+CB" "SL Benfica"
+1550 "E. Ampadu
+CDM CM CB" "Venezia FC"
+1551 "B. Thomas-Asante
+RW ST" "Salford City"
+1552 "C. Ünder
+RW RM" "Olympique de Marseille"
+1553 "M. Gibbs-White
+CAM RM" "Sheffield United"
+1554 "K. Duncan
+RB RWB RM" "KV Oostende"
+1555 "Reinildo
+LB CB" "Atlético de Madrid"
+1556 "B. Woodburn
+LW CM" "Heart of Midlothian"
+1557 "Aarón
+LWB LB LM" "1. FSV Mainz 05"
+1558 "T. O'Connor
+CDM CM" "Wrexham AFC"
+1559 "R. Koch
+CB CDM" "Leeds United"
+1560 "J. Bamba
+LM" "LOSC Lille"
+1561 "J. Gomez
+CB RB" Liverpool
+1562 "Cristo González
+ST CF" "Real Valladolid CF"
+1563 "E. Skhiri
+CDM CM" "1. FC Köln"
+1564 "Rúben Lameiras
+RW" "Vitória de Guimarães"
+1565 "A. Golovin
+CAM RM LM" "AS Monaco"
+1566 "P. Gallese
+GK" "Orlando City Soccer Club"
+1567 "J. Augustin
+ST" "FC Nantes"
+1568 "K. Iheanacho
+ST CF" "Leicester City"
+1569 "20
+ Thiago Maia
+CDM CM" "LOSC Lille"
+1570 "S. McKenna
+CB" "Nottingham Forest"
+1571 "J. Gallardo
+LB LM LW" "CF Monterrey"
+1572 "F. Dimarco
+LWB LB LM" Inter
+1573 "U. Çakır
+GK" Trabzonspor
+1574 "K. Dowell
+CAM RM" "Norwich City"
+1575 "M. Coco
+RM LM RW" "FC Nantes"
+1576 "H. Preciado
+ST LM" "Santos Laguna"
+1577 "T. Minamino
+CF LW RW" Liverpool
+1578 "J. Bacuna
+CM CAM" "Birmingham City"
+1579 "P. Diop
+CDM CM" "Olympique Lyonnais"
+1580 "J. St. Juste
+CB RB" "1. FSV Mainz 05"
+1581 "Gelson Martins
+RM LM" "AS Monaco"
+1582 "Álex Remiro
+GK" "Real Sociedad"
+1583 "L. Tousart
+CDM CM" "Hertha BSC"
+1584 "M. Mittelstädt
+LB LM" "Hertha BSC"
+1585 "E. Konsa
+CB" "Aston Villa"
+1586 "R. Curtis
+LM ST" Portsmouth
+1587 "C. Carter-Vickers
+CB" Celtic
+1588 "R. Holding
+CB" Arsenal
+1589 "H. Choudhury
+CDM CM" "Leicester City"
+1590 "D. Iversen
+GK" "Preston North End"
+1591 "F. Mendy
+LB" "Real Madrid CF"
+1592 "K. Dolberg
+ST" "OGC Nice"
+1593 "O. Idrissi
+LW LM" "Cádiz CF"
+1594 "Robert Sanchéz
+GK" "Brighton & Hove Albion"
+1595 "L. García
+RW" "AEK Athens"
+1596 "L. de la Torre
+CM CDM LM" "Heracles Almelo"
+1597 "H. McKirdy
+ST RW" "Swindon Town"
+1598 "Y. Rahmani
+LM" "SD Eibar"
+1599 "L. Klünter
+CB RB" "Hertha BSC"
+1600 "B. Heynen
+CM CDM" "KRC Genk"
+1601 "Mario Hermoso
+CB LB" "Atlético de Madrid"
+1602 "N. Benedetti
+CAM LM" "Mazatlán Futbol Club"
+1603 "A. Barboza
+CB" "Club Libertad"
+1604 "R. Krunić
+CM CAM" "AC Milan"
+1605 "Córdoba
+RM LM" "Go Ahead Eagles"
+1606 "Edu Expósito
+CAM" "SD Eibar"
+1607 "A. Munksgaard
+RB" "Aarhus GF"
+1608 "A. Bardakcı
+CB" "İttifak Holding Konyaspor"
+1609 "S. Serdar
+CM CDM CAM" "Hertha BSC"
+1610 "Everton Andrão
+CDM CM" Fluminense
+1611 "Guilson Paiva
+RM RW" Flamengo
+1612 "Prazeracinho
+LW" Flamengo
+1613 "Ronaldo Cabrais
+CAM RM" Grêmio
+1614 "M. Gaćinović
+CAM CM" "Panathinaikos FC"
+1615 "T. Kadewere
+RW ST" "Olympique Lyonnais"
+1616 "M. Butcher
+CM CDM" "Accrington Stanley"
+1617 "J. Lucumí
+CB" "KRC Genk"
+1618 "A. Ounas
+RW ST RM" Napoli
+1619 "K. Edwards
+LW LM" "Ipswich Town"
+1620 "S. Gigot
+CB" "Spartak Moskva"
+1621 "C. Tolisso
+CM CDM" "FC Bayern München"
+1622 "J. Coleman
+GK" Rochdale
+1623 "N. Figal
+CB RB" "Boca Juniors"
+1624 "M. Borja
+ST" "Junior FC"
+1625 "A. Rebić
+LW ST LM" "AC Milan"
+1626 "M. Harness
+RM CAM" Portsmouth
+1627 "S. Adekugbe
+LB" "Atakaş Hatayspor"
+1628 "D. Phillips
+GK" "Cardiff City"
+1629 "L. Waldschmidt
+CF ST" "VfL Wolfsburg"
+1630 "H. Hateboer
+RWB RB RM" Atalanta
+1631 "D. Brooks
+RW RM" "AFC Bournemouth"
+1632 "E. Valencia
+ST RW LW" "Fenerbahçe SK"
+1633 "Á. Romero
+ST LW LM" "Cruz Azul"
+1634 "M. Dúbravka
+GK" "Newcastle United"
+1635 "M. Zaccagni
+LW CF" Lazio
+1636 "L. Venuti
+RB RWB RM" Fiorentina
+1637 "A. Živković
+RW LW RM" PAOK
+1638 "A. Čolak
+ST" PAOK
+1639 "C. Starfelt
+CB" Celtic
+1640 "M. Malsa
+CM CDM" "Levante Unión Deportiva"
+1641 "É. Gutiérrez
+CM CDM" PSV
+1642 "R. Borré
+ST" "Eintracht Frankfurt"
+1643 "N. Eliasson
+LM RM" "Nîmes Olympique"
+1644 "N. Keïta
+CM" Liverpool
+1645 "N. Vukčević
+CM CDM" "Levante Unión Deportiva"
+1646 "M. Oršić
+LM LW ST" "Dinamo Zagreb"
+1647 "N. Elvedi
+CB" "Borussia Mönchengladbach"
+1648 "L. Mousset
+ST" "US Salernitana 1919"
+1649 "O. Watkins
+ST LW" "Aston Villa"
+1650 "A. Morelos
+ST" "Rangers FC"
+1651 "M. Sobottka
+CDM CM" "Fortuna Düsseldorf"
+1652 "Jin Jingdao
+RM CAM CM" "Shandong Taishan"
+1653 "J. Staněk
+GK" "FC Viktoria Plzeň"
+1654 "J. Weigl
+CM CDM" "SL Benfica"
+1655 "J. Onomah
+CM CAM" Fulham
+1656 "T. Adarabioyo
+CB" Fulham
+1657 "P. Berg
+CM" "Racing Club de Lens"
+1658 "B. Embolo
+ST CAM" "Borussia Mönchengladbach"
+1659 "T. Castagne
+RB LB" "Leicester City"
+1660 "B. Schmitz
+RB CB" "1. FC Köln"
+1661 "Everton
+LM RM" "SL Benfica"
+1662 "Y. Erdoğan
+RW LW LB" Trabzonspor
+1663 "D. Oberlin
+ST RW LW" "Servette FC"
+1664 "E. Ünal
+ST" "Getafe CF"
+1665 "S. Becker
+ST RM" "1. FC Union Berlin"
+1666 "J. Rodríguez
+ST" "Al Nassr"
+1667 "S. Milinković-Savić
+CM CDM CAM" Lazio
+1668 "David Soria
+GK" "Getafe CF"
+1669 "L. Torreira
+CDM CM" Fiorentina
+1670 "Dyego Sousa
+ST" "Unión Deportiva Almería"
+1671 "Borja Iglesias
+ST" "Real Betis Balompié"
+1672 "J. Andersen
+CB" "Crystal Palace"
+1673 "C. Pavón
+LW RW LM" "Boca Juniors"
+1674 "J. Kenny
+RB LB" Everton
+1675 "G. Jones
+RB CB" "Bolton Wanderers"
+1676 "S. Wright
+RW LW CAM" "Rangers FC"
+1677 "I. Provedel
+GK" Spezia
+1678 "G. Castrovilli
+CM" Fiorentina
+1679 "J. Bamba
+LM" "LOSC Lille"
+1680 "Garry Rodrigues
+LM LW RW" "Olympiacos CFP"
+1681 "J. Hofmann
+CAM RM LM" "Borussia Mönchengladbach"
+1682 "R. Ghezzal
+RW RM" "Beşiktaş JK"
+1683 "A. Belmonte
+CDM CM" "Grenoble Foot 38"
+1684 "C. Nørgaard
+CDM CM CB" Brentford
+1685 "B. Verstraete
+CDM CM" "Royal Antwerp FC"
+1686 "Rubén García
+LM ST" "CA Osasuna"
+1687 "Rubén Blanco
+GK" "RC Celta de Vigo"
+1688 "21
+ M. Palmer
+CM CDM" "Swindon Town"
+1689 "D. Rugani
+CB" Juventus
+1690 "D. Cataldi
+CDM CM" Lazio
+1691 "T. Lawrence
+LM ST CAM" "Derby County"
+1692 "P. Gollini
+GK" "Tottenham Hotspur"
+1693 "K. Demirbay
+CM CDM" "Bayer 04 Leverkusen"
+1694 "K. Akpoguma
+CB RWB" "TSG Hoffenheim"
+1695 "D. Heuer Fernandes
+GK" "Hamburger SV"
+1696 "N. Stanciu
+CAM CM CDM" Romania
+1697 "T. Mings
+CB" "Aston Villa"
+1698 "L. Dendoncker
+CM CB" "Wolverhampton Wanderers"
+1699 "Santi Mina
+ST" "RC Celta de Vigo"
+1700 "D. Selke
+ST" "Hertha BSC"
+1701 "M. Lemina
+CM CDM" "OGC Nice"
+1702 "Hernâni
+RM LM" "Unión Deportiva Las Palmas"
+1703 "Róber
+CB CDM" "Levante Unión Deportiva"
+1704 "D. Origi
+ST LW" Liverpool
+1705 "K. Acosta
+CM CDM" "Los Angeles FC"
+1706 "N. Bentaleb
+CDM CM" "Angers SCO"
+1707 "F. Tait
+CM LM" "Stade Rennais FC"
+1708 "A. Iwobi
+RM LM CAM" Everton
+1709 "A. Hamdallah
+ST" "Al Ittihad"
+1710 "E. Sobol
+LB LM" "Club Brugge KV"
+1711 "A. Miranchuk
+CAM CF" Atalanta
+1712 "Y. Chará
+CAM LM RM" "Portland Timbers"
+1713 "J. Toljan
+RB LB" "U.S. Sassuolo Calcio"
+1714 "J. Karlström
+CDM" "Lech Poznań"
+1715 "M. Rodríguez
+LW CAM" "Altay SK"
+1716 "J. Gbamin
+CDM CM" "PFC CSKA Moscow"
+1717 "L. Zelarayán
+CAM" "Columbus Crew"
+1718 "P. Zinckernagel
+CAM RW CM" "Nottingham Forest"
+1719 "R. Skov
+RM LWB LB" "TSG Hoffenheim"
+1720 "B. Petković
+ST CAM" "Dinamo Zagreb"
+1721 "Henrique Dourado
+ST" "Henan Songshan Longmen FC"
+1722 "Quintillà
+LB LM" "CD Leganés"
+1723 "D. Zappacosta
+RWB RM LM" Atalanta
+1724 "J. Seri
+CDM CM" Fulham
+1725 "J. Giménez
+CB" "Atlético de Madrid"
+1726 "Morales
+LM ST" "Levante Unión Deportiva"
+1727 "Paulinho
+ST" "Sporting CP"
+1728 "A. Sørloth
+ST" "Real Sociedad"
+1729 "W. Hoedt
+CB" "RSC Anderlecht"
+1730 "G. Simeone
+ST" "Hellas Verona"
+1731 "Peng Xinli
+CM CAM CDM" "Shanghai Shenhua FC"
+1732 "G. Haraguchi
+CAM CM LM" "1. FC Union Berlin"
+1733 "M. Barragán
+ST" "Puebla FC"
+1734 "G. Di Lorenzo
+RB" Napoli
+1735 "T. Bongonda
+LW" "KRC Genk"
+1736 "D. Ndong
+CDM CM" "Dijon FCO"
+1737 "M. Targett
+LB" "Newcastle United"
+1738 "G. Maripán
+CB" "AS Monaco"
+1739 "I. Pussetto
+ST" "Udinese Calcio"
+1740 "G. Krychowiak
+CDM CM" "AEK Athens"
+1741 "J. Martin
+CM CDM" "Stade Rennais FC"
+1742 "M. Perin
+GK" Juventus
+1743 "L. Bacuna
+CM RW RWB" "Cardiff City"
+1744 "R. Funes Mori
+ST" "CF Monterrey"
+1745 "Jonathan Viera
+CAM CM ST" "Unión Deportiva Las Palmas"
+1746 "F. Midtsjø
+CM CDM" "AZ Alkmaar"
+1747 "J. Williams
+CAM CM" "Swindon Town"
+1748 "B. Wright
+CB" Sunderland
+1749 "D. D'Ambrosio
+CB RB" Inter
+1750 "21
+ Ibai Gómez
+RM LM RW" "Athletic Club de Bilbao"
+1751 "M. Gregoritsch
+ST CAM" "FC Augsburg"
+1752 "M. van Ginkel
+CM CDM" PSV
+1753 "S. Berghuis
+CAM RW" Ajax
+1754 "Guilherme
+RM CAM" "Guangzhou City"
+1755 "J. Schlupp
+LM CM" "Crystal Palace"
+1756 "B. Dejaegere
+CM" "Toulouse Football Club"
+1757 "Gabriel Paulista
+CB" "Valencia CF"
+1758 "K. McLean
+CM CDM" "Norwich City"
+1759 "M. Doherty
+RWB RB" "Tottenham Hotspur"
+1760 "F. Ghoulam
+LB" Napoli
+1761 "L. Kurzawa
+LB" "Paris Saint-Germain"
+1762 "J. Veretout
+CDM CM" Roma
+1763 "A. Fiola
+RB CB LB" Hungary
+1764 "B. Afobe
+ST" Millwall
+1765 "T. Meunier
+RB RM" "Borussia Dortmund"
+1766 "Sergi Darder
+CM CDM CAM" "RCD Espanyol de Barcelona"
+1767 "A. Carrillo
+RW CM" "Al Hilal"
+1768 "N. Pope
+GK" Burnley
+1769 "K. Djidji
+CB" "Torino F.C."
+1770 "M. Niang
+ST" "FC Girondins de Bordeaux"
+1771 "J. Brooks
+CB" "VfL Wolfsburg"
+1772 "20
+ S. Sanogo
+CDM CM" "Al Ittihad"
+1773 "C. Musonda
+RW LW" Chelsea
+1774 "B. Reynet
+GK" "Dijon FCO"
+1775 "W. Orban
+CB" "RB Leipzig"
+1776 "C. Taylor
+LB" Burnley
+1777 "M. Mandron
+ST" "Crewe Alexandra"
+1778 "J. Blackman
+GK" "Huddersfield Town"
+1779 "Clerc
+LB LWB" "Levante Unión Deportiva"
+1780 "Carvajal
+RB" "Real Madrid CF"
+1781 "Jorginho
+CM" Chelsea
+1782 "T. Savanier
+CAM CM" "Montpellier Hérault SC"
+1783 "Y. Aguemon
+LM CAM" "Oud-Heverlee Leuven"
+1784 "J. Willems
+LB LM LWB" "SpVgg Greuther Fürth"
+1785 "M. De Sciglio
+RB LB" Juventus
+1786 "Patric
+CB RB RM" Lazio
+1787 "21
+ D. Babunski
+CAM CM LM" "FC Viitorul Constanța"
+1788 "K. Olsson
+CM CDM" "RSC Anderlecht"
+1789 "17
+ P. Aase
+CM" "Sogndal Fotball"
+1790 "C. Walton
+GK" "Ipswich Town"
+1791 "Pablo Marí
+CB" "Udinese Calcio"
+1792 "M. Ginter
+CB" "Borussia Mönchengladbach"
+1793 "Marquinhos
+CB" "Paris Saint-Germain"
+1794 "T. Rogić
+CM CAM" Celtic
+1795 "S. Ajayi
+CB" "West Bromwich Albion"
+1796 "T. Lam
+CB CDM" Finland
+1797 "A. Gilbey
+CM" "Charlton Athletic"
+1798 "I. Cissé
+CDM CM CB" Seraing
+1799 "Y. Carrasco
+LM" "Atlético de Madrid"
+1800 "D. Payet
+CAM LW" "Olympique de Marseille"
+1801 "M. Benatia
+CB" "Fatih Karagümrük S.K."
+1802 "Vieirinha
+LB RB CB" PAOK
+1803 "Y. Sommer
+GK" "Borussia Mönchengladbach"
+1804 "Rui Patrício
+GK" Roma
+1805 "Miguel Veloso
+CM CDM" "Hellas Verona"
+1806 "Antunes
+LB" "FC Paços de Ferreira"
+1807 "E. Kawashima
+GK" "RC Strasbourg Alsace"
+1808 "I. Perišić
+LM LWB" Inter
+1809 "H. Nordtveit
+CB CDM" "TSG Hoffenheim"
+1810 "S. Gonther
+CB" "FC Erzgebirge Aue"
+1811 "J. Henderson
+CM CDM" Liverpool
+1812 "A. Ogbonna
+CB" "West Ham United"
+1813 "M. Moralez
+CAM CM" "New York City FC"
+1814 "J. Boateng
+CB" "Olympique Lyonnais"
+1815 "Fernando
+CDM CM CB" "Sevilla FC"
+1816 "19
+ Y. Brahimi
+LM" "FC Porto"
+1817 "L. Bonucci
+CB" Juventus
+1818 "P. Gulácsi
+GK" "RB Leipzig"
+1819 "Ø. Nyland
+GK" Reading
+1820 "C. Evans
+ST" "Preston North End"
+1821 "J. Holland
+CM CDM" "LASK Linz"
+1822 "H. González
+GK" "Fútbol Club Juárez"
+1823 "S. Morrison
+CB" "Cardiff City"
+1824 "S. Johansen
+CM CAM" "Queens Park Rangers"
+1825 "Rafael Tolói
+CB" Atalanta
+1826 "J. McCarthy
+CDM CM" Celtic
+1827 "B. Ecuélé Manga
+CB" "Dijon FCO"
+1828 "F. Ayité
+LM CAM ST" "Valenciennes FC"
+1829 "M. Reus
+CAM CF" "Borussia Dortmund"
+1830 "K. Walker
+RB" "Manchester City"
+1831 "20
+ S. Doumbia
+ST" "FC Sion"
+1832 "Y. Bolasie
+LM LW" "Çaykur Rizespor"
+1833 "J. Shelvey
+CM CDM" "Newcastle United"
+1834 "Coutinho
+CAM LW CM" "Aston Villa"
+1835 "T. Pukki
+ST" "Norwich City"
+1836 "21
+ Douglas Costa
+LM RW LW" "FC Bayern München"
+1837 "M. Antonio
+ST" "West Ham United"
+1838 "21
+ J. Kirchhoff
+CB CDM" "KFC Uerdingen 05"
+1839 "T. Arslan
+CDM CM" "Udinese Calcio"
+1840 "L. Hrádecký
+GK" "Bayer 04 Leverkusen"
+1841 "T. Rincón
+CM CDM" "U.C. Sampdoria"
+1842 "P. Mortensen
+ST" "Aarhus GF"
+1843 "M. Rits
+CDM CM" "Club Brugge KV"
+1844 "J. Edwards
+RWB" "Plymouth Argyle"
+1845 "N. Otamendi
+CB" "SL Benfica"
+1846 "Iago Aspas
+ST" "RC Celta de Vigo"
+1847 "S. Jung
+RB" "Karlsruher SC"
+1848 "K. Manolas
+CB" "Olympiacos CFP"
+1849 "H. Mkhitaryan
+LW LM CM" Roma
+1850 "C. Tosun
+ST" Everton
+1851 "A. Areola
+GK" "West Ham United"
+1852 "J. Larsen
+LWB RWB" "Udinese Calcio"
+1853 "M. Braithwaite
+ST LW" "FC Barcelona"
+1854 "R. Rodríguez
+CB LB LWB" "Torino F.C."
+1855 "R. Cabella
+CAM" "Montpellier Hérault SC"
+1856 "J. Norwood
+ST" "Ipswich Town"
+1857 "Y. El Arabi
+ST" "Olympiacos CFP"
+1858 "Adrián
+GK" Liverpool
+1859 "J. Bruma
+CB" "Kasimpaşa SK"
+1860 "13
+ D. Beckham
+CM RM" England
+1861 "10
+ D. Ashton
+ST" England
+1862 "18
+ S. Eto'o
+ST" "İttifak Holding Konyaspor"
+1863 "15
+ Xavi
+CM" "FC Barcelona"
+1864 "15
+ Ronaldinho
+CAM ST" "Gallos Blancos de Querétaro"
+1865 "17
+ Xabi Alonso
+CDM CM" "FC Bayern München"
+1866 "Pepe
+CB" "FC Porto"
+1867 "14
+ Alex
+CAM CF" Coritiba
+1868 "14
+ Cris
+CB" "Club de Regatas Vasco da Gama"
+1869 "Nani
+LM LW" "Venezia FC"
+1870 "18
+ W. Sneijder
+CAM" "OGC Nice"
+1871 "D. Murphy
+ST" "Waterford FC"
+1872 "P. Skjelbred
+CM CDM" "Rosenborg BK"
+1873 "R. Snodgrass
+CM RM" "Luton Town"
+1874 "H. Herrera
+CM" "Houston Dynamo"
+1875 "Manuel Fernandes
+CAM CDM LM" "Yukatel Kayserispor"
+1876 "João Moutinho
+CM" "Wolverhampton Wanderers"
+1877 "Cesc Fàbregas
+CM CAM CDM" "AS Monaco"
+1878 "07
+ H. Guemamdia
+ST" Tunisia
+1879 "Bebé
+RM LM ST" "Rayo Vallecano"
+1880 "21
+ A. Valencia
+RB CDM" "Gallos Blancos de Querétaro"
+1881 "L. Freeman
+CAM LM LW" Millwall
+1882 "21
+ R. Shotton
+CB" "Melbourne Victory"
+1883 "J. McArthur
+CM" "Crystal Palace"
+1884 "Ó. Trejo
+CAM" "Rayo Vallecano"
+1885 "H. Moreno
+CB" "CF Monterrey"
+1886 "Pedro León
+RM CAM ST" "CF Fuenlabrada"
+1887 "17
+ F. Hološko
+RM" "Sydney FC"
+1888 "R. De Laet
+RB CB LB" "Royal Antwerp FC"
+1889 "M. Schneiderlin
+CDM CM" "OGC Nice"
+1890 "D. Payet
+CAM LW" "Olympique de Marseille"
+1891 "M. Benatia
+CB" "Fatih Karagümrük S.K."
+1892 "Vieirinha
+LB RB CB" PAOK
+1893 "K. Suzuki
+LB LM" "Daegu FC"
+1894 "M. López
+ST" "CD Antofagasta"
+1895 "Pedro Henrique
+CB" "Unión La Calera"
+1896 "Vaquero
+CM" "Real Zaragoza"
+1897 "H. Weckmann
+ST" "Club Tijuana"
+1898 "T. Silva
+LB" "San Lorenzo de Almagro"
+1899 "E. Brienza
+CF CAM" "Vancouver Whitecaps FC"
+1900 "G. Vidovic
+CF CAM" "FC Bayern München"
+1901 "R. Spaulding
+LB" "New England Revolution"
+1902 "A. Osorio
+ST" "Vélez Sarsfield"
+1903 "T. Rothe
+LB" "Borussia Dortmund"
+1904 "C. Egan-Riley
+CB RB" "Manchester City"
+1905 "N. Weiper
+ST" "1. FSV Mainz 05"
+1906 "Gabriel Pereira
+RM RW" "New York City FC"
+1907 "M. Gulpa
+CAM RM LM" "Türkgücü München"
+1908 "V. Kochergin
+RM CF" "Raków Częstochowa"
+1909 "S. Valk
+CB" Feyenoord
+1910 "M. Hidaka
+CM" "Vissel Kobe"
+1911 "G. Nardelli
+CB" "Club Atlético Colón"
+1912 "J. Ordoñez
+CB" "Independiente del Valle"
+1913 "L. Audoor
+CM CDM" "Club Brugge KV"
+1914 "A. Pavlovets
+CB" "Warta Poznań"
+1915 "B. Aguilar
+CB RB" "Club Atlético Lanús"
+1916 "Tiago Gouveia
+RW" "SL Benfica"
+1917 "M. Morello
+CM" "Club Atlético Aldosivi"
+1918 "He Xinjie
+CM" "Guangzhou FC"
+1919 "T. Antonoglou
+LB LM" "Toronto FC"
+1920 "H. Diarra
+CDM" "RC Strasbourg Alsace"
+1921 "R. Providence
+LW RW ST" "Estoril Praia"
+1922 "B. Gutiérrez
+RB" Colo-Colo
+1923 "S. Rahimi
+LM ST" "Al Ain FC"
+1924 "F. Alidou
+LW" "Hamburger SV"
+1925 "J. Boselli
+ST RW" "CD Tondela"
+1926 "E. Mbinga
+CAM" "PEC Zwolle"
+1927 "N. Bassette
+ST" "Stade Malherbe Caen"
+1928 "B. Barcola
+ST LW" "Olympique Lyonnais"
+1929 "S. Podgoreanu
+RW" Spezia
+1930 "J. Uzeda
+LM" "Club Bolívar"
+1931 "J. Wilson-Esbrand
+LB" "Manchester City"
+1932 "D. Strelec
+ST" Spezia
+1933 "O. Denham
+CB RB" "Cardiff City"
+1934 "K. Keïta
+CDM CM" "FC Sion"
+1935 "S. Bonnah
+RB CB" "RB Leipzig"
+1936 "L. Tchaouna
+LM CAM RM" "Stade Rennais FC"
+1937 "E. Jelert
+RB LB" "F.C. København"
+1938 "R. Bravo
+ST" "Newell's Old Boys"
+1939 "M. Campagnaro
+LB" "Newell's Old Boys"
+1940 "T. Morton
+CM CDM" Liverpool
+1941 "J. James
+CM CAM" "Birmingham City"
+1942 "D. Ouattara
+ST LW" "FC Lorient"
+1943 "R. Vucic
+ST" "FK Austria Wien"
+1944 "C. Riquelme
+LB" "CD Everton de Viña del Mar"
+1945 "N. Funez
+ST" "Newell's Old Boys"
+1946 "Biel Farrés
+CB" "Girona FC"
+1947 "C. Savage
+CDM CM" "Manchester United"
+1948 "L. Plange
+ST" "Derby County"
+1949 "E. Herrera
+RB CB" "San Lorenzo de Almagro"
+1950 "F. Kitsos
+LM LB" "Olympiacos CFP"
+1951 "Rubén Iranzo
+CB RB" "Valencia CF"
+1952 "Pubill
+RB RWB" "Levante Unión Deportiva"
+1953 "P. Bočkaj
+LWB LB LM" "Dinamo Zagreb"
+1954 "Lucas Laso
+CB" "Real Oviedo"
+1955 "Tomás Araújo
+CB" "SL Benfica"
+1956 "T. Kostadinov
+CF CAM" "Piast Gliwice"
+1957 "L. Hall
+CM LWB LB" Chelsea
+1958 "Peter
+RW LW RB" "Real Madrid CF"
+1959 "J. Njinmah
+ST RW" "Borussia Dortmund II"
+1960 "N. Zerhouni
+RM CAM ST" "Al Hazem"
+1961 "Fresneda
+RB" "Real Valladolid CF"
+1962 "E. İlkhan
+CM RW CAM" "Beşiktaş JK"
+1963 "K. Matsuki
+CM" "FC Tokyo"
+1964 "Eliton Júnior
+CAM CM" "Varbergs BoIS FC"
+1965 "Javi Guerra
+CM" "Valencia CF"
+1966 "D. Gomez
+CM" "Club Necaxa"
+1967 "N. Williams
+ST" "9 de Octubre"
+1968 "T. Iroegbunam
+CDM CM" "Aston Villa"
+1969 "Y. Sor
+RW RM ST" "SK Slavia Praha"
+1970 "F. Londoño
+ST" "River Plate"
+1971 "T. Tsuchiya
+CDM CB" "Kashiwa Reysol"
+1972 "Henrique Araújo
+ST" "SL Benfica"
+1973 "K. Suzuki
+LB LM" "Daegu FC"
+1974 "M. López
+ST" "CD Antofagasta"
+1975 "Pedro Henrique
+CB" "Unión La Calera"
+1976 "Vaquero
+CM" "Real Zaragoza"
+1977 "H. Weckmann
+ST" "Club Tijuana"
+1978 "T. Silva
+LB" "San Lorenzo de Almagro"
+1979 "E. Brienza
+CF CAM" "Vancouver Whitecaps FC"
+1980 "L. Breunig
+LB CB CDM" "FC Würzburger Kickers"
+1981 "M. de Wit
+LM LB" "PEC Zwolle"
+1982 "Herrero
+ST" "Eintracht Frankfurt"
+1983 "M. Huskovic
+ST CAM" "FK Austria Wien"
+1984 "A. Musi
+LW CAM" "FCSB (Steaua)"
+1985 "K. Hinokio
+CAM CM" "Zagłębie Lubin"
+1986 "S. Mabiliso
+LB LM" "Kaizer Chiefs"
+1987 "Thierno
+LM RM" "CD Tenerife"
+1988 "E. Bitshiabu
+CB" "Paris Saint-Germain"
+1989 "T. Baldé
+RB RWB" "Le Havre AC"
+1990 "G. Frimpong
+LB LWB" "Moreirense FC"
+1991 "Y. Cathline
+LM CAM" "En Avant de Guingamp"
+1992 "M. Beifus
+CB" "FC St. Pauli"
+1993 "Y. Mikhailov
+CAM CM" "FC Schalke 04"
+1994 "E. Fernandez
+CB" "Peterborough United"
+1995 "C. Chatzigavriel
+GK" Cyprus
+1996 "A. Camara
+CAM LW RW" "Olympiacos CFP"
+1997 "E. Uhlmann
+CDM" "RB Leipzig"
+1998 "L. Varaldo
+ST" "Club Atlético Lanús"
+1999 "M. Camara
+CM" "Racing Club de Lens"
+2000 "B. Kociubinski
+CDM CM" "Estudiantes de La Plata"
+2001 "J. Sarmiento
+RM LM" "Brighton & Hove Albion"
+2002 "N. Nadje
+ST" "Angers SCO"
+2003 "E. Daniel
+RM LM" "Zagłębie Lubin"
+2004 "O. Dasa
+LW LM" "FC Arouca"
+2005 "A. Milambo
+CAM" Feyenoord
+2006 "Gilson Tavares
+CF ST" "Estoril Praia"
+2007 "P. Sonn
+CM" "SV Darmstadt 98"
+2008 "E. Mancuso
+RB" "Boca Juniors"
+2009 "R. Huescas
+LM CAM" "Cruz Azul"
+2010 "V. Lind
+ST" "FC Midtjylland"
+2011 "Léo Chú
+LM" "Seattle Sounders FC"
+2012 "Vitinha
+ST" "SC Braga"
+2013 "M. Osifo
+CB CDM RM" "KV Oostende"
+2014 "M. Bardell
+RB CB" "Derby County"
+2015 "T. Hammond
+LW RW CAM" "FK Austria Wien"
+2016 "K. Campos
+CM" "Club América"
+2017 "Javi Serrano
+CDM" "Atlético de Madrid"
+2018 "B. Knight
+RW" "Crewe Alexandra"
+2019 "K. N'Mai
+RM CAM" "Salford City"
+2020 "N. Bitumazala
+RB CDM" "Paris Saint-Germain"
+2021 "L. Dobbin
+ST" Everton
+2022 "Recasens
+CB" "RCD Espanyol de Barcelona"
+2023 "A. Akurugu
+LB" "Getafe CF"
+2024 "D. Remie
+GK" Feyenoord
+2025 "Bernardo Vilar
+CB" "IFK Göteborg"
+2026 "R. Flueraş
+ST LM" "UD Ibiza"
+2027 "Iván Serrano
+LB" "Burgos CF"
+2028 "O. Offiah
+CB RB" "Brighton & Hove Albion"
+2029 "D. Nunumete
+CM" "SC Heerenveen"
+2030 "Kevin
+LM RM" "Málaga CF"
+2031 "M. Paskotši
+CB RB" "Tottenham Hotspur"
+2032 "N. Angulo
+CAM RM ST" "LDU Quito"
+2033 "Ureña
+RM LM" "Girona FC"
+2034 "FakePlayer
+RB CB" "Valencia CF"
+2035 "H. Camara
+CB" "En Avant de Guingamp"
+2036 "H. Diarra
+CDM" "RC Strasbourg Alsace"
+2037 "R. Providence
+LW RW ST" "Estoril Praia"
+2038 "B. Gutiérrez
+RB" Colo-Colo
+2039 "S. Rahimi
+LM ST" "Al Ain FC"
+2040 "Dário Essugo
+CDM CM" "Sporting CP"
+2041 "Nazinho
+LWB LB" "Sporting CP"
+2042 "E. Sutherland
+RM CAM" "Atlético de Madrid"
+2043 "F. Catarozzi
+CM CDM" "Montevideo City Torque"
+2044 "N. Kasanwirjo
+CB CDM RB" "FC Groningen"
+2045 "B. Traoré
+CB CDM" "Stade Malherbe Caen"
+2046 "E. Ávalos
+RB" "Tigres U.A.N.L."
+2047 "J. Guasone
+CB" Patronato
+2048 "G. Sithole
+ST LM" Gillingham
+2049 "Hou Yu
+CM" "Guangzhou FC"
+2050 "N. Mehssatou
+RB LB" "KV Kortrijk"
+2051 "K. Ichimori
+ST CF" "Vegalta Sendai"
+2052 "Z. Williams
+CB LB" "Crewe Alexandra"
+2053 "Cantero
+ST RM" "Levante Unión Deportiva"
+2054 "E. Darboe
+CDM" Roma
+2055 "B. Tomiak
+CB" "1. FC Kaiserslautern"
+2056 "L. Britton
+ST" "Bristol City"
+2057 "H. Keïta
+CM" "Olympique Lyonnais"
+2058 "E. Bove
+CM" Roma
+2059 "E. Dueñas
+RB" "Los Angeles FC"
+2060 "H. Matriciani
+RB CB RWB" "FC Schalke 04"
+2061 "C. Emeka
+ST" "KAA Gent"
+2062 "N. Persson
+LWB LM" "Mjällby AIF"
+2063 "B. Meijer
+LB" "FC Groningen"
+2064 "A. Richardson
+CDM CM" "Le Havre AC"
+2065 "J. Gorter
+GK" Ajax
+2066 "Y. Kallon
+RW CF CAM" Genoa
+2067 "K. Schulz
+LB CB LM" "SK Austria Klagenfurt"
+2068 "S. Beukema
+CB" "AZ Alkmaar"
+2069 "André Franco
+CAM RW CM" "Estoril Praia"
+2070 "Daniel Figueira
+GK" "Estoril Praia"
+2071 "D. Albu
+CDM CM" "FC U Craiova 1948"
+2072 "S. El Karouani
+LB" "N.E.C. Nijmegen"
+2073 "Olasagasti
+CM CDM" "Real Sociedad B"
+2074 "J. Blasco
+RB CB" "Real Sociedad B"
+2075 "Karrikaburu
+ST" "Real Sociedad B"
+2076 "S. Aas
+CM" "Odds BK"
+2077 "A. Soussi
+LW ST CAM" "Royal Antwerp FC"
+2078 "K. Karataş
+LB LW ST" "Altay SK"
+2079 "L. Vincent
+LWB LB CB" Portsmouth
+2080 "A. Goodwin
+ST" "Newcastle Jets"
+2081 "E. Leopold
+CM CF" "SC Freiburg II"
+2082 "S. Risch
+LM" "SC Freiburg II"
+2083 "M. Bouldini
+ST" "CF Fuenlabrada"
+2084 "J. Bauman
+ST" "Independiente del Valle"
+2085 "G. Kotsiras
+RB" "Panathinaikos FC"
+2086 "K. John
+RW" "KRC Genk"
+2087 "M. Dietz
+CB" "SC Freiburg II"
+2088 "A. Zorgane
+CM CDM CAM" "Royal Charleroi S.C."
+2089 "Vinicius Souza
+CDM CB CM" "KV Mechelen"
+2090 "T. Ernst
+GK" "VfL Bochum 1848"
+2091 "J. Tchatchoua
+RWB RM" "Royal Charleroi S.C."
+2092 "S. Andreou
+CB" "Royal Charleroi S.C."
+2093 "Fabio Blanco
+RM" "FC Barcelona"
+2094 "L. Kehl
+ST CAM" "SC Freiburg II"
+2095 "B. Okoh
+CB" "FC Red Bull Salzburg"
+2096 "V. Kovacević
+GK" "Raków Częstochowa"
+2097 "A. Prass
+LM CM" "SK Sturm Graz"
+2098 "P. Pomer
+LM CF" "SV Ried"
+2099 "J. Trafford
+GK" "Bolton Wanderers"
+2100 "D. Berisha
+LM CAM" "FC Augsburg"
+2101 "F. Oppegård
+LB" PSV
+2102 "André Amaro
+CB" "Vitória de Guimarães"
+2103 "C. Cîrjan
+CM RM" Arsenal
+2104 "O. Hutchinson
+CAM RM" Arsenal
+2105 "T. Lacoux
+CDM CM" "FC Girondins de Bordeaux"
+2106 "T. Troost
+GK" Feyenoord
+2107 "M. Watai
+CAM RM CF" "Tokushima Vortis"
+2108 "John Patrick
+CAM ST CM" "Getafe CF"
+2109 "I. Šaranić
+CAM RW CM" "Dinamo Zagreb"
+2110 "D. Guindo
+LB" "FC Red Bull Salzburg"
+2111 "Svensson
+ST LM" "RCD Espanyol de Barcelona"
+2112 "R. Zouhir
+CDM CM" "Club de Foot Montréal"
+2113 "K. Ferdinand
+RB CB LB" "Club de Foot Montréal"
+2114 "E. Wahi
+ST LM" "Montpellier Hérault SC"
+2115 "B. Oddei
+RW" "U.S. Sassuolo Calcio"
+2116 "S. van Ottele
+CB CDM" "SC Heerenveen"
+2117 "21
+ I. Yüksek
+CDM CM" "Fenerbahçe SK"
+2118 "Jung Sang Bin
+ST" "Grasshopper Club Zürich"
+2119 "Y. Malede
+ST LW" "KAA Gent"
+2120 "L. Hartwig
+ST" "VfL Bochum 1848"
+2121 "Rodrigo Angelotti
+ST" "Kashiwa Reysol"
+2122 "G. Abrego
+CM CDM" "Godoy Cruz"
+2123 "A. Varela
+CDM CM" "Boca Juniors"
+2124 "J. Haliti
+CB RB" "Mjällby AIF"
+2125 "A. Kirk
+CB" Arsenal
+2126 "F. Kruspzky
+LM CAM" "Arsenal de Sarandí"
+2127 "B. Báez
+ST" "Arsenal de Sarandí"
+2128 "Iker Recio
+CB LB" "Rayo Vallecano"
+2129 "R. Street
+ST" "Newport County"
+2130 "C. Olivos
+CB" "Universidad Técnica de Cajamarca"
+2131 "E. Sevikyan
+RM LM CAM" "Levante Unión Deportiva"
+2132 "Arnau Martínez
+RWB RB CB" "Girona FC"
+2133 "R. Cabral
+LW RW" "Club Atlético Huracán"
+2134 "A. Gîdea
+RW LW CM" "CFR Cluj"
+2135 "Y. Ogawa
+CDM CM" "Kashima Antlers"
+2136 "M. Kerkez
+LB" "AZ Alkmaar"
+2137 "O. Cisneros
+CAM CM ST" "Sporting Kansas City"
+2138 "D. Fofana
+ST" "Molde FK"
+2139 "C. Abastoflor
+LW" "Club Deportivo Guabirá"
+2140 "J. Kisiel
+CDM" "Legia Warszawa"
+2141 "R. Ascone
+CM" "FC Nordsjælland"
+2142 "S. Adjei
+ST" "Varbergs BoIS FC"
+2143 "César García
+RM RW" "Real Sporting de Gijón"
+2144 "Cacá
+CB CDM" "Tokushima Vortis"
+2145 "C. Medina
+CM" "Boca Juniors"
+2146 "O. Zandén
+LB" "IF Elfsborg"
+2147 "N. Pacławski
+ST" "Lech Poznań"
+2148 "N. John
+CAM CM RM" "Charlton Athletic"
+2149 "O. Ba
+GK" "FC Metz"
+2150 "Hugo Bueno
+LWB" "Wolverhampton Wanderers"
+2151 "N. Lonwijk
+CB" "Fortuna Sittard"
+2152 "L. Richardson
+ST" Burnley
+2153 "M. Ramírez
+LM ST" "Godoy Cruz"
+2154 "A. Montgomery
+LB LW" Aberdeen
+2155 "I. Sissokho
+CDM CM" "FC Girondins de Bordeaux"
+2156 "G. Norambuena
+RW LW" "Unión Española"
+2157 "Y. Sylla
+ST" "SV Zulte Waregem"
+2158 "L. Bate
+CDM CM" "Leeds United"
+2159 "Y. Amyn
+LM RM CAM" "Viktoria Köln"
+2160 "O. Camara
+CB CDM" "Paris FC"
+2161 "D. Neil
+CDM CM" Sunderland
+2162 "K. Varga
+LM RM" "BSC Young Boys"
+2163 "Jon Morcillo
+LM LW" "Real Valladolid CF"
+2164 "D. Sinani
+RW CM" "Huddersfield Town"
+2165 "K. Gruszkowski
+RB" "Wisła Kraków"
+2166 "M. Godoy
+ST LW RW" "Club Atlético Talleres"
+2167 "José Fontán
+CB LB" "RC Celta de Vigo"
+2168 "Miguel Rodríguez
+RM LM" "RC Celta de Vigo"
+2169 "Nélson da Luz
+LW" "Vitória de Guimarães"
+2170 "Benítez
+RB LB" "Málaga CF"
+2171 "J. Freeman
+CM" "Milton Keynes Dons"
+2172 "G. Bayrakdar
+RM ST LM" Antalyaspor
+2173 "C. Archer
+ST" "Preston North End"
+2174 "M. Lovato
+CB" Cagliari
+2175 "C. Jones
+CM CDM" "Hull City"
+2176 "B. Davis
+LM CF" "Real Salt Lake"
+2177 "Tiago Morais
+ST" "Boavista FC"
+2178 "A. Medioub
+CB" "FC Girondins de Bordeaux"
+2179 "S. Oulad M'Hand
+CAM CM" Arsenal
+2180 "Pablo Rodríguez
+ST LW" Lecce
+2181 "David Costa
+LW CAM CM" "Racing Club de Lens"
+2182 "J. Che
+RB CB" "TSG Hoffenheim"
+2183 "M. Hilgers
+CB RB" "FC Twente"
+2184 "J. Wosz
+CM RB" "Hallescher FC"
+2185 "E. Green
+GK" "AS Saint-Étienne"
+2186 "Víctor Chust
+CB" "Cádiz CF"
+2187 "N. Ahamada
+CM" "VfB Stuttgart"
+2188 "M. Bajamich
+ST" "Club Atlético Huracán"
+2189 "M. Lamti
+CDM CB CM" "Hannover 96"
+2190 "B. McCormack
+CAM CM" "St. Patrick's Athletic"
+2191 "E. Ramírez
+ST" "Real Sporting de Gijón"
+2192 "K. Sène
+ST RM RW" "Grasshopper Club Zürich"
+2193 "N. Rossi
+GK" "Club Atlético Rentistas"
+2194 "J. Siebert
+CB" "Viktoria Köln"
+2195 "F. Rieder
+CM" "BSC Young Boys"
+2196 "Ayesa
+GK" "Real Sociedad B"
+2197 "Unai Dufur
+CB RB" "CA Osasuna"
+2198 "S. Muñoz
+ST CAM" "Newcastle United"
+2199 "Kaique
+RW LW" "Centro Atlético Fénix"
+2200 "Nico Serrano
+LM CAM RM" "Athletic Club de Bilbao"
+2201 "Iván Azón
+ST LM" "Real Zaragoza"
+2202 "R. van den Berg
+CB" "PEC Zwolle"
+2203 "A. Caia
+RW" "FC Botoşani"
+2204 "T. Breithaupt
+CDM" "Karlsruher SC"
+2205 "Isma Ruiz
+CDM CM" "Granada CF"
+2206 "21
+ D. Yankov
+CM CAM LM" Bulgaria
+2207 "J. Zemura
+LB LWB" "AFC Bournemouth"
+2208 "C. Diakité
+CAM CM" "Paris FC"
+2209 "A. Robertson
+CM" "Manchester City"
+2210 "M. Stamenic
+CM CDM" "New Zealand"
+2211 "Rodri
+RM LM CM" "Real Betis Balompié"
+2212 "I. Matanović
+ST" "FC St. Pauli"
+2213 "M. Hoppe
+ST" "RCD Mallorca"
+2214 "F. Stevens
+RWB CDM CB" Brentford
+2215 "A. Rodríguez
+LM LW RW" "C.D. Universidad Católica del Ecuador"
+2216 "C. Araújo
+CDM CM" "Orlando City Soccer Club"
+2217 "W. Vargas
+RB RM" "Independiente del Valle"
+2218 "J. Gal
+GK" "Degerfors IF"
+2219 "G. Del Prete
+ST LM" "Estudiantes de La Plata"
+2220 "Marquinhos
+LM ST" "Ferencvárosi TC"
+2221 "L. Gibbs
+CM" "Norwich City"
+2222 "Y. Mosquera
+CB" "Wolverhampton Wanderers"
+2223 "K. Kurt
+RWB" "Borussia Mönchengladbach"
+2224 "S. Nanasi
+CAM LW" "Malmö FF"
+2225 "J. Mina
+CAM" "Estoril Praia"
+2226 "W. Omari
+CB" "Stade Rennais FC"
+2227 "Javi Cueto
+ST" "Real Oviedo"
+2228 "Tiago Almeida
+RB RM" "CD Tondela"
+2229 "A. Grønbæk
+CM LW" "Aarhus GF"
+2230 "S. Rooney
+RWB CB" "St. Johnstone FC"
+2231 "S. Burns
+ST RW" "Scunthorpe United"
+2232 "P. Ramfangzauva
+CDM" "Odisha FC"
+2233 "Cleiton Silva
+ST RM LM" "Bengaluru FC"
+2234 "A. Carboni
+CB LB" Cagliari
+2235 "D. Borkowski
+ST" "1. FC Nürnberg"
+2236 "Tiago Tomás
+ST" "VfB Stuttgart"
+2237 "F. Otto
+CB" "Hallescher FC"
+2238 "J. Kadile
+LM" "Futebol Clube de Famalicão"
+2239 "Fran González
+CB" "Atlético de Madrid"
+2240 "I. Kebbal
+RW CF RM" "Stade de Reims"
+2241 "Fabiano Souza
+RM RB" "SC Braga"
+2242 "D. Abiama
+ST" "SpVgg Greuther Fürth"
+2243 "A. Stach
+CDM CM" "1. FSV Mainz 05"
+2244 "S. Nakano
+LB CB" "Sagan Tosu"
+2245 "Y. Hamache
+LWB LB" "Boavista FC"
+2246 "L. Gourna
+CDM CM" "AS Saint-Étienne"
+2247 "J. Olschowsky
+GK" "Borussia Mönchengladbach"
+2248 "N. Bätzner
+CAM CM LM" "KV Oostende"
+2249 "A. Dedić
+LB RB" "RZ Pellets Wolfsberger AC"
+2250 "Z. Al-Hussaini
+CAM LM RM" "Crawley Town"
+2251 "W. Faghir
+ST" "VfB Stuttgart"
+2252 "M. Fornalczyk
+LM RM" "Pogoń Szczecin"
+2253 "M. Raab
+GK" "1. FC Kaiserslautern"
+2254 "21
+ D. N'Landu
+CAM CM CDM" "Royal Excel Mouscron"
+2255 "D. Willms
+ST LM RM" "FSV Zwickau"
+2256 "L. Neilson
+CB RB" "Dundee United"
+2257 "L. Gordon
+LWB LB" "Bolton Wanderers"
+2258 "R. Richards
+LW RW CAM" "West Bromwich Albion"
+2259 "M. Trmal
+GK" "Vitória de Guimarães"
+2260 "N. Patterson
+RB" Everton
+2261 "R. Reitz
+CM" "Sint-Truidense VV"
+2262 "J. Hull
+CB" "Hartlepool United"
+2263 "E. Torres
+CDM CM" "Club Deportivo Guadalajara"
+2264 "L. Knöferl
+CAM CF" "TSV 1860 München"
+2265 "M. Mannhardt
+CDM" "TSV 1860 München"
+2266 "21
+ M. Aziz
+CAM RM LM" "KAS Eupen"
+2267 "F. Ioannidis
+ST" "Panathinaikos FC"
+2268 "Novoa
+ST" "RB Leipzig"
+2269 "Raúl Moro
+LW CF" Lazio
+2270 "M. Mitaj
+LB LM" "AEK Athens"
+2271 "J. Hadjam
+LB" "Paris FC"
+2272 "J. Cáceres
+RW RM" "FBC Melgar"
+2273 "F. Souček
+CDM CM" "AC Sparta Praha"
+2274 "A. Gülay
+LB" "Aytemiz Alanyaspor"
+2275 "Y. Cimignani
+LM RM" "AC Ajaccio"
+2276 "E. Emegha
+ST" "Royal Antwerp FC"
+2277 "O. Camara
+CB CDM" "Paris FC"
+2278 "D. Neil
+CDM CM" Sunderland
+2279 "K. Varga
+LM RM" "BSC Young Boys"
+2280 "J. Indacoechea
+RB CM" "Club Atlético Aldosivi"
+2281 "K. Miura
+ST" "Yokohama FC"
+2282 "S. Lammens
+GK" "Club Brugge KV"
+2283 "M. Araújo
+LM LWB" "Puebla FC"
+2284 "K. Urbański
+CAM" Bologna
+2285 "S. Pavlović
+CB" "FC Basel 1893"
+2286 "J. Nishikawa
+RM" "Sagan Tosu"
+2287 "Y. Badji
+ST" "Royal Charleroi S.C."
+2288 "Valera
+RM LM" "Real Sociedad B"
+2289 "S. Bowen
+CDM CM" "Cardiff City"
+2290 "B. Franjic
+CDM CB LB" "Dinamo Zagreb"
+2291 "D. Callender
+GK" "Inter Miami CF"
+2292 "H. Kessler
+CB" "New England Revolution"
+2293 "J. Cifuentes
+CDM CM" "Los Angeles FC"
+2294 "Y. Oda
+CF ST CAM" "Vissel Kobe"
+2295 "L. Tramoni
+RM RW" Cagliari
+2296 "T. Suslov
+CAM CF" "FC Groningen"
+2297 "A. Colassin
+ST CAM" "RSC Anderlecht"
+2298 "J. Candia
+RW ST LW" "Club Atlético Huracán"
+2299 "M. Pérez
+CB" "Club Atlético Lanús"
+2300 "B. Barticciotto
+ST LM" "Universidad Católica"
+2301 "21
+ André Mesquita
+RW LW" "Santa Clara"
+2302 "J. Mumbongo
+ST" "Accrington Stanley"
+2303 "M. Chahiri
+LM CAM" "Stade Malherbe Caen"
+2304 "Vitor Carvalho
+CDM CM" "Gil Vicente FC"
+2305 "E. Touré
+ST" "Stade de Reims"
+2306 "M. Adebowale
+CB RB" "Crawley Town"
+2307 "J. Doig
+LWB LB" Hibernian
+2308 "D. Maldini
+CAM" "AC Milan"
+2309 "D. Serpezis
+CAM CM" "Panathinaikos FC"
+2310 "J. Martínes
+LM LW" "Club Always Ready"
+2311 "D. Zima
+CB" "Torino F.C."
+2312 "P. Obi
+GK" "Yokohama F. Marinos"
+2313 "A. Timossi Andersson
+RM" "SK Austria Klagenfurt"
+2314 "J. Cáceres
+CM CDM" "Club Sol de América"
+2315 "Pedro Raul
+ST" "Kashiwa Reysol"
+2316 "S. Stehle
+RM RW RWB" "1. FC Kaiserslautern"
+2317 "Pacheco
+CB" "Real Sociedad"
+2318 "S. Rodríguez
+CAM LM RM" "New York City FC"
+2319 "M. Diomande
+CM LM" "FC Nordsjælland"
+2320 "J. Onana
+CM CDM" "FC Girondins de Bordeaux"
+2321 "S. Hezze
+CM" "Club Atlético Huracán"
+2322 "A. Baldursson
+CM" "F.C. København"
+2323 "Guille Rosas
+RB" "Real Sporting de Gijón"
+2324 "A. Johnston
+RWB RM CB" "Club de Foot Montréal"
+2325 "F. Torres
+RM CAM LM" "Orlando City Soccer Club"
+2326 "M. Ramírez
+GK" "Independiente del Valle"
+2327 "R. Rivas
+LB LM" "Caracas Fútbol Club"
+2328 "A. Valencia
+RM RW" "Independiente del Valle"
+2329 "E. Longelo
+LB" "West Ham United"
+2330 "Ö. Beyaz
+CAM CM" "VfB Stuttgart"
+2331 "H. Appiah Tawiah
+CB RB LB" "Vegalta Sendai"
+2332 "Francho Serrano
+CM CDM" "Real Zaragoza"
+2333 "J. Garrett
+CDM CM" "Blackburn Rovers"
+2334 "J. Daland
+CB" "KSV Cercle Brugge"
+2335 "M. Cox
+GK" Brentford
+2336 "A. Molinas
+CAM" "Boca Juniors"
+2337 "P. Solari
+RW LW" Colo-Colo
+2338 "S. Auklend
+LW CM" "Viking FK"
+2339 "D. Hoogewerf
+RM CF" "Manchester United"
+2340 "Antonio Sánchez
+RM LM CM" "RCD Mallorca"
+2341 "R. Postema
+ST RM" "FC Groningen"
+2342 "T. Schreiber
+GK" "Hallescher FC"
+2343 "Ismael Casas
+RB CB" "Málaga CF"
+2344 "R. Arace
+ST LM RM" "Deportivo Táchira FC"
+2345 "M. Konaté
+CDM CM CB" "Sint-Truidense VV"
+2346 "I. Kaboré
+RWB RB" "ESTAC Troyes"
+2347 "R. Devine
+LB LWB" Walsall
+2348 "T. Rushesha
+RWB RB CB" "Swansea City"
+2349 "A. Dante
+LB" "SK Sturm Graz"
+2350 "Robert Navarro
+CAM LM CM" "Real Sociedad B"
+2351 "G. Florentín
+CM CAM" "Argentinos Juniors"
+2352 "T. Tsingaras
+CDM CM" PAOK
+2353 "M. Trésor
+CAM LW" "KRC Genk"
+2354 "Félix Correia
+RW LW" Parma
+2355 "20
+ Lucas Santos
+CAM" "PFC CSKA Moscow"
+2356 "A. Tapsoba
+ST CAM" "Standard de Liège"
+2357 "K. Dawson
+GK" "Club Atlético Peñarol"
+2358 "E. Martínez
+CB" "Gallos Blancos de Querétaro"
+2359 "K. Yengi
+ST RM" "Adelaide United"
+2360 "C. Ibañez
+LB" "Club Atlético Huracán"
+2361 "R. Borges Rodrigues
+LW RW ST" "Melbourne City FC"
+2362 "T. Clayton
+CB" Liverpool
+2363 "F. Azeez
+RM ST" Reading
+2364 "F. de Keijzer
+GK" "FC Utrecht"
+2365 "M. Azeez
+CM CDM" Arsenal
+2366 "J. Cain
+CM CDM" "Newport County"
+2367 "S. McClelland
+CB" Chelsea
+2368 "L. Pavia
+LM LW" "Club Atlético Nacional Potosí"
+2369 "B. Castillo
+RB RM" "Barcelona Sporting Club"
+2370 "L. Demiquel
+RB" "Club The Strongest"
+2371 "K. Sandoval
+LW LM" Cienciano
+2372 "A. Okoflex
+LM ST" "West Ham United"
+2373 "Antoñín
+ST LM RM" "Málaga CF"
+2374 "21
+ K. Popovic
+CM" "Perth Glory"
+2375 "21
+ A. Contreras
+CAM CM" "Caracas Fútbol Club"
+2376 "P. Perlaza
+RB RM" "Independiente del Valle"
+2377 "J. Dos Santos
+ST" "Gallos Blancos de Querétaro"
+2378 "21
+ T. Egbri
+RM RW" "Southend United"
+2379 "T. Burey
+ST LW" Millwall
+2380 "D. Reasco
+ST" "Newell's Old Boys"
+2381 "E. Just
+LW RW CAM" "New Zealand"
+2382 "Z. Nagy
+LB" Hungary
+2383 "A. Alvarado
+LM LW" "LDU Quito"
+2384 "D. Cleonise
+LW RW" "FC Twente"
+2385 "K. Simmonds
+ST" "Birmingham City"
+2386 "M. Tomianovic
+RW RM" "Royal Pari"
+2387 "21
+ J. Lara
+CB" "Club Deportivo El Nacional"
+2388 "L. Egloff
+CAM CF" "VfB Stuttgart"
+2389 "T. Gray
+RB CB CDM" "New York City FC"
+2390 "C. Grant
+LW CM" Rochdale
+2391 "21
+ P. Ba
+ST" "ESTAC Troyes"
+2392 "M. Juwara
+ST" Bologna
+2393 "M. Bard
+LB LWB" "OGC Nice"
+2394 "K. Harratt
+ST" "Port Vale"
+2395 "K. Nsona
+LM RM" "Hertha BSC"
+2396 "J. Indacoechea
+RB CM" "Club Atlético Aldosivi"
+2397 "K. Miura
+ST" "Yokohama FC"
+2398 "S. Lammens
+GK" "Club Brugge KV"
+2399 "M. Araújo
+LM LWB" "Puebla FC"
+2400 "K. Joseph
+ST" "Swansea City"
+2401 "J. Medić
+CB CDM CM" "FC St. Pauli"
+2402 "N. Vallys
+LM RM" "Silkeborg IF"
+2403 "K. Klefisch
+CDM CM" "Viktoria Köln"
+2404 "R. Zalazar
+CM CAM" "FC Schalke 04"
+2405 "T. Krauß
+CM CDM" "1. FC Nürnberg"
+2406 "L. Kambole
+ST RW LW" "Kaizer Chiefs"
+2407 "K. Ehlers
+CB" "SG Dynamo Dresden"
+2408 "F. Kunze
+CDM CM" "DSC Arminia Bielefeld"
+2409 "Henrique Gomes
+LB" "Gil Vicente FC"
+2410 "A. Konaté
+CAM CF LW" "Nottingham Forest"
+2411 "A. Niangbo
+CAM ST LW" "SK Sturm Graz"
+2412 "B. Mitchell
+CM RWB" Millwall
+2413 "L. Richards
+CB LB" "Harrogate Town"
+2414 "V. Tasar
+RM LM RW" "FC Luzern"
+2415 "Francisco Moura
+LM LB" "SC Braga"
+2416 "L. Vázquez
+ST" "Boca Juniors"
+2417 "Douglas Augusto
+CAM CM CDM" PAOK
+2418 "F. Greilinger
+LM LB RM" "TSV 1860 München"
+2419 "J. Rudoni
+CAM" "AFC Wimbledon"
+2420 "S. Agouzoul
+CB" "LOSC Lille"
+2421 "L. Chevalier
+GK" "Valenciennes FC"
+2422 "D. Hall
+RB CB" Feyenoord
+2423 "W. Taïbi
+CM CAM" "Angers SCO"
+2424 "Berto
+ST CAM LM" "Real Sporting de Gijón"
+2425 "Ș. Baiaram
+LM LW" "Universitatea Craiova"
+2426 "O. Villadsen
+RB RWB RM" "FC Nordsjælland"
+2427 "Luquinha
+CAM CM" "Portimonense SC"
+2428 "D. Bradarić
+LB" "LOSC Lille"
+2429 "J. Panzo
+CB LB LWB" "Nottingham Forest"
+2430 "D. Meddah
+CM" "Le Havre AC"
+2431 "K. Piątkowski
+CB" "FC Red Bull Salzburg"
+2432 "Tomás Esteves
+RB" "FC Porto"
+2433 "Romário Baró
+CAM RW" "Estoril Praia"
+2434 "L. Picco
+CDM CM" "Arsenal de Sarandí"
+2435 "A. Ait El Hadj
+CAM CM RM" "RSC Anderlecht"
+2436 "D. Segbe Azankpo
+ST LW" "FC Dinamo 1948 Bucureşti"
+2437 "L. Clarkson
+CM CAM CDM" Liverpool
+2438 "L. González
+CM CDM" "Club Atlético Independiente"
+2439 "R. Jalving
+GK" "Heracles Almelo"
+2440 "M. Marin
+CM RM" Romania
+2441 "Manu Sánchez
+LB LWB LM" "CA Osasuna"
+2442 "J. Knight
+CM RM LM" "Derby County"
+2443 "J. Sweeney
+LWB" "Leyton Orient"
+2444 "K. Ofori
+LM RM CAM" "SC Paderborn 07"
+2445 "A. Hurst
+LW" "Port Vale"
+2446 "H. Ortega
+CB" "Deportivo Toluca"
+2447 "K. Sardella
+RB LB" "RSC Anderlecht"
+2448 "D. Males
+RM ST CAM" "FC Basel 1893"
+2449 "M. Burch
+CB" "FC Luzern"
+2450 "A. Gözütok
+CAM RM" "1. FC Kaiserslautern"
+2451 "J. Chotard
+CDM CM" "Montpellier Hérault SC"
+2452 "M. Sorinola
+LWB RWB" "Royale Union Saint-Gilloise"
+2453 "S. Alexandropoulos
+CDM CM" "Panathinaikos FC"
+2454 "21
+ Park Sang Hyuk
+CM CAM" "Sangju Sangmu FC"
+2455 "Ernesto
+RM LM" "Burgos CF"
+2456 "K. Adedoyin
+ST RW" "Accrington Stanley"
+2457 "B. Barr
+CAM CDM" "Derry City"
+2458 "D. Hayashi
+ST" "Sint-Truidense VV"
+2459 "R. Neshcheret
+GK" "Dynamo Kyiv"
+2460 "D. Mbayo
+RM" "KV Kortrijk"
+2461 "R. Bellanova
+RB" Cagliari
+2462 "J. Piroe
+ST RW" "Swansea City"
+2463 "L. Dykes
+ST" "Queens Park Rangers"
+2464 "21
+ J. Barinaga
+RB" Patronato
+2465 "L. Unbehaun
+GK" "Borussia Dortmund II"
+2466 "Moncayola
+CM CDM" "CA Osasuna"
+2467 "Edgar
+CDM CB" "Real Betis Balompié"
+2468 "F. Amaya
+CM CAM CDM" "New York Red Bulls"
+2469 "R. Williams
+CB" Liverpool
+2470 "J. Ngakia
+RB RWB" Watford
+2471 "A. Bansal-McNulty
+CAM CM" "Crawley Town"
+2472 "K. N'Dri
+LM ST RM" "KAS Eupen"
+2473 "O. Deman
+RW ST LW" "KSV Cercle Brugge"
+2474 "G. González
+RB RWB RM" "RCD Mallorca"
+2475 "Thierry Correia
+RB RWB RM" "Valencia CF"
+2476 "21
+ M. Glushenkov
+RW" "Spartak Moskva"
+2477 "I. Gheorghe
+CAM LM LW" "FC Voluntari"
+2478 "S. Moreno
+RM LM" "Portland Timbers"
+2479 "D. Olaru
+CM CAM RM" "FCSB (Steaua)"
+2480 "A. Vlad
+GK" "FCSB (Steaua)"
+2481 "V. Mihăilă
+LW" Atalanta
+2482 "Ș. Târnovanu
+GK" "FCSB (Steaua)"
+2483 "V. Antov
+CB CDM" "AC Monza"
+2484 "T. Hasal
+GK" "Vancouver Whitecaps FC"
+2485 "S. Soto
+ST" "Livingston FC"
+2486 "I. Vanmalsawma
+LM" "Odisha FC"
+2487 "M. Fall
+CB" "Mumbai City FC"
+2488 "I. Gruev
+CDM LM" "SV Werder Bremen"
+2489 "21
+ J. Simmons
+CAM" "Newcastle Jets"
+2490 "M. Lavinier
+RWB RB CB" "Tottenham Hotspur"
+2491 "S. Chergui
+CB RB" "Paris FC"
+2492 "D. Ramaj
+GK" "Eintracht Frankfurt"
+2493 "J. Hill
+CB" "AFC Bournemouth"
+2494 "Vivian
+CB" "Athletic Club de Bilbao"
+2495 "B. Benkhedim
+CAM RM" "AS Saint-Étienne"
+2496 "J. Greaves
+CB" "Hull City"
+2497 "L. Mbe Soh
+CB" "Nottingham Forest"
+2498 "V. Bondar
+CB" "Shakhtar Donetsk"
+2499 "S. Delos
+LB RB" "AS Nancy Lorraine"
+2500 "21
+ N. Jeck
+CB" "FC Erzgebirge Aue"
+2501 "L. Kilian
+CB" "1. FC Köln"
+2502 "N. Guinness-Walker
+LB" "AFC Wimbledon"
+2503 "N. Ngoumou
+RM RW" "Toulouse Football Club"
+2504 "M. Diarra
+LWB CB CM" "Toulouse Football Club"
+2505 "A. Traoré
+RM" "FC Girondins de Bordeaux"
+2506 "T. Tormin
+RM LM" "Chamois Niortais Football Club"
+2507 "Anderson Oliveira
+ST" "Beijing Guoan FC"
+2508 "F. Alves
+CB" "Brøndby IF"
+2509 "R. Carstensen
+RB" "Silkeborg IF"
+2510 "C. Richards
+CB RB" "TSG Hoffenheim"
+2511 "O. Bundgaard
+LB" "Randers FC"
+2512 "J. Zirkzee
+ST CAM" "RSC Anderlecht"
+2513 "Larrazabal
+RWB RM" "SD Amorebieta"
+2514 "S. Raux-Yao
+CB" "Rodez Aveyron Football"
+2515 "P. Dwomoh
+CAM CM" "Royal Antwerp FC"
+2516 "F. Makaringe
+CAM CM" "Orlando Pirates"
+2517 "E. Simms
+ST" "Heart of Midlothian"
+2518 "M. Klimowicz
+CF CAM ST" "VfB Stuttgart"
+2519 "K. Joseph
+ST" "Swansea City"
+2520 "21
+ E. Schetino
+CB" Uruguay
+2521 "G. Traoré
+CDM CM" "Amiens SC"
+2522 "V. Supriaha
+ST" "U.C. Sampdoria"
+2523 "C. Okoroji
+LB" "SV Sandhausen"
+2524 "H. Boussefiane
+RM LM" "Málaga CF"
+2525 "Luca Sangalli
+CM CAM RM" "Real Sociedad B"
+2526 "Víctor Gómez
+RB" "Málaga CF"
+2527 "I. Baba
+CDM CM" "RCD Mallorca"
+2528 "Á. Barreal
+RM LM" "FC Cincinnati"
+2529 "I. Diveev
+CB" "PFC CSKA Moscow"
+2530 "S. Essende
+ST" "Pau FC"
+2531 "H. Weydandt
+ST" "Hannover 96"
+2532 "W. Ditta
+CB" "Newell's Old Boys"
+2533 "C. Elva
+LM ST RW" "FC Ingolstadt 04"
+2534 "L. Binks
+CB" Bologna
+2535 "L. Connell
+CM CDM" Celtic
+2536 "Mollejo
+RM LM ST" "CD Tenerife"
+2537 "S. Sosa
+CDM CM" "Atlanta United"
+2538 "A. Perea
+CDM CM" "Orlando City Soccer Club"
+2539 "E. Breivik
+CDM CM" "Molde FK"
+2540 "Iván Jaime
+CAM ST LW" "Futebol Clube de Famalicão"
+2541 "Vítor Tormena
+CB" "SC Braga"
+2542 "Adrià Pedrosa
+LB" "RCD Espanyol de Barcelona"
+2543 "L. McCarron
+LB LWB LM" "Leeds United"
+2544 "L. Ihorst
+ST RM" "Eintracht Braunschweig"
+2545 "S. Plaza
+ST" "Independiente del Valle"
+2546 "L. Beltrán
+ST RW" "Club Atlético Colón"
+2547 "M. Weigandt
+RB" "Boca Juniors"
+2548 "Óscar Gil
+RB" "RCD Espanyol de Barcelona"
+2549 "C. Huerta
+ST LM LW" "Club Deportivo Guadalajara"
+2550 "K. Sidibé
+CDM CB" "US Quevilly Rouen Métropole"
+2551 "N. Chilvers
+CAM CM LM" "Colchester United"
+2552 "Guillamón
+CDM CB CM" "Valencia CF"
+2553 "F. Hartmann
+ST LM" "Eintracht Braunschweig"
+2554 "X. Arreaga
+CB" "Seattle Sounders FC"
+2555 "C. Kelman
+ST" Gillingham
+2556 "Álvaro Valles
+GK" "Unión Deportiva Las Palmas"
+2557 "N. Katterbach
+LB" "FC Basel 1893"
+2558 "S. Abdulhamid
+RB CDM" "Al Hilal"
+2559 "21
+ I. Chouaref
+LM LW ST" "La Berrichonne de Châteauroux"
+2560 "S. Haudum
+CDM CM" "SC Rheindorf Altach"
+2561 "A. Riccardi
+CM CAM" Roma
+2562 "R. Gotts
+CM RWB LW" Barrow
+2563 "R. Rojas
+RB CB" "River Plate"
+2564 "A. Ivačič
+GK" "Portland Timbers"
+2565 "Diogo Calila
+RWB LWB" "Belenenses SAD"
+2566 "A. Schäfer
+CM CDM" "1. FC Union Berlin"
+2567 "A. Král
+CDM CM" "West Ham United"
+2568 "K. Eissa
+GK" "Al Ain FC"
+2569 "U. Godwin-Malife
+CB" "Forest Green Rovers"
+2570 "D. Sikan
+ST" "F.C. Hansa Rostock"
+2571 "A. Jonjić
+ST RM" "FC Erzgebirge Aue"
+2572 "N. Galović
+CB" "FC Arouca"
+2573 "Fran Navarro
+ST" "Gil Vicente FC"
+2574 "A. Vigo
+RB RWB" "Club Atlético Independiente"
+2575 "Abdu Conté
+LB LWB" "ESTAC Troyes"
+2576 "A. Palaversa
+CM CDM" "KV Kortrijk"
+2577 "Júnior Brumado
+ST LW" "FC Midtjylland"
+2578 "D. Mbayo
+RM" "KV Kortrijk"
+2579 "R. Bellanova
+RB" Cagliari
+2580 "R. Crichlow
+CB" "Plymouth Argyle"
+2581 "T. Mølgaard
+RB RWB" "Vejle Boldklub"
+2582 "I. Pherai
+CAM LM" "Borussia Dortmund II"
+2583 "D. Philipp
+CF CAM" "Viktoria Köln"
+2584 "N. Lozano
+CB" "Granada CF"
+2585 "D. Mellor
+ST RM" "Manchester United"
+2586 "I. Sissoko
+ST" "Chamois Niortais Football Club"
+2587 "W. Burger
+CM CDM CB" "FC Basel 1893"
+2588 "Jesús Jiménez
+ST" "Toronto FC"
+2589 "D. Kyereh
+CAM ST RM" "FC St. Pauli"
+2590 "A. Radovanović
+CB" "KV Kortrijk"
+2591 "A. Păun
+CAM LW CM" "CFR Cluj"
+2592 "M. Harsman
+GK" "SV Meppen"
+2593 "J. Anang
+GK" "St. Patrick's Athletic"
+2594 "Jovane Cabral
+LW RW" Lazio
+2595 "Jorge Félix
+ST LM RM" "Demir Grup Sivasspor"
+2596 "H. Gong
+RM ST" "FK Haugesund"
+2597 "J. Bijol
+CB CDM" "PFC CSKA Moscow"
+2598 "A. Gojak
+CM CAM" "Dinamo Zagreb"
+2599 "F. Benković
+CB" "Udinese Calcio"
+2600 "D. Perić
+CB" "Dinamo Zagreb"
+2601 "Y. Letard
+CB" "LASK Linz"
+2602 "R. Stewart
+ST" Sunderland
+2603 "Daniel Fuzato
+GK" Roma
+2604 "G. Bushchan
+GK" "Dynamo Kyiv"
+2605 "H. Sy
+LB LWB" "Amiens SC"
+2606 "B. Lednev
+CAM RM LM" "Dynamo Kyiv"
+2607 "C. Vidal
+CB" "AC Ajaccio"
+2608 "I. Sadiq
+LW RW ST" "BK Häcken"
+2609 "V. Arveladze
+CAM ST" "Fatih Karagümrük S.K."
+2610 "S. van Hooijdonk
+ST" "SC Heerenveen"
+2611 "21
+ E. Maulana Vikri
+CAM RM" "Lechia Gdańsk"
+2612 "A. Kargbo
+ST CF" Crotone
+2613 "Vitinho
+RB RWB" "KSV Cercle Brugge"
+2614 "M. Hjulmand
+CM CDM" Lecce
+2615 "O. Urhoghide
+CB RB" "KV Oostende"
+2616 "M. Choinière
+LM CM RM" "Club de Foot Montréal"
+2617 "C. Sabaly
+LM RM" "US Quevilly Rouen Métropole"
+2618 "R. Prieto
+CDM LB" "Santos Laguna"
+2619 "T. Chorý
+ST" "FC Viktoria Plzeň"
+2620 "P. Musa
+ST" "Boavista FC"
+2621 "J. Segre
+CM" "Torino F.C."
+2622 "K. Sowah
+RW CAM" "AZ Alkmaar"
+2623 "N. Hahn
+CDM CM" "FK Austria Wien"
+2624 "Martín
+CB CDM" "Villarreal CF"
+2625 "Javi Rubio
+RB RM" "CD Leganés"
+2626 "J. Steiger
+CM" "RZ Pellets Wolfsberger AC"
+2627 "L. Schöfl
+CM" "RZ Pellets Wolfsberger AC"
+2628 "M. Ruiz
+CM" "Club Tijuana"
+2629 "G. Ondoua
+CDM" "Hannover 96"
+2630 "M. Loum
+CDM CM" "Deportivo Alavés"
+2631 "Jiang Shenglong
+CB CDM CM" "Shanghai Shenhua FC"
+2632 "Lee Dong Kyung
+CM CAM" "FC Schalke 04"
+2633 "F. Becker
+CM CDM" "FC St. Pauli"
+2634 "M. Awoudja
+CB LB" "WSG Tirol"
+2635 "M. Grabowski
+LB LM" "Bruk-Bet Termalica Nieciecza"
+2636 "Stoichkov
+ST LM CAM" "SD Eibar"
+2637 "20
+ A. Camara
+CB" "KV Kortrijk"
+2638 "Gonçalo Cardoso
+CB" "Real Betis Balompié"
+2639 "A. Stephens
+ST" "9 de Octubre"
+2640 "André Clóvis
+ST" "Estoril Praia"
+2641 "C. Wright
+CM" "Cheltenham Town"
+2642 "J. Russell
+CM" "Huddersfield Town"
+2643 "André Silva
+ST LW" "FC Arouca"
+2644 "S. van den Berg
+CB RWB RB" "Preston North End"
+2645 "J. Kitolano
+CM" "Odds BK"
+2646 "B. Bye
+RB" "New England Revolution"
+2647 "R. Faivre
+RM CAM" "Olympique Lyonnais"
+2648 "E. Chilufya
+RW LW" "FC Midtjylland"
+2649 "C. Doucouré
+CM CDM" "Racing Club de Lens"
+2650 "J. Beyer
+CB RB" "Borussia Mönchengladbach"
+2651 "S. Bornauw
+CB" "VfL Wolfsburg"
+2652 "H. Bwana
+LM" "Nashville SC"
+2653 "T. John-Jules
+ST" "Sheffield Wednesday"
+2654 "O. Otasowie
+CDM CB CM" "Club Brugge KV"
+2655 "A. Aremu
+CDM CM" "FC St. Pauli"
+2656 "N. Ferguson
+LB RB" "Crystal Palace"
+2657 "I. Louza
+CM CDM" Watford
+2658 "F. Dahmen
+GK" "1. FSV Mainz 05"
+2659 "L. Balerdi
+CB" "Olympique de Marseille"
+2660 "B. Reynolds
+RB RM" "KV Kortrijk"
+2661 "J. Clarke
+RW RM" Sunderland
+2662 "K. Nakamura
+LM LW" "LASK Linz"
+2663 "M. Cholewiak
+LM LB" "Górnik Zabrze"
+2664 "M. Kovář
+GK" "Burton Albion"
+2665 "N. Boxall
+CB CDM" "New Zealand"
+2666 "C. Morton
+ST LW" "Peterborough United"
+2667 "K. Sessa
+CM RM" "1. FC Heidenheim 1846"
+2668 "Klauss
+ST" "Sint-Truidense VV"
+2669 "Álex Collado
+RM ST CM" "Granada CF"
+2670 "A. Marqués
+ST" "CD Mirandés"
+2671 "Cui Lin
+RB LB RM" "Hebei FC"
+2672 "Xie Weijun
+ST RM" "Tianjin Jinmen Tiger FC"
+2673 "A. Benedyczak
+ST" Parma
+2674 "Y. Goke
+CM RM ST" "Vissel Kobe"
+2675 "E. Mwepu
+CM CAM CDM" "Brighton & Hove Albion"
+2676 "D. Musovski
+ST LW" "Los Angeles FC"
+2677 "Dani Gómez
+ST" "Levante Unión Deportiva"
+2678 "D. Levitt
+CDM CM" "Dundee United"
+2679 "B. Mumba
+RWB LWB RB" "Peterborough United"
+2680 "André Vidigal
+LM RM" "Clube Sport Marítimo"
+2681 "E. Aiwu
+CB CDM" "SK Rapid Wien"
+2682 "L. Perrin
+CB" "RC Strasbourg Alsace"
+2683 "G. Corbo
+CB" "Club de Foot Montréal"
+2684 "R. Ljubicic
+CDM CM" "SK Rapid Wien"
+2685 "M. Müldür
+RB CB" "U.S. Sassuolo Calcio"
+2686 "A. Gholizadeh
+RM CAM LM" "Royal Charleroi S.C."
+2687 "Juan Cruz
+LM CAM RM" "Real Betis Balompié"
+2688 "R. Giles
+LWB LW" "Blackburn Rovers"
+2689 "D. Burgzorg
+LM LW ST" "1. FSV Mainz 05"
+2690 "Y. Adli
+CM CAM" "FC Girondins de Bordeaux"
+2691 "Borja Garcés
+ST" "CD Leganés"
+2692 "C. McCowatt
+LM LW ST" "New Zealand"
+2693 "J. Anthony
+LW ST RW" "AFC Bournemouth"
+2694 "K. Scherpen
+GK" "KV Oostende"
+2695 "W. Alarcón
+CM CDM" "Unión La Calera"
+2696 "Allan Sousa
+RM" "Vejle Boldklub"
+2697 "M. Longstaff
+CM" "Mansfield Town"
+2698 "L. Ilić
+CAM CM" "ESTAC Troyes"
+2699 "B. Lyons-Foster
+CB CDM" "Tottenham Hotspur"
+2700 "N. Maraš
+CB" "Rayo Vallecano"
+2701 "S. Benda
+GK" "Peterborough United"
+2702 "Z. Vanheusden
+CB" Genoa
+2703 "G. McEachran
+CM CDM CAM" Chelsea
+2704 "L. Vera
+CM CAM" "Club Atlético Huracán"
+2705 "W. Geubbels
+ST LW" "FC Nantes"
+2706 "S. Sadzoute
+LB LM RM" "Nîmes Olympique"
+2707 "21
+ Yaki Yen
+CB CDM CM" "Qingdao FC"
+2708 "Yang Liyu
+RM RW ST" "Guangzhou FC"
+2709 "T. Holmes
+CB RB" Reading
+2710 "M. Bird
+CDM CM" "Derby County"
+2711 "Raúl Sánchez
+LM LB LW" "UD Ibiza"
+2712 "M. Jenz
+CB" "FC Lorient"
+2713 "C. Dagba
+RB" "Paris Saint-Germain"
+2714 "J. Tucker
+CB" Gillingham
+2715 "J. Wind
+ST CF" "VfL Wolfsburg"
+2716 "Igor
+CB LB" Fiorentina
+2717 "Toni Moya
+CM CDM" "Deportivo Alavés"
+2718 "P. Pfeiffer
+CB" "SV Darmstadt 98"
+2719 "Yao Daogang
+CB" "Hebei FC"
+2720 "Rogério
+LB" "U.S. Sassuolo Calcio"
+2721 "J. Lahne
+ST RM" "Amiens SC"
+2722 "V. Gyökeres
+ST LW" "Coventry City"
+2723 "B. Barišić
+LB" "Rangers FC"
+2724 "Manu Vallejo
+ST LM CAM" "Deportivo Alavés"
+2725 "Y. Bárcenas
+LM RM ST" "CD Leganés"
+2726 "Y. Bisseck
+CB" "Aarhus GF"
+2727 "M. Quina
+CB LB" Ayacucho
+2728 "C. Akas
+CB LWB" "Belenenses SAD"
+2729 "J. El Yamiq
+CB" "Real Valladolid CF"
+2730 "M. Taremi
+ST CF" "FC Porto"
+2731 "M. Bayo
+ST" "Clermont Foot 63"
+2732 "Manu Morlanes
+CDM CM" "RCD Espanyol de Barcelona"
+2733 "N. Atkinson
+RB RWB" "Heart of Midlothian"
+2734 "R. Leak
+CB" "Burton Albion"
+2735 "F. Gattoni
+CB" "San Lorenzo de Almagro"
+2736 "A. Harroui
+CDM CM RM" "U.S. Sassuolo Calcio"
+2737 "R. Slater
+CM CDM" "Hull City"
+2738 "Tiago Sá
+GK" "SC Braga"
+2739 "L. Dietz
+CB CDM" "FC Würzburger Kickers"
+2740 "K. Mavropanos
+CB RB" "VfB Stuttgart"
+2741 "G. Mainero
+RM ST RW" "Club Atlético Sarmiento"
+2742 "D. Hashioka
+RWB RB RM" "Sint-Truidense VV"
+2743 "M. Ashimeru
+CM CAM CDM" "RSC Anderlecht"
+2744 "K. Bistrović
+CDM CM" "Fatih Karagümrük S.K."
+2745 "Carlos Miguel
+GK" "New York Red Bulls"
+2746 "O. Solbakken
+RW LW" "FK Bodø/Glimt"
+2747 "Y. Fofana
+GK" "Le Havre AC"
+2748 "C. Baumgartner
+CAM LM CM" "TSG Hoffenheim"
+2749 "T. Rönning
+GK" "IF Elfsborg"
+2750 "S. Cibois
+GK" "Stade Brestois 29"
+2751 "J. Campuzano
+CDM CM" "Boca Juniors"
+2752 "C. Hazard
+GK" "HJK Helsinki"
+2753 "G. Soto
+RB" "Club Atlético Huracán"
+2754 "G. Fuentes
+CAM CM" "San Jose Earthquakes"
+2755 "Jorge Fernandes
+CB" "Vitória de Guimarães"
+2756 "M. Barrow
+CAM CF" Bologna
+2757 "L. Ashby-Hammond
+GK" Fulham
+2758 "André Clóvis
+ST" "Estoril Praia"
+2759 "C. Wright
+CM" "Cheltenham Town"
+2760 "S. Härtel
+LB LWB LM" "FC Erzgebirge Aue"
+2761 "Galeno
+LM" "FC Porto"
+2762 "F. Onyeka
+CDM CM" Brentford
+2763 "T. Handwerker
+LB" "1. FC Nürnberg"
+2764 "Glauder
+LB CB" "SD Eibar"
+2765 "K. Fila
+RB RWB" "RC Strasbourg Alsace"
+2766 "Ricardo Fernandes
+GK" "Santa Clara"
+2767 "K. Taylor
+CM CDM" "Exeter City"
+2768 "S. Puttkammer
+CB" "SV Meppen"
+2769 "S. Żurkowski
+CM CF" Empoli
+2770 "J. Klinsmann
+GK" "LA Galaxy"
+2771 "M. Cuisance
+CM CAM CDM" "Venezia FC"
+2772 "S. Córdova
+ST" "Real Salt Lake"
+2773 "B. Acosta
+CM CDM" "Colorado Rapids"
+2774 "21
+ T. Allarakhia
+RM" "Crawley Town"
+2775 "K. Galanopoulos
+CM CDM" "AEK Athens"
+2776 "S. Guidotti
+CM" "FC Lugano"
+2777 "N. Guerra
+ST" "Deportivo Ñublense"
+2778 "E. Shomurodov
+ST LW RW" Roma
+2779 "T. Vancooten
+CB" Stevenage
+2780 "A. Papadopoulos
+CB CDM" "Borussia Dortmund II"
+2781 "S. Plavšić
+LM CAM LB" "SK Slavia Praha"
+2782 "21
+ João Victor
+LM CF" "VfL Wolfsburg"
+2783 "T. Augello
+LB" "U.C. Sampdoria"
+2784 "K. Michalak
+RM LM" "İttifak Holding Konyaspor"
+2785 "A. Jakubech
+GK" "LOSC Lille"
+2786 "M. Nzola
+ST RW" Spezia
+2787 "F. Gorriarán
+CDM CM" "Santos Laguna"
+2788 "E. Hamilton
+CM" "Accrington Stanley"
+2789 "G. Bouzoukis
+CAM RM CM" "Panathinaikos FC"
+2790 "S. Sissoko
+RB LB" "Stade de Reims"
+2791 "C. Lakin
+CM CDM" "Burton Albion"
+2792 "Miguel
+ST RM" "Deportivo Alavés"
+2793 "D. Yearwood
+CM CDM" "New York Red Bulls"
+2794 "C. Metcalfe
+CM CDM" "Melbourne City FC"
+2795 "E. Vignato
+CAM" Bologna
+2796 "R. Yaremchuk
+ST" "SL Benfica"
+2797 "L. Sequeira
+RM ST LM" "Gallos Blancos de Querétaro"
+2798 "M. Ojeda
+RM LM" "Godoy Cruz"
+2799 "Y. Atal
+RB RM" "OGC Nice"
+2800 "R. Norrington-Davies
+LWB LB" "Sheffield United"
+2801 "H. Traorè
+CAM CM" "U.S. Sassuolo Calcio"
+2802 "L. Amarilla
+ST" "Minnesota United FC"
+2803 "Leonardo Rocha
+ST" "KAS Eupen"
+2804 "C. Coventry
+CM" "Milton Keynes Dons"
+2805 "A. Scully
+LW RW" "Lincoln City"
+2806 "A. Alese
+CB LB" "West Ham United"
+2807 "Unai Núñez
+CB" "Athletic Club de Bilbao"
+2808 "G. Johnston
+CB" "Bolton Wanderers"
+2809 "21
+ E. Eze
+ST" "SK Sturm Graz"
+2810 "D. Ljubicic
+RM CDM" "1. FC Köln"
+2811 "L. Millar
+LM LW" "FC Basel 1893"
+2812 "Junior Messias
+RW CAM RM" "AC Milan"
+2813 "M. Melluso
+LB LWB" "Gimnasia y Esgrima La Plata"
+2814 "M. Saracchi
+LB LWB" "Levante Unión Deportiva"
+2815 "M. Cooper
+GK" "Plymouth Argyle"
+2816 "B. Berríos
+CM CDM RB" "CD Everton de Viña del Mar"
+2817 "21
+ J. Ardaiz
+ST" "FC Lugano"
+2818 "F. Garcés
+CB" "Club Atlético Colón"
+2819 "K. Bennetts
+LM RM" "Borussia Mönchengladbach"
+2820 "B. Baningime
+CM CDM" "Heart of Midlothian"
+2821 "M. Richter
+RM CAM LM" "Hertha BSC"
+2822 "E. Löwen
+CM CAM CDM" "VfL Bochum 1848"
+2823 "D. Happe
+CB" "Leyton Orient"
+2824 "C. Spinelli
+ST" "Club Atlético Lanús"
+2825 "M. Bułka
+GK" "OGC Nice"
+2826 "L. McCormick
+CAM CM" "AFC Wimbledon"
+2827 "F. Beijmo
+RB" "Malmö FF"
+2828 "21
+ Marcão
+ST" "Hebei FC"
+2829 "J. Marković
+ST" "Universitatea Craiova"
+2830 "M. Koszta
+ST" "Ulsan Hyundai FC"
+2831 "M. Coulibaly
+CM" "US Salernitana 1919"
+2832 "J. Rankin-Costello
+RWB RB LB" "Blackburn Rovers"
+2833 "K. Tagawa
+RW LW ST" "Santa Clara"
+2834 "21
+ Wendel
+CM" "Sporting CP"
+2835 "L. Wales
+RM CAM LM" "Western United FC"
+2836 "M. Pongračić
+CB" "Borussia Dortmund"
+2837 "B. Wilmot
+CB RB" "Stoke City"
+2838 "E. Vertainen
+ST CAM LW" "St. Johnstone FC"
+2839 "R. Brewster
+ST" "Sheffield United"
+2840 "T. Boss
+GK" "SV Wehen Wiesbaden"
+2841 "I. Chair
+CAM" "Queens Park Rangers"
+2842 "A. Oteh
+ST" "Crawley Town"
+2843 "L. Østigård
+CB" Genoa
+2844 "K. Tani
+GK" "Shonan Bellmare"
+2845 "R. Vargas
+LM RM" "FC Augsburg"
+2846 "M. Heyer
+RB CDM CB" "Hamburger SV"
+2847 "S. Vasiliadis
+CM CDM" "DSC Arminia Bielefeld"
+2848 "K. Broll
+GK" "SG Dynamo Dresden"
+2849 "O. Käuper
+CDM CM" "SV Meppen"
+2850 "T. Baumgart
+RM LM CM" "FC Erzgebirge Aue"
+2851 "20
+ F. Vietto
+ST" Patronato
+2852 "Pedro Sá
+CDM CM" "Portimonense SC"
+2853 "Bruno Tabata
+RW LW" "Sporting CP"
+2854 "Matheus Aiás
+ST" "Orlando City Soccer Club"
+2855 "M. Blažič
+CB" "Ferencvárosi TC"
+2856 "20
+ F. Dietz
+ST" "SpVgg Unterhaching"
+2857 "R. Harper
+CDM CM" "Crewe Alexandra"
+2858 "I. Niane
+ST LW" "FC Metz"
+2859 "E. Kılınç
+RM CM LM" "Galatasaray SK"
+2860 "A. Nurudeen
+GK" "KAS Eupen"
+2861 "20
+ D. Thøgersen
+LB" "Aarhus GF"
+2862 "A. Karazor
+CDM CB" "VfB Stuttgart"
+2863 "Jeong Woo Yeong
+CF CAM" "Sport-Club Freiburg"
+2864 "M. Gómez
+ST" "Valencia CF"
+2865 "K. Nwakali
+CM CDM CAM" "SD Huesca"
+2866 "Oriol Busquets
+CDM CB" "Clermont Foot 63"
+2867 "B. Özer
+GK" "Fenerbahçe SK"
+2868 "C. Zimmermann
+CB" "Norwich City"
+2869 "N. Bakboord
+RB" "Heracles Almelo"
+2870 "A. Matusiwa
+CDM CM" "Stade de Reims"
+2871 "P. Struijk
+CB CDM LB" "Leeds United"
+2872 "K. Sierhuis
+ST" "Heracles Almelo"
+2873 "J. González
+CM CDM" "Gallos Blancos de Querétaro"
+2874 "S. Härtel
+LB LWB LM" "FC Erzgebirge Aue"
+2875 "Galeno
+LM" "FC Porto"
+2876 "F. Onyeka
+CDM CM" Brentford
+2877 "T. Handwerker
+LB" "1. FC Nürnberg"
+2878 "Glauder
+LB CB" "SD Eibar"
+2879 "K. Fila
+RB RWB" "RC Strasbourg Alsace"
+2880 "E. Huth
+ST" "Hallescher FC"
+2881 "Guilherme Schettine
+ST" "FC Vizela"
+2882 "C. Stengs
+RM CAM" "OGC Nice"
+2883 "G. Rojas
+LB" "San Lorenzo de Almagro"
+2884 "17
+ D. Sánchez
+ST" Cortuluá
+2885 "P. Klimala
+ST" "New York Red Bulls"
+2886 "J. Dakir
+GK" "Randers FC"
+2887 "F. Medina
+CB" "Racing Club de Lens"
+2888 "H. Maïga
+CDM CM" "FC Metz"
+2889 "Y. Maleh
+CM" Fiorentina
+2890 "M. Aebischer
+CM" Bologna
+2891 "18
+ Sergio Arribas
+CAM RM" "CD Leganés"
+2892 "M. Wilks
+RM RW ST" "Hull City"
+2893 "A. Chalá
+LWB LB LM" "Club Atlas"
+2894 "Deng Hanwen
+RB LB" "Guangzhou FC"
+2895 "L. Itter
+LB CB" "SpVgg Greuther Fürth"
+2896 "K. Ford
+CB RB" "Sporting Kansas City"
+2897 "T. Guidara
+RB RWB" "Vélez Sarsfield"
+2898 "S. Longstaff
+CM" "Newcastle United"
+2899 "M. Rojas
+LM CM RM" "Racing Club"
+2900 "N. Bishop
+GK" "Mansfield Town"
+2901 "A. Maynard-Brewer
+GK" "Ross County FC"
+2902 "L. Abubakar
+CB" "Colorado Rapids"
+2903 "J. Nerwinski
+RB CB" "Vancouver Whitecaps FC"
+2904 "K. Denkey
+ST" "KSV Cercle Brugge"
+2905 "J. Ebobisse
+ST RM" "San Jose Earthquakes"
+2906 "J. Yueill
+CDM CB CM" "San Jose Earthquakes"
+2907 "F. de Vries
+LB CB" "New Zealand"
+2908 "D. Mitchell
+LWB RM" Hibernian
+2909 "G. Kastanos
+CAM CM" "US Salernitana 1919"
+2910 "C. Durkin
+CM CDM" "D.C. United"
+2911 "V. Kravets
+LB RWB" "Real Sporting de Gijón"
+2912 "G. Miura
+CB" "Gamba Osaka"
+2913 "O. Gnjatić
+CDM CM CB" "FC Erzgebirge Aue"
+2914 "A. Sabiri
+CM LM CAM" "U.C. Sampdoria"
+2915 "Jorge Cuenca
+CB" "Getafe CF"
+2916 "P. Förster
+CAM CF CM" "VfB Stuttgart"
+2917 "J. Bolingi
+ST LM" "Royal Antwerp FC"
+2918 "C. Luyindama
+CB" "Al Taawoun"
+2919 "K. Zachariassen
+CDM CAM" "Ferencvárosi TC"
+2920 "F. Delli Carri
+CB" "US Salernitana 1919"
+2921 "Y. Neyou
+CDM CM" "AS Saint-Étienne"
+2922 "D. Muñoz
+RB CB CDM" "KRC Genk"
+2923 "A. Hrustić
+CM CDM RM" "Eintracht Frankfurt"
+2924 "S. Bueno
+CB" "Girona FC"
+2925 "T. Kehinde
+RM LM" "Randers FC"
+2926 "K. Matsubara
+LB LWB" "Sint-Truidense VV"
+2927 "N. Domínguez
+CM CDM" Bologna
+2928 "H. Abe
+LW" "FC Barcelona"
+2929 "L. Banks
+RB LB" "Sligo Rovers"
+2930 "J. Holsgrove
+CM RM LM" "RC Celta de Vigo"
+2931 "T. Frost
+LM RM" "Crawley Town"
+2932 "K. Klaesson
+GK" "Leeds United"
+2933 "F. Niță
+GK" "AC Sparta Praha"
+2934 "J. Wehrmann
+CDM CM" "FC Luzern"
+2935 "C. O'Hare
+CAM LW RW" "Coventry City"
+2936 "A. Lewis
+CM" "Plymouth Argyle"
+2937 "B. Baningime
+CM CDM" "Heart of Midlothian"
+2938 "M. Richter
+RM CAM LM" "Hertha BSC"
+2939 "E. Löwen
+CM CAM CDM" "VfL Bochum 1848"
+2940 "João Talocha
+LB" "Gil Vicente FC"
+2941 "C. Pring
+LB LWB CB" "Bristol City"
+2942 "21
+ D. Terans
+CF ST CAM" "Club Atlético Peñarol"
+2943 "T. McIntyre
+CB LB" Reading
+2944 "W. Faes
+CB" "Stade de Reims"
+2945 "D. Johnson
+CB" "Fleetwood Town"
+2946 "I. Vujica
+LB LWB CB" "Western United FC"
+2947 "21
+ L. Ndukwu
+CAM" "Leicester City"
+2948 "Luis Pérez
+RB RWB" "Real Valladolid CF"
+2949 "S. Jurado
+GK" "Cruz Azul"
+2950 "T. Ohgihara
+CDM CM" "Vissel Kobe"
+2951 "F. Kadioglu
+LM LB RM" "Fenerbahçe SK"
+2952 "J. Dunne
+CB" "Queens Park Rangers"
+2953 "J. Maja
+ST" "Stoke City"
+2954 "C. Acevedo
+GK" "Santos Laguna"
+2955 "G. Vrioni
+ST" "New England Revolution"
+2956 "R. Jendrusch
+GK" "FC Ingolstadt 04"
+2957 "I. Sarr
+RM RW" Watford
+2958 "D. O'Shea
+CB RB" "West Bromwich Albion"
+2959 "B. Ozegovic
+GK" "WSG Tirol"
+2960 "D. Samassékou
+CDM CM" "TSG Hoffenheim"
+2961 "D. Jones
+CDM CM" "Houston Dynamo"
+2962 "J. Bellegarde
+CM CDM" "RC Strasbourg Alsace"
+2963 "Aleix Febas
+CM CAM CDM" "Málaga CF"
+2964 "D. Geiger
+CM" "TSG Hoffenheim"
+2965 "M. Cabit
+LB" "FC Metz"
+2966 "G. Makouta
+CM CAM" "Boavista FC"
+2967 "S. Babić
+CB" "Unión Deportiva Almería"
+2968 "G. Konan
+LB LWB" "Stade de Reims"
+2969 "M. Madsen
+CM CDM CAM" "SK Slavia Praha"
+2970 "O. Dale
+RM RW" Blackpool
+2971 "H. Pickering
+LWB LB" "Blackburn Rovers"
+2972 "S. Sidler
+RB LB" "FC Luzern"
+2973 "T. Alarcón
+CDM CB CM" "Cádiz CF"
+2974 "20
+ M. Varnier
+CB" Pisa
+2975 "Pol Lirola
+RB RM" "Olympique de Marseille"
+2976 "I. Cardona
+ST" "Stade Brestois 29"
+2977 "21
+ M. Zaracho
+CM CAM RM" "Racing Club"
+2978 "F. Cassata
+CM" Parma
+2979 "Mario González
+ST RM" "CD Tenerife"
+2980 "N. Moumi Ngamaleu
+LM RM" "BSC Young Boys"
+2981 "Fran Beltrán
+CDM CM" "RC Celta de Vigo"
+2982 "L. García
+GK" "SD Ponferradina"
+2983 "Javi Díaz
+GK" "Sevilla FC"
+2984 "Martin Cordeia
+CAM CM" Internacional
+2985 "D. Hume
+LWB LB" Portsmouth
+2986 "D. Wayar
+CDM CM RB" "Club The Strongest"
+2987 "O. Ejaria
+LM CM CAM" Reading
+2988 "S. Hart
+LB LWB CB" "Oldham Athletic"
+2989 "G. Maggiore
+CM" Spezia
+2990 "A. Plizzari
+GK" Lecce
+2991 "J. Garrick
+ST" "Plymouth Argyle"
+2992 "C. Michelin
+RB RWB" "AEK Athens"
+2993 "F. Götze
+CDM CB" "1. FC Kaiserslautern"
+2994 "M. Bundu
+RW" "Aarhus GF"
+2995 "A. Claude-Maurice
+CM LM LW" "OGC Nice"
+2996 "D. Keillor-Dunn
+ST CAM LW" "Oldham Athletic"
+2997 "Álvaro
+GK" Brentford
+2998 "L. O'Brien
+CM CDM LB" "Huddersfield Town"
+2999 "E. Huth
+ST" "Hallescher FC"
+3000 "A. Campbell
+CM CDM" "Luton Town"
+3001 "D. Udoh
+ST" "Shrewsbury Town"
+3002 "Lincoln
+CAM CM" "Santa Clara"
+3003 "20
+ Pedro
+ST" Fiorentina
+3004 "T. Odusina
+CB" "Hartlepool United"
+3005 "M. Doucouré
+CB CDM" "Borussia Mönchengladbach"
+3006 "Y. Méïté
+ST RM" Reading
+3007 "D. Okereke
+ST RW LW" "Venezia FC"
+3008 "R. Bormuth
+CB" "Karlsruher SC"
+3009 "F. Bjørkan
+LB" "Hertha BSC"
+3010 "C. Cuesta
+CB" "KRC Genk"
+3011 "N. Robertha
+ST LW" "D.C. United"
+3012 "M. Fall
+RW RM CAM" "Kasimpaşa SK"
+3013 "Léo Duarte
+CB" "İstanbul Başakşehir FK"
+3014 "Ronaldo Vieira
+CDM CM" "U.C. Sampdoria"
+3015 "C. Calderón
+LB LM" "Club Deportivo Guadalajara"
+3016 "S. Field
+CM CDM" "Queens Park Rangers"
+3017 "S. Villa
+LW RW" "Boca Juniors"
+3018 "A. Castro-Montes
+RM LM RB" "KAA Gent"
+3019 "Vágner Corraldo
+LB" "Club Athletico Paranaense"
+3020 "Rômulo Calsede
+ST" "São Paulo"
+3021 "A. Ralston
+RB" Celtic
+3022 "G. Maroni
+CAM LW" "Club Atlas"
+3023 "R. Sallai
+RM CF" "Sport-Club Freiburg"
+3024 "R. McCrorie
+CB CM CDM" Aberdeen
+3025 "M. Platt
+CB" Barrow
+3026 "C. Rizzuto
+RB RM LB" "F.C. Hansa Rostock"
+3027 "L. Samson
+CDM CB" "Hallescher FC"
+3028 "L. Väisänen
+CB" "IF Elfsborg"
+3029 "N. Alho
+RB RWB RM" Finland
+3030 "21
+ V. Thill
+RW" "CD Nacional"
+3031 "İ. Eğribayat
+GK" "Göztepe SK"
+3032 "J. Eggestein
+ST RM" "Royal Antwerp FC"
+3033 "P. Kurzweg
+LB RB LM" "FC Würzburger Kickers"
+3034 "E. Reynoso
+CAM LM" "Minnesota United FC"
+3035 "Evander
+CM CAM" "FC Midtjylland"
+3036 "Diogo Leite
+CB" "SC Braga"
+3037 "J. Rodríguez
+LM LW RM" "Real Sporting de Gijón"
+3038 "V. Rosier
+RB" "Beşiktaş JK"
+3039 "M. El Hankouri
+RM LM" "FC Groningen"
+3040 "H. Barnes
+LM LW" "Leicester City"
+3041 "A. Muskwe
+ST" "Luton Town"
+3042 "Luan Peres
+LB CB" "Olympique de Marseille"
+3043 "A. Bernede
+CDM CM" "FC Red Bull Salzburg"
+3044 "18
+ G. Karačić
+GK" "SV Sandhausen"
+3045 "M. Leitsch
+CB" "VfL Bochum 1848"
+3046 "G. Cox
+LB LWB" "Fortuna Sittard"
+3047 "H. Mendes
+CB RWB RB" "FC Lorient"
+3048 "E. Bohinen
+CM CDM" "US Salernitana 1919"
+3049 "D. Vanzeir
+ST" "Royale Union Saint-Gilloise"
+3050 "M. D'Arpino
+CDM CM" "KV Oostende"
+3051 "A. Diakhaby
+RM RW ST" "Amiens SC"
+3052 "João Talocha
+LB" "Gil Vicente FC"
+3053 "C. Pring
+LB LWB CB" "Bristol City"
+3054 "21
+ D. Terans
+CF ST CAM" "Club Atlético Peñarol"
+3055 "T. McIntyre
+CB LB" Reading
+3056 "W. Faes
+CB" "Stade de Reims"
+3057 "D. Johnson
+CB" "Fleetwood Town"
+3058 "I. Vujica
+LB LWB CB" "Western United FC"
+3059 "21
+ L. Ndukwu
+CAM" "Leicester City"
